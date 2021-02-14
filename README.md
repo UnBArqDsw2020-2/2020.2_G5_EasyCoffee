@@ -1,28 +1,21 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2020.1_G1_ProjetoPandora*. !!** 
- 
- (Apague essa seção)
-
-# Nome do Projeto
+# Easy Coffee
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 05<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0015311  |  Danilo Domingo Vitoriano Silva  |
+| 17/0011020  |  Gabrielle Ribeiro Gomes |
+| 17/0034992  |  Gustavo Afonso Pires Severo |
+| 16/0124751  |  Iago Theóphilo de Lima |
+| 16/0125910  |  Itallo Gravina |
+| 18/0023411  |  Maicon Lucas Mares de Souza |
+| 15/0045182  |  Rafael Ribeiro de Oliveira |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem vender diversos produtos e os seus clientes podem realizar a compra. 
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
