@@ -1,5 +1,7 @@
 # Storyboard
 
+Storyboard é um organizador gráfico, utilizado como uma especie de roteiro desenhado para auxiliar a indetificação de requisitos, muito parecido com uma história em quadrinho.
+
 Durante uma reunião de grupo no meets, foi feito a Desing Sprint. Durante a etapa de Decision da Desing Sprint foi utilizado a ferramenta [Storyboard That](https://www.storyboardthat.com) foi criado dois storyboards, sendo o primério sobre o vendedor e o segundo sobre o cliente.
 
 ## Storyboard Vendedor
