@@ -15,7 +15,7 @@
 | 15/0045182  |  Rafael Ribeiro de Oliveira |
 
 ## Sobre 
-O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem vender diversos produtos e os seus clientes podem realizar a compra. 
+O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem vender diversos produtos e os seus clientes podem realizar compras sem se deslocar até a cafeteria. Tendo em vista o âmbito de Transformação Digital, nossa solução visará resolver o problema de flexibilidade no acesso aos serviços/produtos da cafeteria.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
