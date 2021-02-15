@@ -11,8 +11,10 @@ Durante uma reunião de grupo no meets, foi feito a Desing Sprint. Durante a eta
 ![alt text](../../img/StoryBoard_Cliente.png)
 
 
-# Referência
+## Referência Bibliográficas
  - STORYBOARD. In: WIKIPÉDIA: a enciclopédia livre. Wikimedia, 2021. Disponível em: https://pt.wikipedia.org/wiki/Storyboard. Acesso em: 13 fev. 2021.
+
+## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
