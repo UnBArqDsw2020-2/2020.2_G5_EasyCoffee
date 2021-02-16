@@ -8,6 +8,7 @@
             - [Brainstorm](/entrega1/desing_sprint/brainstorm.md)
         	- [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md)
         	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
+            - [Protótipo](entrega1/prototipo.md)
         - [5W2H](/entrega1/5w2h.md)
         - [Léxico](/entrega1/lexico.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
