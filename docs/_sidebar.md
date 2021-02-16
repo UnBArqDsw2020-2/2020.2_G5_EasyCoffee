@@ -9,6 +9,7 @@
         	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
         - [5W2H](/entrega1/5w2h.md)
         - [Léxico](/entrega1/lexico.md)
+        - [Documento de Visão](entrega1/documento_de_visao.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
