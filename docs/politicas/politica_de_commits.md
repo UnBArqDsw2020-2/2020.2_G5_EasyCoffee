@@ -6,7 +6,7 @@
 Exemplo:
 
 ```bash
-Adiciona documento de visão
+ #31(id issue) Adiciona documento de visão
 ```   
 
 - Os _commits_ que possuírem mais de um autor deverão ser escritos utilizando a co-autoria, que segue o seguinte padrão: é escrita a mensagem do _commit_, pulam-se **duas** linhas e depois são descritas as co-autorias.    
@@ -23,7 +23,9 @@ Co-authored-By: Gabrielle Ribeiro <gabrielleribeiro2010@gmail.com>
 
 ## Versionamento
 
+
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |15/02/2021|1.0|Adiciona políticas de commits|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+15/02/2021|1.1|Mudança na políticas de commits|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 
