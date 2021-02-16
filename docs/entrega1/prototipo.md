@@ -9,6 +9,13 @@ Caso nosso projeto estivesse em desenvolvimento junto a um cliente real, esse pr
 
 ## 1. Versão 1.0 - Protótipo
 
+Protótipo disponível em: https://trabalhofga123.wixsite.com/easycoffee
+
+Autores: [Danilo Domingo](https://github.com/danilow200) e [Gustavo Afonso](https://github.com/GustavoAPS)
+
+### 1.2. Telas protótipo
+
+![alt text](../img/LogoEasyCoffeeV1.2SemFundo.png)
 
 ## Referência Bibliográficas
 
