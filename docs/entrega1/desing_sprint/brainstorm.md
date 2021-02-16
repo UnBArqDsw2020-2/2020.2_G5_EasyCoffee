@@ -17,3 +17,8 @@ Para o nosso brainstorm os membros do grupo se reuniram em uma videochamada para
 
 - BRAINSTORMING. In: WIKIPÉDIA: a enciclopédia livre. Wikimedia, 2021. Disponível em: https://pt.wikipedia.org/wiki/Brainstorming. Acesso em: 16 fev. 2021.
 
+## Versionamento
+
+| Data | Versão | Descrição | Autor(es) |
+|------|------|------|------|
+|15/02/2021|1.0|Adicionando brainstorm|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
