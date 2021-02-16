@@ -5,6 +5,7 @@
     - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas
 
         - [Design Sprint](/entrega1/desing_sprint/design_sprint.md)
+            - [Brainstorm](/entrega1/desing_sprint/brainstorm.md)
         	- [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md)
         	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
             - [Protótipo](entrega1/prototipo.md)
