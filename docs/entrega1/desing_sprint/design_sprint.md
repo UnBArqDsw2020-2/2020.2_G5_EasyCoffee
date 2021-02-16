@@ -18,3 +18,8 @@
 ## Referências Bibliográficas
 
 KNAPP, Jake. SPRINT - O Método usado no google para testar e aplicar novas ideas em apenas cinco dias. 2016. 
+
+## Versionamento
+| Data | Versão | Descrição | Autor(es) |
+|------|------|------|------|
+|15/02/2021|1.0|Adiciona descrição do Design Sprint|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
