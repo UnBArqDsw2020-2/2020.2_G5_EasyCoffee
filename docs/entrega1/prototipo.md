@@ -11,11 +11,28 @@ Caso nosso projeto estivesse em desenvolvimento junto a um cliente real, esse pr
 
 Protótipo disponível em: https://trabalhofga123.wixsite.com/easycoffee
 
-Autores: [Danilo Domingo](https://github.com/danilow200) e [Gustavo Afonso](https://github.com/GustavoAPS)
-
 ### 1.2. Telas protótipo
 
-![alt text](../img/LogoEasyCoffeeV1.2SemFundo.png)
+![alt text](../img/ScreenshotPrototipo1.png)
+
+
+
+![alt text](../img/ScreenshotPrototipo2.png)
+
+
+
+![alt text](../img/ScreenshotPrototipo3.png)
+
+
+
+![alt text](../img/ScreenshotPrototipo4.png)
+
+
+
+![alt text](../img/ScreenshotPrototipo5.png)
+
+
+
 
 ## Referência Bibliográficas
 
@@ -25,4 +42,5 @@ MACEDO, Gabriel. 10 heurísticas de Nilsen para o design de interface. 2 de agos
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|16/02/2021|1.0|Adicionando primeira versão do protótipo|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|16/02/2021|1.0|Adicionando primeira versão do protótipo|[Gustavo Afonso](https://github.com/GustavoAPS) e [Danilo Domingo](https://github.com/danilow200)|
+|16/02/2021|1.1|Adicionando Bibliográfia e imagens|[Gustavo Afonso](https://github.com/GustavoAPS)|
