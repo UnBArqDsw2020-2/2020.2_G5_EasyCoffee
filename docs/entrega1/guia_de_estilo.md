@@ -37,7 +37,7 @@ As fontes utilizada na aplicação serão:
 - **Sacramento**(Open Font License) para títulos
 - **Enriqueta**(Open Font License) para textos
 
-## 5. Butões
+## 5. Botões
 Os botões utilizados no menu de navegação possuem fundos transparentes e utilizam do marrom que se encontra na palheta de cores em sua fonte, ficando mais claros quando o mouse é passado por cima.
 
 ![alt text](../img/guia_de_estilo/button.png) ![alt text](../img/guia_de_estilo/clicked_button.png)
