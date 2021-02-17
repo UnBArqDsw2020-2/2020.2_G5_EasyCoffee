@@ -13,11 +13,10 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 **US01 - Eu, como cliente, quero vizualizar os produtos do site, para saber o que está disponível para compra**
 
-*Tarefa*
+*Tarefas*
 
-* Criação da página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe) 
+* Criação da página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
 * O sistema de ser capaz de trazer os produtos disponibilizados pelo administrador do sistema contendo o nome do produto e seu valor.
-
 
 *Critérios de aceitação:*
 
@@ -25,29 +24,31 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * O cliente deve ser capaz de visualizar todos os produtos desponíveis para compra.
 * O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF11]() via Brainstorm e Storyboard.
 
 **US02 - Eu, como cliente, quero visualizar as informações sobre um determinado produto.**
 
-*Tarefa*
+*Tarefas*
 
-* O sistema deve ser capaz de trazer as informações do produto de acordo com a página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe) 
-* O sistema deve trazer as informções correspondentes do produto  quando o usuário clicar sobre ele.
+* O sistema deve ser capaz de trazer as informações do produto de acordo com a página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* O sistema deve trazer as informações correspondentes do produto quando o usuário clicar sobre ele.
 
 *Critérios de aceitação:*
 
 * O cliente deve ser capaz de visualizar as informações do produto.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF12]() via Brainstorm, Storyboard e Questionário.
 * [RF13]() via Brainstorm e Questionário.
 
 
 **US03 - Eu, como cliente, quero vizualizar os produtos por categorias.**
-*Tarefa*
-* Criação da página "menus" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/menus) 
-* O sistema de ser capaz de separar os produtos por categorias
+
+*Tarefas*
+
+* Criação da página "menus" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/menus).
+* O sistema de ser capaz de separar os produtos por categorias.
 
 *Critérios de aceitação:*
 
@@ -55,34 +56,110 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * O cliente deve ser capaz de visualizar todos os produtos desponíveis para compra de acordo com as suas categorias.
 * O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF07]() via Brainstorm.
 
 #### Feature: Manter Produto
 
 **US04 - Eu, como administrador, quero cadastrar produtos no site.**
-*Tarefa*
-* Criação no protótipo do página "cadastrar-produto"
-* Criação da página "cadastrar-produto" de acordo com a tarefa anterior.
+
+*Tarefas*
+
+* Criação da página "cadastrar-produto".
 * O sistema de ser capaz de salvar os produtos criados.
-* Quando o sistema salvar o produto de ser apresentado a mensagem "Produto cadastrado com sucesso."
+* Quando o sistema salvar o produto deve ser apresentado a mensagem "Produto cadastrado com sucesso.".
 
 
 *Critérios de aceitação:*
 
 * O administrador do sistema deve ser capaz de cadastrar produtos.
 * O administrador deve estar logado para cadastrar o produto.
-* Depois de cadastrar o produto deve ser disponibilizado para compra.
+* Depois de cadastrar o produto, ele deve ser disponibilizado para compra.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF03]() via Brainstorm e Storyboard.
 * [RF07]() via Brainstorm.
 * [RF08]() via Brainstorm.
 
+**US05 - Eu, como administrador, quero editar produtos no site.**
+
+*Tarefas*
+
+* Criação da página "editar-produto".
+* O sistema deve ser capaz de editar as informações de produtos cadastrados no site.
+* Antes das alterações serem salvas, deve ser apresentado uma mensagem de confirmação.
+* Quando o sistema salvar as alterações do produto deve ser apresentado a mensagem "Produto editado com sucesso.".
+
+*Critérios de aceitação:*
+
+* O administrador do sistema deve ser capaz de editar produtos.
+* O administrador deve estar logado para editar um produto.
+* Antes do produto ter a alteração salva, deve ser apresentado uma mensagem de confirmação.
+* Depois de editar um produto, ele deve ter suas informações atualizadas para compra.
+
+*Requisitos relacionados à história:* 
+* [RF04]() via Brainstorm.
+* [RF07]() via Brainstorm.
+* [RF09]() via Brainstorm.
+* [RF10]() via Brainstorm.
+
+**US06 - Eu, como administrador, quero colocar um produto em promoção.**
+
+*Tarefas*
+
+* Criação de opção de colocar um produto em promoção na página "visualizar-produto-administrador".
+* Criação de página "colocar-produto-em-promoçao".
+* O sistema deve ser capaz de colocar um produto em promoção.
+* Antes das alterações serem salvas, deve ser apresentado uma mensagem de confirmação.
+* Quando o sistema colocar o produto em promoção, deve ser apresentado a mensagem "Produto colocado em promoção com sucesso.".
+
+*Critérios de aceitação:*
+
+* O administrador do sistema deve ser capaz de colocar um produto em promoção.
+* O administrador deve estar logado para colocar um produto em promoção.
+* Antes do produto ter a alteração salva, deve ser apresentado uma mensagem de confirmação.
+* Depois de colocar um produto em promoção, ele deve ter suas informações atualizadas para compra.
+
+*Requisitos relacionados à história:* 
+* [RF30]() via Brainstorm e Questionário.
+
+**US07 - Eu, como administrador, quero excluir produtos no site.**
+
+*Tarefas*
+
+* Criação de botão de excluir produto na página de "visualizar-produto-administrador".
+* O sistema deve ser capaz de excluir um produto.
+* Antes do produto ser excluído, deve ser apresentado uma mensagem de confirmação.
+* Quando o sistema excluir um produto, deve ser apresentado a mensagem "Produto excluído com sucesso.".
+
+*Critérios de aceitação:*
+* O administrador do sistema deve ser capaz de excluir um produto.
+* O administrador deve estar logado para excluir um produto.
+* Deve existir uma mensagem de confirmação, antes de um produto ser excluído.
+* Depois de excluir um produto , ele deve desaparecer para compra.
+
+*Requisitos relacionados à história:* 
+* [RF05]() via Brainstorm.
+
+**US08 - Eu, como administrador, quero visualizar os produtos cadastados.**
+
+*Tarefas*
+
+* Criação de página "visualizar-produto-administrador".
+
+*Critérios de aceitação:*
+* O administrador do sistema deve ser capaz de visualizar os produtos cadastrados.
+* O administrador deve estar logado para acessar essa página.
+* Essa página deverá conter a opção de editar, excluir e colocar um produto em promoção (botões).
+
+*Requisitos relacionados à história:* 
+* [RF06]() via Brainstorm.
+
 #### Feature: Avaliação
 
 **US09 - Eu, como cliente, quero avaliar um produto comprado.**
-*Tarefa*
+*Tarefas*
+
 * Criação da página "avaliar-compra".
 * O sistema de ser capaz de salvar a avaliação feita.
 * Quando o sistema salvar a avaliação de ser apresentado a mensagem "Avaliação feita com sucesso."
@@ -93,11 +170,12 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * O cliente deve estar logado para avaliar o produto.
 * Depois de avaliar o produto deve ser possivel ver a avaliação.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF20]() via Brainstorm.
 
 **US10 - Eu, como cliente, quero visualizar as avaliações de um produto feitas por outros clientes.**
-*Tarefa*
+
+*Tarefas*
 * O cliente deve ser capaz de ver a avaliação na tela do produto.
 
 
@@ -105,19 +183,21 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 * O cliente do sistema deve ser capaz de ver a avaliação dos produtos.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF21]() via Brainstorm.
 
 **US11 - Eu, como administrador, quero visualizar as avaliações de um produto feitas pelos clientes.**
-*Tarefa*
+
+*Tarefas*
+
 * O administrador deve ser capaz de ver a avaliação na tela do produto.
 
 
 *Critérios de aceitação:*
 
-* O administradro do sistema deve ser capaz de de ver a avaliação dos produtos feita pelos os clientes.
+* O administrador do sistema deve ser capaz de de ver a avaliação dos produtos feita pelos os clientes.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF21]() via Brainstorm.
 
 ### Épico 2: Área de Compras
@@ -125,7 +205,9 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 #### Feature: Carrinho de Compras
 
 **US12 - Eu, como cliente, quero adicionar produtos no carrinho de compras.**
-*Tarefa*
+
+*Tarefas*
+
 * Na tela de "comprar-produto" deve ser capaz de adicionar o produto no carrinho como está no protótipo.
 * O usuário deve ser capaz de adicionar o produto ao carrinho.
 
@@ -134,11 +216,13 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * O cliente de ser capaz de adcionar o produto no carrinho com a quantidade informada.
 * O cliente deve estar logado no sistema.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF14]() via Brainstorm.
 
 **US13 - Eu, como cliente, quero excluir produtos no carrinho de compras.**
-*Tarefa*
+
+*Tarefas*
+
 * A tela de "carrinho" deve ser desenvolvido como está no protótipo.
 * O usuário deve ser capaz de excluir o produto do carrinho.
 
@@ -147,7 +231,7 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * O cliente de ser capaz de excluir o produto no carrinho.
 * O cliente deve estar logado no sistema.
 
-*Requisitos relacionado a história:*
+*Requisitos relacionados à história:*
 * [RF15]() via Brainstorm.
 
 #### Feature: Pagamento
@@ -186,3 +270,4 @@ Acesso em: 17 fev 2021.
 |17/02/2021|1.0| Criação do Backlog do produto | [Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Iago Theóphilo](https://github.com/IagoTheophilo)|
 |17/02/2021|1.0|Product Backlog, História de usuário US01 até US04|[Iago Theóphilo](https://github.com/IagoTheophilo)|
 |17/02/2021|1.1|Product Backlog, História de usuário US09 até US15|[Danilo Domingo](https://github.com/danilow200)|
+|17/02/2021|1.2| Adição das US05 a US08 | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
