@@ -132,17 +132,31 @@ Será possível utilizar o **site** por meio de navegadores web como Mozilla Fir
 
 #### 4.1. Perspectiva do Produto
 
+Os principais diferenciais do produto para os outros no mercado são: 
+
+- Espicilização de venda de café e a afins, ao contrario da maioria de seu concorrente que vende diversos tipos de produto.
+- Parte informativa do produto para ajudar as pessoas que não conhecem tanto sobre café e suas formas de preparo.
+
 #### 4.2. Resumo das Capacidades
 
 | Benefício para o cliente | Recursos de Suporte |
 |---------|----------|
-|         |          |
+|Compra de café e afins|Compra de grãos, pó, capsulas de café, filtros,cafeteiras e moedor|
+|Interface simples e intuitiva|Essencial para que possar atrair o máximo de clientes e que eles não tenhão dificuldades na navegação|
+|Avaliação|Depois de uma compra, o cliente pode fazer a avalição do prouto, para que os demais clientes possam estar ciente da qualidade do produto|
+|Área informativa|Um local destinado a trazer informação sobre café e seu método de preparo|
 
 #### 4.3. Suposições e Dependências
 
+Para o funcionamento do software é suposto que a equipe consiga desenvolve-lo durante o período da disciplina de Arquitetura e Desenho de Software. Outro ponto do projeto é o cliente, que a equipe não está desenvolvendo o projeto para um cliente específico e sim para a disciplina anteriomente citada, juntamente com isso vem o custo, que a equipe não tem como arcar sem ajuda, esses dois pontos possivelmente impedirá o lançamento final do produto, e que seja hospedado durante um longo período.
+
 #### 4.4. Custo e Precificação
 
+O produto será disponibilizado em um domínio na WEB, tendo como custo as despesas relacionadas às equipes de desenvolvimento e gerenciamento do projeto, aos valores pagos para manter seus servidores em funcionamento. 
+
 #### 4.5. Instalação
+
+O produto não possuirá instalção, uma vez visto que ele estará disponivel em um domínio na WEB, necissitando apenas de um navegador para acessa-lo.
 
 ### 5. Recursos do Produto
 
@@ -159,5 +173,6 @@ Será possível utilizar o **site** por meio de navegadores web como Mozilla Fir
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |16/02/2021|1.0|Adiciona Estrutura inicial do documento de visão e tópicos 1. Introdução e 3. Perfis dos Envolvidos.|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|17/02/2021|1.01|Adição do tópico 4|[Danilo Domingo](https://github.com/danilow200)|
 
 
