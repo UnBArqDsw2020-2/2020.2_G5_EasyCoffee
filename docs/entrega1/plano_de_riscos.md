@@ -361,6 +361,19 @@ Comunicação: Os riscos desta subcategoria podem surgir em consequência a erro
     </tr>
 </table>
 
+## Referências
+<p align="justify">[1] Project Management Institute. (2017). A guide to the Project Management Body of Knowledge (PMBOK guide) (6th ed.). Project Management Institute.
+</p>
+
+<p align="justify">[2] Isotani e Rocha, Gestão de Riscos em Projetos de Software. Butantã - São Paulo. Disponível em: <https://edisciplinas.usp.br/pluginfile.php/3385127/mod_resource/content/1/Aula10-GerenciaProjeto-Riscos.pdf>. Acesso em: 16 de fevereiro de 2021.</p>
+
+<p align="justify">[3] Gerenciamento de riscos em projetos: o que é e como fazer. Disponível em: <https://artia.com/blog/gerenciamento-de-riscos-em-projetos-o-que-e-e-como-fazer/>. Acesso em: 16 de fevereiro de 2021.</p>
+
+<p align="justify">[4] Plano de Gerenciamento de Riscos. Disponível em: <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/>. Acesso em: 16 de fevereiro de 2021.</p>
+
+<p align="justify">[5] Plano de Riscos. Disponível em: <https://github.com/DesenhoMaster2017/SpaceShooter/wiki/Plano-de-Riscos>. Acesso em: 16 de fevereiro de 2021.</p>
+
+
 ## Versionamento
 
 <table>
