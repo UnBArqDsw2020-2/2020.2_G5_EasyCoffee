@@ -71,6 +71,74 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * [RF07]() via Brainstorm.
 * [RF08]() via Brainstorm.
 
+**US09 - Eu, como cliente, quero avaliar um produto comprado.**
+*Tarefa*
+* Criação no protótipo da página "avaliar-compra"
+* Criação da página "avaliar-compra" de acordo com a tarefa anterior.
+* O sistema de ser capaz de salvar a avaliação feita.
+* Quando o sistema salvar a avaliação de ser apresentado a mensagem "Avaliação feita com sucesso."
+
+
+*Critérios de aceitação:*
+
+* O cliente do sistema deve ser capaz de avaliar produtos.
+* O cliente deve estar logado para avaliar o produto.
+* Depois de avaliar o produto deve ser possivel ver a avaliação.
+
+*Requisitos relacionado a história:*
+* [RF20]() via Brainstorm.
+
+**US10 - Eu, como cliente, quero visualizar as avaliações de um produto feitas por outros clientes.**
+*Tarefa*
+* O cliente deve ser capaz de ver a avaliação na tela do produto.
+
+
+*Critérios de aceitação:*
+
+* O cliente do sistema deve ser capaz de de ver a avaliação dos produtos.
+
+*Requisitos relacionado a história:*
+* [RF21]() via Brainstorm.
+
+**US11 - Eu, como administrador, quero visualizar as avaliações de um produto feitas pelos clientes.**
+*Tarefa*
+* O administrador deve ser capaz de ver a avaliação na tela do produto.
+
+
+*Critérios de aceitação:*
+
+* O administradro do sistema deve ser capaz de de ver a avaliação dos produtos feita pelos os clientes.
+
+*Requisitos relacionado a história:*
+* [RF21]() via Brainstorm.
+
+### Épico 2: Área de compras
+
+**US12 - Eu, como cliente, quero adicionar produtos no carrinho de compras.**
+*Tarefa*
+* Na tela de "comprar-produto" deve ser capaza de adicionar o produto no carrinho como está no protótipo.
+* O usuário deve ser capaz de adicionar o produto ao carrinho.
+
+*Critérios de aceitação:*
+
+* O cliente de ser capaz de adcionar o produto no carrinho com a quantidade informada.
+* O cliente deve estar logado no sistema.
+
+*Requisitos relacionado a história:*
+* [RF14]() via Brainstorm.
+
+**US13 - Eu, como cliente, quero excluir produtos no carrinho de compras.**
+*Tarefa*
+* A tela de "carrinho" deve ser desenvolvido como está no protótipo.
+* O usuário deve ser capaz de excluir o produto do carrinho.
+
+*Critérios de aceitação:*
+
+* O cliente de ser capaz de excluir o produto no carrinho.
+* O cliente deve estar logado no sistema.
+
+*Requisitos relacionado a história:*
+* [RF15]() via Brainstorm.
 
 ## Referência Bibliográficas
 - Backlog de Produto: o que é e como construir passo a passo, INCUCA. 
@@ -87,3 +155,4 @@ Acesso em: 17 fev 2021.
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |17/02/2021|1.0|Product Backlog, História de usuário e US01 até US04|[Iago Theóphilo](https://github.com/IagoTheophilo)|
+|17/02/2021|1.01|Product Backlog, História de usuário e US09 até US15|[Danilo Domingo](https://github.com/danilow200)|
