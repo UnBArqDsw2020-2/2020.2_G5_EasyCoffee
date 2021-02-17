@@ -12,6 +12,7 @@
         - [5W2H](/entrega1/5w2h.md)
         - [Léxico](/entrega1/lexico.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
+        - [Plano de Riscos](entrega1/plano_de_riscos.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
 
