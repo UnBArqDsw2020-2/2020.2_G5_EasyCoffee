@@ -6,6 +6,7 @@
 
         - [Design Sprint](/entrega1/desing_sprint/design_sprint.md)
             - [Brainstorm](/entrega1/desing_sprint/brainstorm.md)
+            - [Rich Picture](/entrega1/desing_sprint/rich_picture.md)
         	- [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md)
         	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
             - [Protótipo](entrega1/prototipo.md)
@@ -15,4 +16,3 @@
         - [Plano de Riscos](entrega1/plano_de_riscos.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
-
