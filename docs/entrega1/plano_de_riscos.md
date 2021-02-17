@@ -250,6 +250,35 @@ Comunicação: Os riscos desta subcategoria podem surgir em consequência a erro
     </tr>
 </table>
 
+#### Riscos Externos
+
+<table>
+    <tr>
+        <th>Risco</th>
+        <th>Impacto</th>
+        <th>Probabilidade</th>
+        <th>Prevenção</th>
+        <th>Resposta</th>
+        <th>Prioridade</th>
+    </tr>
+    <tr>
+        <td>Baixa utilização da aplicação</td>
+        <td>Alto</td>
+        <td>Alta</td>
+        <td>Validação com o público alvo</td>
+        <td>Análise de soluções semelhantes com grande adesão e adaptação da nossa solução</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Trabalhar em ambiente doméstico com muitos ruídos e outras pessoas executando outras tarefas</td>
+        <td>Médio</td>
+        <td>Alta</td>
+        <td>Cada membro fixar seu melhor horário para trabalhar</td>
+        <td>Pedir compreensão dos demais no recinto e usar soluções de cancelamento de ruído</td>
+        <td>12</td>
+    </tr>
+</table>
+
 
 ## Versionamento
 
