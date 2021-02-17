@@ -279,6 +279,51 @@ Comunicação: Os riscos desta subcategoria podem surgir em consequência a erro
     </tr>
 </table>
 
+#### Riscos Organizacionais
+
+<table>
+    <tr>
+        <th>Risco</th>
+        <th>Impacto</th>
+        <th>Probabilidade</th>
+        <th>Prevenção</th>
+        <th>Resposta</th>
+        <th>Prioridade</th>
+    </tr>
+    <tr>
+        <td>Recursos externos necessários ao projeto serem pagos ou o suporte ser cancelado no meio do projeto</td>
+        <td>Alto</td>
+        <td>Baixa</td>
+        <td>Conhecer diversas opções semelhantes</td>
+        <td>Readaptar a solução para utilizar recursos de outros fornecedores</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Falta de motivação e/ou comprometimento dos membros e baixas na equipe</td>
+        <td>Alto</td>
+        <td>Média</td>
+        <td>Manter a harmonia entre a equipe e estimular o relacionamento entre os membros</td>
+        <td>Reorganização das atividades da equipe, desenvolver atividades que estimulem o relacionamento e cobrança mútua entre os membros</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>Problemas de comunicação/conflitos entre os membros</td>
+        <td>Muito Alto</td>
+        <td>Média</td>
+        <td>Utilizar meios de comunicação de fácil utilização e manter a harmonia entre os membros</td>
+        <td>Identificar conflitos, reorganizar pareamentos e mudar canais de comunicação</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>Priorização errada das tarefas</td>
+        <td>Muito Alto</td>
+        <td>Baixa</td>
+        <td>Todos participarem da divisão das tarefas e revisarem</td>
+        <td>Replanejar as tarefas e redistribuí-las</td>
+        <td>10</td>
+    </tr>
+</table>
+
 
 ## Versionamento
 
