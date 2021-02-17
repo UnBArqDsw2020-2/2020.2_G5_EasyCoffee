@@ -8,10 +8,15 @@ O Product Backlog é uma lista que contém todas as funções exigidas pelo prod
 As histórias de usuário são ferramentas para o desenvolvimento ágil de software, que podem capturar a descrição dos recursos de software da perspectiva dos usuários finais.
 
 ### Épico 1:  Produto
+
+#### Feature: Listar
+
 **US01 - Eu, como cliente, quero vizualizar os produtos do site, para saber o que está disponível para compra**
+
 *Tarefa*
+
 * Criação da página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe) 
-* O sistema de ser capaz de trazer os produtos disponibilizados pelo administrados do sistema contendo o nome do produto e seu valor.
+* O sistema de ser capaz de trazer os produtos disponibilizados pelo administrador do sistema contendo o nome do produto e seu valor.
 
 
 *Critérios de aceitação:*
@@ -24,7 +29,9 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * [RF11]() via Brainstorm e Storyboard.
 
 **US02 - Eu, como cliente, quero visualizar as informações sobre um determinado produto.**
+
 *Tarefa*
+
 * O sistema deve ser capaz de trazer as informações do produto de acordo com a página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe) 
 * O sistema deve trazer as informções correspondentes do produto  quando o usuário clicar sobre ele.
 
@@ -51,7 +58,8 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 *Requisitos relacionado a história:*
 * [RF07]() via Brainstorm.
 
-### Épico 2:  Manter produto
+#### Feature: Manter Produto
+
 **US04 - Eu, como administrador, quero cadastrar produtos no site.**
 *Tarefa*
 * Criação no protótipo do página "cadastrar-produto"
@@ -71,13 +79,13 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * [RF07]() via Brainstorm.
 * [RF08]() via Brainstorm.
 
+#### Feature: Avaliação
+
 **US09 - Eu, como cliente, quero avaliar um produto comprado.**
 *Tarefa*
-* Criação no protótipo da página "avaliar-compra"
-* Criação da página "avaliar-compra" de acordo com a tarefa anterior.
+* Criação da página "avaliar-compra".
 * O sistema de ser capaz de salvar a avaliação feita.
 * Quando o sistema salvar a avaliação de ser apresentado a mensagem "Avaliação feita com sucesso."
-
 
 *Critérios de aceitação:*
 
@@ -95,7 +103,7 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 *Critérios de aceitação:*
 
-* O cliente do sistema deve ser capaz de de ver a avaliação dos produtos.
+* O cliente do sistema deve ser capaz de ver a avaliação dos produtos.
 
 *Requisitos relacionado a história:*
 * [RF21]() via Brainstorm.
@@ -112,11 +120,13 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 *Requisitos relacionado a história:*
 * [RF21]() via Brainstorm.
 
-### Épico 2: Área de compras
+### Épico 2: Área de Compras
+
+#### Feature: Carrinho de Compras
 
 **US12 - Eu, como cliente, quero adicionar produtos no carrinho de compras.**
 *Tarefa*
-* Na tela de "comprar-produto" deve ser capaza de adicionar o produto no carrinho como está no protótipo.
+* Na tela de "comprar-produto" deve ser capaz de adicionar o produto no carrinho como está no protótipo.
 * O usuário deve ser capaz de adicionar o produto ao carrinho.
 
 *Critérios de aceitação:*
@@ -140,7 +150,26 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 *Requisitos relacionado a história:*
 * [RF15]() via Brainstorm.
 
+#### Feature: Pagamento
+
+
+#### Feature: Acompanhamento do Pedido
+
+
+### Épico 3: Acesso a Aplicação
+
+#### Feature: Manter Cliente
+
+#### Feature: Login
+
+### Épico 4: Área de Usuário
+
+#### Feature: Área do Administrador
+
+#### Feature: Área do Cliente
+
 ## Referência Bibliográficas
+
 - Backlog de Produto: o que é e como construir passo a passo, INCUCA. 
 Disponível em:https://incuca.net/backlog-de-produto-o-que-e-e-como-construir-passo-a-passo/#:~:text=Em%20uma%20metodologia%20%C3%A1gil%20como,Backlog%20do%20time%20de%20desenvolvimento. 
 Acesso em: 17 fev 2021.
@@ -154,5 +183,6 @@ Acesso em: 17 fev 2021.
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|17/02/2021|1.0|Product Backlog, História de usuário e US01 até US04|[Iago Theóphilo](https://github.com/IagoTheophilo)|
-|17/02/2021|1.01|Product Backlog, História de usuário e US09 até US15|[Danilo Domingo](https://github.com/danilow200)|
+|17/02/2021|1.0| Criação do Backlog do produto | [Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Iago Theóphilo](https://github.com/IagoTheophilo)|
+|17/02/2021|1.0|Product Backlog, História de usuário US01 até US04|[Iago Theóphilo](https://github.com/IagoTheophilo)|
+|17/02/2021|1.1|Product Backlog, História de usuário US09 até US15|[Danilo Domingo](https://github.com/danilow200)|
