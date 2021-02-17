@@ -324,6 +324,42 @@ Comunicação: Os riscos desta subcategoria podem surgir em consequência a erro
     </tr>
 </table>
 
+#### Riscos de Gerenciamento de Projeto
+
+<table>
+    <tr>
+        <th>Risco</th>
+        <th>Impacto</th>
+        <th>Probabilidade</th>
+        <th>Prevenção</th>
+        <th>Resposta</th>
+        <th>Prioridade</th>
+    </tr>
+    <tr>
+        <td>Mal definição do escopo</td>
+        <td>Muito Alto</td>
+        <td>Baixa</td>
+        <td>Analisar projetos semelhantes já realizados e todos participarem da definição do escopo</td>
+        <td>Redefinir o escopo</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Cronograma irreal para o contexto</td>
+        <td>Muito Alto</td>
+        <td>Baixa</td>
+        <td>Mensurar com a participação de todos o tempo necessário para realizar cada atividade</td>
+        <td>Redefinir o cronograma</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Problemas de comunicação com stakeholders</td>
+        <td>Muito Alto</td>
+        <td>Média</td>
+        <td>Se comunicar com clareza, dando exemplos quando necessário da informação que se deseja passar e pedir feedback constante</td>
+        <td>Identificar erros/ambiguidades e mudar as técnicas de comunicação</td>
+        <td>15</td>
+    </tr>
+</table>
 
 ## Versionamento
 
