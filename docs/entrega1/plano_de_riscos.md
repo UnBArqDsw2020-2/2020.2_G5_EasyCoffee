@@ -112,7 +112,7 @@ Comunicação: Os riscos desta subcategoria podem surgir em consequência a erro
     </tr>
 </table>
 
-## Matriz de Probabilidade e Impacto
+### Matriz de Probabilidade e Impacto
 
 <table>
     <tr>
@@ -187,6 +187,69 @@ Comunicação: Os riscos desta subcategoria podem surgir em consequência a erro
         <td>16-25</td>
     </tr>
 </table>
+
+### Matrizes de Impacto
+#### Riscos técnicos
+
+<table>
+    <tr>
+        <th>Risco</th>
+        <th>Impacto</th>
+        <th>Probabilidade</th>
+        <th>Prevenção</th>
+        <th>Resposta</th>
+        <th>Prioridade</th>
+    </tr>
+    <tr>
+        <td>
+            Levantamento incompleto/    errôneo dos requisitos
+        </td>
+        <td>
+            Muito Alto
+        </td>
+        <td>
+            Baixa
+        </td>
+        <td>
+            Participação de todos no levantamento, uso de diferentes técnicas e estudo de domínios similares
+        </td>
+        <td>
+            Revisar e refazer os requisitos
+        </td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>
+            Inexperiência/desconhecimento das tecnologias 
+        </td>
+        <td>
+            Alto
+        </td>
+        <td>
+            Baixa
+        </td>
+        <td>Realização de treinamentos coletivos e estudo individual</td>
+        <td>Pareamento com membros mais experientes</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Atrasos no projeto</td>
+        <td>Alto</td>
+        <td>Média</td>
+        <td>Medir o nível de conhecimento de cada membro e equilibrar as tarefas delegadas</td>
+        <td>Replanejar e redistribuir as tarefas</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>Incompatibilidade entre softwares e dependências dos membros</td>
+        <td>Baixo</td>
+        <td>Baixa</td>
+        <td>Utilizar soluções de conteinerização como Docker    </td>
+        <td>Rever caso específico do(s) membro(s) afetado(s)</td>
+        <td>4</td>
+    </tr>
+</table>
+
 
 ## Versionamento
 
