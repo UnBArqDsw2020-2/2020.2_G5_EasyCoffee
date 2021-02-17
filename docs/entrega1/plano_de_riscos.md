@@ -36,6 +36,158 @@ Controle: Esses riscos envolvem riscos que foram identificados, porém nenhuma a
 Comunicação: Os riscos desta subcategoria podem surgir em consequência a erros na comunicação com stakeholders, o que pode levar a retrabalho e até entrega do projeto errado devido à má comunicação.
 </p>
 
+## Análises qualitativa e quantitativa
+<p align="justify">Nesta fase, definimos métricas de impacto e probabilidade para os riscos e posteriormente as analisamos de forma numérica e atribuímos as métricas resultantes aos riscos. Essas métricas serão construídas através de uma matriz de probabilidade e impacto em que é descrito a probabilidade de um risco ocorrer e seu impacto em um objetivo. 
+</p>
+
+### Probabilidade
+<table>
+    <tr>
+        <th>Probabilidade(P)</th>
+        <th>Peso</th>
+    </tr>
+    <tr>
+        <td>Muito Baixa</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Baixa</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Moderada</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Alta</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Muito Alta</td>
+        <td>5</td>
+    </tr>
+</table>
+
+### Impacto
+<table>
+    <tr>
+        <th>Impacto (I)</th>
+        <th>Descrição</th>
+        <th>Peso</th>
+    </tr>
+    <tr>
+        <td>Muito Baixa</td>
+        <td>
+            Quase imperceptível ao projeto
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Baixa</td>
+        <td>
+            Impacto tem pouca influência no projeto
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Moderada</td>
+        <td>
+            Impacto considerável, mas recuperável
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Alta</td>
+        <td>
+            Tem grande impacto no projeto
+        </td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Muito Alta</td>
+        <td>
+            Detém o prosseguimento do projeto
+        </td>
+        <td>5</td>
+    </tr>
+</table>
+
+## Matriz de Probabilidade e Impacto
+
+<table>
+    <tr>
+        <th>P/I</th>
+        <th>Muito Baixo</th>
+        <th>Baixo</th>
+        <th>Moderado</th>
+        <th>Alto</th>
+        <th>Muito Alto</th>
+    </tr>
+    <tr>
+        <th>Muito Baixa</th>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>Baixa</th>
+        <td>2</td>
+        <td>4</td>
+        <td>6</td>
+        <td>8</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <th>Moderada</th>
+        <td>3</td>
+        <td>6</td>
+        <td>9</td>
+        <td>12</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <th>Alta</th>
+        <td>4</td>
+        <td>8</td>
+        <td>12</td>
+        <td>16</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <th>Muito Alta</th>
+        <td>5</td>
+        <td>10</td>
+        <td>15</td>
+        <td>20</td>
+        <td>25</td>
+    </tr>
+</table>
+<br>
+
+### Prioridade
+<p align="justify"> Como resultado da matriz acima obtemos a prioridade de cada risco.</p>
+
+<table>
+    <tr>
+        <th>Prioridade</th>
+        <th>Intervalo</th>
+    </tr>
+    <tr>
+        <td>Baixa</td>
+        <td>1-5</td>
+    </tr>
+    <tr>
+        <td>Média</td>
+        <td>6-15</td>
+    </tr>
+    <tr>
+        <td>Alta</td>
+        <td>16-25</td>
+    </tr>
+</table>
+
 ## Versionamento
 
 <table>
