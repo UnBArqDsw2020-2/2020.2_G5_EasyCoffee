@@ -33,3 +33,12 @@ Autoria: [Itallo Gravina](https://github.com/itallogravina)
 ![alt text](../../img/RichPictureRafael.png)
 Autoria: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 
+## Referência Bibliográficas
+
+Communicative Art, The Art of Rich Pictures. Disponível em: https://www.youtube.com/watch?v=8ZH-NKqKF9A. Acesso em: 16 fev. 2021.
+
+## Versionamento
+
+| Data | Versão | Descrição | Autor(es) |
+|------|------|------|------|
+|17/02/2021|1.0|Adicionando Rich Picture|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
