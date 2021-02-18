@@ -181,6 +181,15 @@ A forma de pagamento é 100% online. O usuário poderá escolher a forma de paga
 O proprietário pode controlar o estoque de produtos que estão armazenados. Podendo removê-los da loja quando o estoque tiver acabado.
 
 ### 6. Restrições
+* A página deve estar em funcionamento até maio;
+* Ter um computador com acesso a internet ou um celular com acesso a internet.
+#### 6.1 Restrições Externas
+   Dentre as restrições externas, a dificuldade no uso da tecnologia e a compreensão no uso da linguagem estabelecida , além de possíveis transtornos entre a equipe.
+#### 6.2 Restrições de Design
+   Toda a interação com o software deve ser feita de forma natural, de modo que o usuário não tenha dúvidas sobre como realizar determinada tarefa dentro do aplicativo. Os recursos cujo usuários têm acesso devem ser de fácil entendimento, de modo que o usuário não desista durante alguma ação. Para facilitar o desenvolvimento será feito um página web.
+
+#### 6.3 Restrições de Confiabilidade
+   A pagina será testadas exaustivamente com com o intuito de manter os dados protegidos e 100% operacional 
 
 ### 7. Faixas de Qualidade
 
