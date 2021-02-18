@@ -257,6 +257,7 @@ O usuário deve ser capaz de acompanhar o pedido desde a etapa de confirmação 
 |------|------|------|------|
 |16/02/2021|1.0|Adiciona Estrutura inicial do documento de visão e tópicos 1. Introdução e 3. Perfis dos Envolvidos.|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |17/02/2021|1.01|Adição do tópico 4|[Danilo Domingo](https://github.com/danilow200)|
-|18/02/2021|1.02|Adição da Precedência e Prioridade dos recursos|[Maicon Mares](https://github.com/MaiconMares)|
+|17/02/2021|1.02|Adição do tópico 2|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|18/02/2021|1.03|Adição da Precedência e Prioridade dos recursos|[Maicon Mares](https://github.com/MaiconMares)|
 
 
