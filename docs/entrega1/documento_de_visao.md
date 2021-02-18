@@ -180,6 +180,10 @@ A forma de pagamento é 100% online. O usuário poderá escolher a forma de paga
 
 O proprietário pode controlar o estoque de produtos que estão armazenados. Podendo removê-los da loja quando o estoque tiver acabado.
 
+#### 5.6. Acompanhamento do pedido
+
+O usuário deve ser capaz de acompanhar o pedido desde a etapa de confirmação do pagamento até a entrega do produto.
+
 ### 6. Restrições
 * A página deve estar em funcionamento até maio;
 * Ter um computador com acesso a internet ou um celular com acesso a internet.
