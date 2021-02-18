@@ -392,7 +392,151 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 #### Feature: Área do Administrador
 
+
+
+
+
+**US29 - Eu, como administrador, quero visualizar informações no glossário sobre café.**
+
+  
+*Tarefas*
+
+  
+
+* Recuperar do Banco de Dados o glossário sobre café.
+
+* O administrador deve ter acesso as informações contidas no glossário.
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Acesso as informações que estão no glossário
+
+  
+
+*Requisitos relacionados à história:*
+
+* [RF29]() via Brainstorm e Storyboard.
+
+
 #### Feature: Área do Cliente
+
+
+**US30 - Eu, como cliente, quero acessar o meu histórico de produtos comprados anteriormente.**
+
+  
+
+*Tarefas*
+
+  
+
+* Guardar no banco os dados de compras do cliente.
+
+* Recuperar do Banco de Dados os dados de compras anteriores.
+
+* Implementar uma área de fácil acesso ao histórico de compras.
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Cada usuário possui um histórico personalizado de produtos comprados anteriormente.
+
+* Não deve haver produtos duplicados.
+
+* Deve permitir a compra de maneira facilitada.
+  
+
+*Requisitos relacionados à história:*
+
+* [RF19]() via Brainstorm.
+
+
+**US31 - Eu, como cliente, quero marcar um produto como favorito.**
+
+  
+
+*Tarefas*
+
+  
+
+* Implementar funcionalidade em que o usuário possa marcar marque produtos como favoritos.
+
+* Guardar no Banco de Dados uma lista com os produtos favoritos.
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Permitir adicionar produtos a lista de favoritos.
+
+* Permitir remover produtos da lista de favoritos.
+
+* Deve permitir a compra de maneira facilitada.
+  
+
+*Requisitos relacionados à história:*
+
+* [RF22]() via Brainstorm.
+
+
+**US32 - Eu, como cliente, quero visualizar meus produtos marcados como favoritos.**
+
+  
+
+*Tarefas*
+
+  
+
+* Recuperar do Banco de Dados a lista de produtos favoritos referente ao usuário.
+
+* Disponibilizar uma área destinada aos produtos favoritos.
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Visualizar de forma ordenada a lista de favoritos
+
+* Não deve haver produtos duplicados.
+
+* Deve permitir a compra de maneira facilitada.
+  
+
+*Requisitos relacionados à história:*
+
+* [RF22]() via Brainstorm.
+
+
+**US33 - Eu, como cliente, quero visualizar informações no glossário sobre café.**
+
+  
+
+*Tarefas*
+
+  
+
+* Recuperar do Banco de Dados o glossário sobre café.
+
+* O usuário deve ter acesso as informações contidas no glossário.
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Acesso as informações que estão no glossário sobre café
+  
+
+*Requisitos relacionados à história:*
+
+* [RF29]() via Brainstorm e Storyboard.
+
 
 ## Referência Bibliográficas
 
@@ -413,3 +557,4 @@ Acesso em: 17 fev 2021.
 |17/02/2021|1.0|Product Backlog, História de usuário US01 até US04|[Iago Theóphilo](https://github.com/IagoTheophilo)|
 |17/02/2021|1.1|Product Backlog, História de usuário US09 até US15|[Danilo Domingo](https://github.com/danilow200)|
 |17/02/2021|1.2| Adição das US05 a US08 | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|17/02/2021|1.3| Adição das US29 a US33 | [Rafael Ribeiro](https://github.com/rafaelflarrn)|
