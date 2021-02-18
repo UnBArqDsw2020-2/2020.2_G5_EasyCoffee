@@ -238,11 +238,153 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 
 #### Feature: Acompanhamento do Pedido
+**US19 - Acompanhar um pedido de uma compra, como cliente**
 
+  
+
+*Tarefas*
+
+  
+
+* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+
+* O usuário deve ser capaz de acompanhar o status do seu pedido
+
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Deve ser seguindo o padrão MVC
+
+* O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
+
+  
+
+*Requisitos relacionados à história:*
+
+* [RF18]() via Brainstorm e Storyboard.
+
+
+
+**US20 - Acompanhar um pedido de uma compra, como administrador**
+
+  
+
+*Tarefas*
+
+  
+
+* A tela de acompanhamento desenvolvido como está no protótipo [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+
+* O administrador deve ser capaz de acompanhar a chegada de pedido e atualizar o status de acordo com o evoluir do pedido
+
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Deve ser seguindo o padrão MVC
+
+* O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
+
+  
+
+*Requisitos relacionados à história:*
+
+* [RF18](),[ RF25]() via Brainstorm e Storyboard.
 
 ### Épico 3: Acesso a Aplicação
 
 #### Feature: Manter Cliente
+**US21 - Eu, como cliente, quero realizar meu cadastro no site.**
+
+  
+
+*Tarefas*
+
+  
+
+* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+
+* O cliente de ser capaz de realizar seu cadastro sem nenhum problema preenchendo os campos necessários
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Deve ser seguindo o padrão MVC
+
+* O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
+
+  
+
+*Requisitos relacionados à história:*
+
+* [RF01]() via Brainstorm e Storyboard.
+
+**US22 - Eu, como cliente, quero editar meu cadastro no site.**
+
+  
+
+*Tarefas*
+
+  
+
+* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+
+* O cliente de ser capaz de fazer edições nos seus dados cadastrais, para manter sempre atualizado
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Deve ser seguindo o padrão MVC
+
+* O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
+
+  
+
+*Requisitos relacionados à história:*
+
+* [RF01]() via Brainstorm e Storyboard.
+
+
+**US23 - Eu, como cliente, quero excluir meu cadastro no site.**
+
+  
+
+*Tarefas*
+
+  
+
+* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+
+* O cliente de ser capaz de ter alguma forma de excluir seu perfil.
+  
+
+*Critérios de aceitação:*
+
+  
+
+* Deve ser seguindo o padrão MVC
+
+* O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
+
+  
+
+*Requisitos relacionados à história:*
+
+* [RF01]() via Brainstorm e Storyboard.
+
+
+
+
+
 
 #### Feature: Login
 
