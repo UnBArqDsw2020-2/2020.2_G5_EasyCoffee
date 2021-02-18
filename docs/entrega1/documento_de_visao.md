@@ -27,28 +27,22 @@
 ## 2. Posicionamento
 
 ### 2.1. Oportunidade de Negócio
+<p align="justify">O café está sempre entre as bebidas mais consumidas do mundo, e o Brasil é o maior produtor de café em todo o planeta, sendo também uma forte presença na vida de muitos brasileiros.
+
+Tendo em vista a situação de uma cafeteria tradicional e como esse modelo de negócios foi afetado pela pandemia, o grupo percebeu uma oportunidade para propor uma solução que ajudasse a modernizar o negócio por meio de vendas em delivery.
+
+Dessa forma o Easy Coffee é um site que facilitará aos clientes degustar os mesmos produtos que estavam acostumados presencialmente, no conforto e segurança do lar.
+</p>
+
 
 ### 2.2. Descrição do Problema
 
-| O problema de         |               |
+| O problema de         | falta de vendas online da cafeteria Easy Coffee |
 |-----------------------|---------------|
-| afeta                 |               |
-| cujo impacto é        |               |
-| uma boa solução seria |               |
+| afeta                 | Donos do negócio, clientes e a economia local |
+| cujo impacto é        | Perda de empregos, indisponibilidade no mercado dos produtos da Easy Coffee |
+| uma boa solução seria | Criar um site para vendas online |
 
-| O quê? | Por que? | Quem? | Onde? | Quando? | Como? | Quanto custa? |
-|--------|----------|-------|-------|---------|-------|---------------|
-|        |          |       |       |         |       |               |
-
-### 2.3. Sentença de Posição do Produto
-
-| Para |                          |
-|------|--------------------------|
-| Que  |                          |
-| O    |                          |
-| Que  |                          |
-| Diferente da |                  |
-| O nosso produto |               |
 
 ## 3. Descrição dos Envolvidos
 
