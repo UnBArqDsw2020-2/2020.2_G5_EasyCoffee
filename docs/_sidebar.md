@@ -10,6 +10,7 @@
         	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
             - [Protótipo](entrega1/prototipo.md)
         - [5W2H](/entrega1/5w2h.md)
+        - [Estimativas de custo](/entrega1/estimativa.md)
         - [Léxico](/entrega1/lexico.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
