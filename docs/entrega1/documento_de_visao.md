@@ -184,7 +184,65 @@ O proprietário pode controlar o estoque de produtos que estão armazenados. Pod
 
 ### 7. Faixas de Qualidade
 
-### 8. Precedência e Prioridades
+### 8. Precedência e Prioridade
+<p align="justify">Essa etapa descreve as prioridades dos recursos do sistema e dependência de outros recursos (precedência). Para isso são definidos critérios de prioridade.</p>
+
+<table>
+    <tr>
+        <th>Definição da prioridade</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Crítico</td>
+        <td>Refere-se a um recurso essencial para o sistema, sem ele as necessidades do cliente não serão atendidas e o projeto fracassará.</td>
+    </tr>
+    <tr>
+        <td>Importante</td>
+        <td>Não determina o fracasso do projeto, mas afetará a satisfação do usuário.</td>
+    </tr>
+    <tr>
+        <td>Útil</td>
+        <td>São úteis, porém não críticos. Utilizados, geralmente, com menos frequência. Não afetam a satisfação do usuário.</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th>Recurso</th>
+        <th>Precedência</th>
+        <th>Prioridade</th>
+    </tr>
+    <tr>
+        <td>Cadastro de usuário</td>
+        <td>Não se aplica</td>
+        <td>Crítico</td>
+    </tr>
+    <tr>
+        <td>Cadastro de produtos</td>
+        <td>Cadastro de usuário (usuário administrador)</td>
+        <td>Crítico</td>
+    </tr>
+    <tr>
+        <td>Carrinho de compras</td>
+        <td>Cadastro de usuário e Cadastro de produtos</td>
+        <td>Crítico</td>
+    </tr>
+    <tr>
+        <td>Pagamento online</td>
+        <td>Cadastro de usuário, Cadastro de produtos e Carrinho de compras</td>
+        <td>Crítico</td>
+    </tr>
+    <tr>
+        <td>Controle de estoque</td>
+        <td>Cadastro de produtos e Cadastro de usuário (usuário administrador)</td>
+        <td>Importante</td>
+    </tr>
+    <tr>
+        <td>Acompanhamento do pedido</td>
+        <td>Cadastro de produtos, Cadastro de usuário, (usuário administrador) e pagamento online</td>
+        <td>Importante</td>
+    </tr>
+</table>
 
 ## Versionamento
 
@@ -192,5 +250,6 @@ O proprietário pode controlar o estoque de produtos que estão armazenados. Pod
 |------|------|------|------|
 |16/02/2021|1.0|Adiciona Estrutura inicial do documento de visão e tópicos 1. Introdução e 3. Perfis dos Envolvidos.|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |17/02/2021|1.01|Adição do tópico 4|[Danilo Domingo](https://github.com/danilow200)|
+|18/02/2021|1.02|Adição da Precedência e Prioridade dos recursos|[Maicon Mares](https://github.com/MaiconMares)|
 
 
