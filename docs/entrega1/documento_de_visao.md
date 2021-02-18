@@ -160,7 +160,25 @@ O produto não possuirá instalção, uma vez visto que ele estará disponivel e
 
 ### 5. Recursos do Produto
 
-#### 5.1. Recurso 1
+#### 5.1. Cadastro de usuário
+
+O cadastro de usuário contém dados básicos como nome, e-mail, endereço de entrega, telefone, entre outros. Esse perfil possui uma acesso limitado às funcionalidades da aplicação
+
+#### 5.2. Cadastro de produtos
+
+O cadastro de produtos é realizado pelo proprietário. Junto com o produto cadastrado há algumas informações sobre o mesmo.
+
+#### 5.3. Carrinho de Compras
+
+Cada usuário possui um carrinho de compras. Nele estão os itens que foram enviados para lá, a quantidade e o preço total. É possível excluir itens do carrinho de compras.
+
+#### 5.4. Pagamento online
+
+A forma de pagamento é 100% online. O usuário poderá escolher a forma de pagamento dentre as opções disponíveis.
+
+#### 5.5. Controle de estoque
+
+O proprietário pode controlar o estoque de produtos que estão armazenados. Podendo removê-los da loja quando o estoque tiver acabado.
 
 ### 6. Restrições
 
