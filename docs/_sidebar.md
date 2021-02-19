@@ -6,13 +6,17 @@
 
         - [Design Sprint](/entrega1/desing_sprint/design_sprint.md)
             - [Brainstorm](/entrega1/desing_sprint/brainstorm.md)
-        	- [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md)
-        	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
+            - [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md)
+            - [Rich Picture](/entrega1/desing_sprint/rich_picture.md)
+            - [Storyboard](/entrega1/desing_sprint/Storyboard.md)
             - [Protótipo](entrega1/prototipo.md)
             - [Backlog](entrega1/backlog.md)
         - [5W2H](/entrega1/5w2h.md)
+        - [Diagrama de Ishikawa](/entrega1/diagrama_de_ishikawa.md)
+        - [Estimativas de custo](/entrega1/estimativa.md)
+        - [Plano de Riscos](entrega1/plano_de_riscos.md)
         - [Léxico](/entrega1/lexico.md)
+        - [Documento de Visão](entrega1/documento_de_visao.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
-
