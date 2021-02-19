@@ -1,17 +1,17 @@
 # Product Backlog
-O Product Backlog é uma lista que contém todas as funções exigidas pelo produto. O Product Backlog não está necessariamente completo no início do projeto. O conteúdo desta lista é definido de acordo com os requisitos do projeto. Primeiro, você pode começar com o mais óbvio. Com o tempo, conforme você aprende mais sobre o produto e seus usuários, a lista de tarefas do produto continuará a crescer e mudar.
+<p align="justify">O Product Backlog é uma lista que contém todas as funções exigidas pelo produto. O Product Backlog não está necessariamente completo no início do projeto. O conteúdo desta lista é definido de acordo com os requisitos do projeto. Primeiro, você pode começar com o mais óbvio. Com o tempo, conforme você aprende mais sobre o produto e seus usuários, a lista de tarefas do produto continuará a crescer e mudar.</p>
 
 ## MoSCoW
-O método MoSCoW é uma técnica de priorização simples, mas eficaz, para o gerenciamento e organização eficaz de recursos.
+<p align="justify">O método MoSCoW é uma técnica de priorização simples, mas eficaz, para o gerenciamento e organização eficaz de recursos.</p>
 
-A técnica MoSCoW foi projetada para ajudar a selecionar e priorizar no contexto do desenvolvimento de software. As letras maiúsculas são as siglas para Must have (deve ter), Should have (deveria ter), Could have "pode ​​ter" e Won’t have (não será feito,por enquanto) e são compostas de quatro categorias usadas para organizar requisitos, histórias de usuário ou necessidades.
+<p align="justify">A técnica MoSCoW foi projetada para ajudar a selecionar e priorizar no contexto do desenvolvimento de software. As letras maiúsculas são as siglas para Must have (deve ter), Should have (deveria ter), Could have "pode ​​ter" e Won’t have (não será feito,por enquanto) e são compostas de quatro categorias usadas para organizar requisitos, histórias de usuário ou necessidades.</p>
 
 
 ## Lista de tarefas do produto 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTL-oLfNTjfTdGJdOC-h-qVVj5wFxx-4JpZy7EoWlZNCGP65qADNpT3o7-DNrqrbBdsJpa1iV2ZD8V1/pubhtml?gid=0&single=true&widget=false&headers=false&gridlines=false&chrome=false" width="670" height="680" frameborder="0"></iframe>
 
 ## História de usuário
-As histórias de usuário são ferramentas para o desenvolvimento ágil de software, que podem capturar a descrição dos recursos de software da perspectiva dos usuários finais.
+<p align="justify">As histórias de usuário são ferramentas para o desenvolvimento ágil de software, que podem capturar a descrição dos recursos de software da perspectiva dos usuários finais.</p>
 
 ### Épico 1:  Produto
 
@@ -710,4 +710,5 @@ Acesso em: 17 fev 2021.
 |17/02/2021|1.2| Adição das US05 a US08 | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |17/02/2021|1.3| Adição das US29 a US33 | [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |18/02/2021|1.4| Adição das US14 a US18|[Gustavo Afonso](https://github.com/GustavoAPS)|
-|18/02/2021|1.5| Adição da descrição MoSCoW|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|18/02/2021|1.5| Adição das US24 a US28|[Maicon Mares](https://github.com/MaiconMares)|
+|18/02/2021|1.6| Adição da descrição MoSCoW|[Iago Theóphilo](https://github.com/iagotheophilo)|
