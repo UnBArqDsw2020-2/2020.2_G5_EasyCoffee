@@ -22,3 +22,4 @@
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
         - [Metodologia](/entrega1/metodologia.md)
+        - [Modelagem BPMN](/entrega1/bpmn.md)
