@@ -15,6 +15,7 @@
         - [Estimativas de custo](/entrega1/estimativa.md)
         - [Plano de Riscos](entrega1/plano_de_riscos.md)
         - [Léxico](/entrega1/lexico.md)
+        - [Documento de Visão](entrega1/documento_de_visao.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
