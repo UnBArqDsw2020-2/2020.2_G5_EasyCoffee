@@ -1,6 +1,12 @@
 # Product Backlog
 O Product Backlog é uma lista que contém todas as funções exigidas pelo produto. O Product Backlog não está necessariamente completo no início do projeto. O conteúdo desta lista é definido de acordo com os requisitos do projeto. Primeiro, você pode começar com o mais óbvio. Com o tempo, conforme você aprende mais sobre o produto e seus usuários, a lista de tarefas do produto continuará a crescer e mudar.
 
+## MoSCoW
+O método MoSCoW é uma técnica de priorização simples, mas eficaz, para o gerenciamento e organização eficaz de recursos.
+
+A técnica MoSCoW foi projetada para ajudar a selecionar e priorizar no contexto do desenvolvimento de software. As letras maiúsculas são as siglas para Must have (deve ter), Should have (deveria ter), Could have "pode ​​ter" e Won’t have (não será feito,por enquanto) e são compostas de quatro categorias usadas para organizar requisitos, histórias de usuário ou necessidades.
+
+
 ## Lista de tarefas do produto 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTL-oLfNTjfTdGJdOC-h-qVVj5wFxx-4JpZy7EoWlZNCGP65qADNpT3o7-DNrqrbBdsJpa1iV2ZD8V1/pubhtml?gid=0&single=true&widget=false&headers=false&gridlines=false&chrome=false" width="670" height="680" frameborder="0"></iframe>
 
@@ -314,7 +320,7 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 * [RF17]() via Brainstorm e Questionário.
 
 #### Feature: Acompanhamento do Pedido
-  
+**US19 - Acompanhar um pedido de uma compra, como cliente**
 
 *Tarefas*
 
@@ -689,7 +695,7 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 Disponível em:https://incuca.net/backlog-de-produto-o-que-e-e-como-construir-passo-a-passo/#:~:text=Em%20uma%20metodologia%20%C3%A1gil%20como,Backlog%20do%20time%20de%20desenvolvimento. 
 Acesso em: 17 fev 2021.
 
-- EPIC,FEATURE E USER STORY, ATÉ O MOMENTO. 
+- Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário), Até o Momento. 
 Disponível em:https://www.ateomomento.com.br/epic-feature-e-user-story/. 
 Acesso em: 17 fev 2021.
 
@@ -704,3 +710,4 @@ Acesso em: 17 fev 2021.
 |17/02/2021|1.2| Adição das US05 a US08 | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |17/02/2021|1.3| Adição das US29 a US33 | [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |18/02/2021|1.4| Adição das US14 a US18|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|18/02/2021|1.5| Adição da descrição MoSCoW|[Iago Theóphilo](https://github.com/iagotheophilo)|
