@@ -12,8 +12,9 @@
 
 <p align="justify">No presente projeto, foi feita uma adaptação do Design Sprint, trazendo uma redução no tempo de cada fase e utilizando artefatos um pouco diferentes. Dividimos o processo em dois dias:</p>
 
-- No primeiro dia foi realizado a etapa de **Unpack**, onde realizamos um Brainstorm e documentamos esse Brainstorm com a criação de um [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md).
-- No segundo dia realizamos as demais etapas: **Sketch**, onde cada membro da equipe criou sua Rich Picture, trazendo uma visualização individual do escopo do projeto; **Decision**, onde fizemos uma Rich Picture do grupo unindo as Rich Pictures individuais, e a partir disso foram feitos dois [Storyboards](/entrega1/desing_sprint/Storyboard.md); e por fim a **Prototype**, onde foi feito um protótipo de média fidelidade. 
+- No primeiro dia foi realizado a etapa de **Unpack**, onde realizamos um [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e documentamos esse [Brainstorm](/entrega1/desing_sprint/brainstorm.md) com a criação de um [Mapa Mental](/entrega1/desing_sprint/mapa_mental.md).
+- No segundo dia realizamos as demais etapas: **Sketch**, onde cada membro da equipe criou sua Rich Picture, trazendo uma visualização individual do escopo do projeto; **Decision**, onde fizemos uma Rich Picture do grupo unindo as Rich Pictures individuais, e a partir disso foram feitos dois [Storyboards](/entrega1/desing_sprint/Storyboard.md); e por fim a **Prototype**, onde foi feito um [protótipo](/entrega1/prototipo.md) de alta fidelidade. 
+- Não realizamos a etapa de **Teste** por não existir um cliente para validação.
 
 ## Referências Bibliográficas
 
@@ -23,3 +24,4 @@ KNAPP, Jake. SPRINT - O Método usado no google para testar e aplicar novas idea
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |15/02/2021|1.0|Adiciona descrição do Design Sprint|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|16/02/2021|1.1|Atualização do documento|[Gustavo Afonso](https://github.com/GustavoAPS)|
