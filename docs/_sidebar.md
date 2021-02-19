@@ -18,9 +18,9 @@
         - [Léxico](/entrega1/lexico.md)
         - [Todos os requisitos](/entrega1/requisitos.md)
         - [Product Backlog](entrega1/backlog.md)
-        - [Documento de Visão](entrega1/documento_de_visao.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
+        - [Documento de Visão](entrega1/documento_de_visao.md)
         - [Metodologia](/entrega1/metodologia.md)
         - [Modelagem BPMN](/entrega1/bpmn.md)
