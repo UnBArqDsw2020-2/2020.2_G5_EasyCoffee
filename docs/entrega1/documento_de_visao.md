@@ -18,7 +18,7 @@
 
 ### 1.4. Referências Bibliográficas
 
-<p align="justify">International Business Machines Corporation. Documento de Visão. Disponível em: https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html. Acesso em: 16 de Fev. de 2021.</p>
+International Business Machines Corporation. Documento de Visão. Disponível em: https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html. Acesso em: 16 de Fev. de 2021.
 
 ### 1.5. Visão Geral
 
@@ -190,6 +190,7 @@ O usuário deve ser capaz de acompanhar o pedido desde a etapa de confirmação 
    A pagina será testadas exaustivamente com com o intuito de manter os dados protegidos e 100% operacional 
 
 ### 7. Faixas de Qualidade
+Para maior eficiência e acessibilidade, a aplicação será web, pois possíbilita o acesso a aplicação tanto em desktops, celulares e tables por consumidores. Além disso, a aplicação deverá ser responsivo para todos os tipos de tamanho de tela. 
 
 ### 8. Precedência e Prioridade
 <p align="justify">Essa etapa descreve as prioridades dos recursos do sistema e dependência de outros recursos (precedência). Para isso são definidos critérios de prioridade.</p>
@@ -259,5 +260,6 @@ O usuário deve ser capaz de acompanhar o pedido desde a etapa de confirmação 
 |17/02/2021|1.01|Adição do tópico 4|[Danilo Domingo](https://github.com/danilow200)|
 |17/02/2021|1.02|Adição do tópico 2|[Gustavo Afonso](https://github.com/GustavoAPS)|
 |18/02/2021|1.03|Adição da Precedência e Prioridade dos recursos|[Maicon Mares](https://github.com/MaiconMares)|
+|18/02/2021|1.04|Adição da Faixas de Qualidade|[Iago Theóphilo](https://github.com/iagotheophilo)|
 
 
