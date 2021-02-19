@@ -1,12 +1,12 @@
 # Plano de Gerenciamento de Custos
-O plano de gerenciamento dos custos define o formato e estabelece as atividades e os critérios de planejamento, estruturação e controle dos custos do projeto.
+<p align="justify">O plano de gerenciamento dos custos define o formato e estabelece as atividades e os critérios de planejamento, estruturação e controle dos custos do projeto.</p>
 
 ## Estimativa de Custo
-O cálculo da expectativa de custo vai levar em conta custos de aquisição, custos com pessoal,  uma porcentagem para cobrir eventuais riscos, margem de lucro e o tempo de execução do projeto.
+<p align="justify">O cálculo da expectativa de custo vai levar em conta custos de aquisição, custos com pessoal,  uma porcentagem para cobrir eventuais riscos, margem de lucro e o tempo de execução do projeto.</p>
 
 ## Custo de Aquisição
-Incluem equipamentos, espaço de trabalho, transporte e alimentação. Para levantar o custo dos equipamentos, os integrantes levantaram os requisitos mínimos que um notebook precisa ter para que o desenvolvimento possa ser realizado tranquilamente. Com base nisso, foi realizada uma pesquisa de preço e o modelo de Notebooks que atendem aos requisitos impostos equalizando qualidade e bom preço. No quesito espaço de trabalho os integrantes chegaram a conclusão que a melhor saída é a de utilizar o trabalho remoto, devido aos efeitos da pandemia do covid-19 e por ser um método que economiza em custos de aluguel de espaço, assim como custos de transporte.
-Foi considerado também um plano de internet que atenda de forma ótima todos os integrantes do grupo.
+<p align="justify">Incluem equipamentos, espaço de trabalho, transporte e alimentação. Para levantar o custo dos equipamentos, os integrantes levantaram os requisitos mínimos que um notebook precisa ter para que o desenvolvimento possa ser realizado tranquilamente. Com base nisso, foi realizada uma pesquisa de preço e o modelo de Notebooks que atendem aos requisitos impostos equalizando qualidade e bom preço. No quesito espaço de trabalho os integrantes chegaram a conclusão que a melhor saída é a de utilizar o trabalho remoto, devido aos efeitos da pandemia do covid-19 e por ser um método que economiza em custos de aluguel de espaço, assim como custos de transporte.</p>
+<p align="justify">Foi considerado também um plano de internet que atenda de forma ótima todos os integrantes do grupo.</p>
 
 ## Custo Pessoal
 
@@ -34,12 +34,11 @@ Foi considerado também um plano de internet que atenda de forma ótima todos os
 
 ## Referência
 
-Quanto ganha um Programador?. Guia da Carreira.Disponível em: https://www.guiadacarreira.com.br/salarios/quanto-ganha-um-programador/#:~:text=J%C3%A1%20a%20revista%20Info%2C%20especializada,a%203%20anos%3A%20R%24%205.502. Acesso em: 18 fev. 2021.
-Notebook Lenovo. Amozon .Disponível em: https://www.amazon.com.br/Notebook-Lenovo-Ultrafino-ideapad-S145/dp/B086CCDMN5/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=notebook+i9&qid=1613677823&s=computers&sr=1-5. Acesso em: 18 fev. 2021.
+Quanto ganha um Programador?. Guia da Carreira.Disponível em: https://www.guiadacarreira.com.br/salarios/quanto-ganha-um-programador/#:~:text=J%C3%A1%20a%20revista%20Info%2C%20especializada,a%203%20anos%3A%20R%24%205.502. Acesso em: 18 fev. 2021.         
+Notebook Lenovo. Amozon .Disponível em: https://www.amazon.com.br/Notebook-Lenovo-Ultrafino-ideapad-S145/dp/B086CCDMN5/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=notebook+i9&qid=1613677823&s=computers&sr=1-5. Acesso em: 18 fev. 2021.      
 Internet Banda Larga com Fibra Ótica. Vivo .Disponível em: https://www.vivo.com.br/para-voce/produtos-e-servicos/para-casa/internet. Acesso em: 18 fev. 2021.
 
 ## Versionamento
-
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
