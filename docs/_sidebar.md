@@ -17,3 +17,4 @@
         - [Plano de Riscos](entrega1/plano_de_riscos.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
+        - [Metodologia](/entrega1/metodologia.md)
