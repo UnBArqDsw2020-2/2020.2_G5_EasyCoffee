@@ -27,11 +27,11 @@ International Business Machines Corporation. Documento de Visão. Disponível em
 ## 2. Posicionamento
 
 ### 2.1. Oportunidade de Negócio
-<p align="justify">O café está sempre entre as bebidas mais consumidas do mundo, e o Brasil é o maior produtor de café em todo o planeta, sendo também uma forte presença na vida de muitos brasileiros.
+<p align="justify">O café está sempre entre as bebidas mais consumidas do mundo, e o Brasil é o maior produtor de café em todo o planeta, sendo também uma forte presença na vida de muitos brasileiros.</p>
 
-Tendo em vista a situação de uma cafeteria tradicional e como esse modelo de negócios foi afetado pela pandemia, o grupo percebeu uma oportunidade para propor uma solução que ajudasse a modernizar o negócio por meio de vendas em delivery.
+<p align="justify">Tendo em vista a situação de uma cafeteria tradicional e como esse modelo de negócios foi afetado pela pandemia, o grupo percebeu uma oportunidade para propor uma solução que ajudasse a modernizar o negócio por meio de vendas em delivery.</p>
 
-Dessa forma o Easy Coffee é um site que facilitará aos clientes degustar os mesmos produtos que estavam acostumados presencialmente, no conforto e segurança do lar.
+<p align="justify">Dessa forma o Easy Coffee é um site que facilitará aos clientes degustar os mesmos produtos que estavam acostumados presencialmente, no conforto e segurança do lar.
 </p>
 
 
@@ -142,55 +142,59 @@ Os principais diferenciais do produto para os outros no mercado são:
 
 #### 4.3. Suposições e Dependências
 
-Para o funcionamento do software é suposto que a equipe consiga desenvolve-lo durante o período da disciplina de Arquitetura e Desenho de Software. Outro ponto do projeto é o cliente, que a equipe não está desenvolvendo o projeto para um cliente específico e sim para a disciplina anteriomente citada, juntamente com isso vem o custo, que a equipe não tem como arcar sem ajuda, esses dois pontos possivelmente impedirá o lançamento final do produto, e que seja hospedado durante um longo período.
+<p align="justify">Para o funcionamento do software é suposto que a equipe consiga desenvolve-lo durante o período da disciplina de Arquitetura e Desenho de Software. Outro ponto do projeto é o cliente, que a equipe não está desenvolvendo o projeto para um cliente específico e sim para a disciplina anteriomente citada, juntamente com isso vem o custo, que a equipe não tem como arcar sem ajuda, esses dois pontos possivelmente impedirá o lançamento final do produto, e que seja hospedado durante um longo período.</p>
 
 #### 4.4. Custo e Precificação
 
-O produto será disponibilizado em um domínio na WEB, tendo como custo as despesas relacionadas às equipes de desenvolvimento e gerenciamento do projeto, aos valores pagos para manter seus servidores em funcionamento. 
+<p align="justify">O produto será disponibilizado em um domínio na WEB, tendo como custo as despesas relacionadas às equipes de desenvolvimento e gerenciamento do projeto, aos valores pagos para manter seus servidores em funcionamento. </p>
 
 #### 4.5. Instalação
 
-O produto não possuirá instalção, uma vez visto que ele estará disponivel em um domínio na WEB, necissitando apenas de um navegador para acessa-lo.
+<p align="justify">O produto não possuirá instalção, uma vez visto que ele estará disponivel em um domínio na WEB, necissitando apenas de um navegador para acessa-lo.</p>
 
 ### 5. Recursos do Produto
 
 #### 5.1. Cadastro de usuário
 
-O cadastro de usuário contém dados básicos como nome, e-mail, endereço de entrega, telefone, entre outros. Esse perfil possui uma acesso limitado às funcionalidades da aplicação
+<p align="justify">O cadastro de usuário contém dados básicos como nome, e-mail, endereço de entrega, telefone, entre outros. Esse perfil possui uma acesso limitado às funcionalidades da aplicação.</p>
 
 #### 5.2. Cadastro de produtos
 
-O cadastro de produtos é realizado pelo proprietário. Junto com o produto cadastrado há algumas informações sobre o mesmo.
+<p align="justify">O cadastro de produtos é realizado pelo proprietário. Junto com o produto cadastrado há algumas informações sobre o mesmo.</p>
 
 #### 5.3. Carrinho de Compras
 
-Cada usuário possui um carrinho de compras. Nele estão os itens que foram enviados para lá, a quantidade e o preço total. É possível excluir itens do carrinho de compras.
+<p align="justify">Cada usuário possui um carrinho de compras. Nele estão os itens que foram enviados para lá, a quantidade e o preço total. É possível excluir itens do carrinho de compras.</p>
 
 #### 5.4. Pagamento online
 
-A forma de pagamento é 100% online. O usuário poderá escolher a forma de pagamento dentre as opções disponíveis.
+<p align="justify">A forma de pagamento é 100% online. O usuário poderá escolher a forma de pagamento dentre as opções disponíveis.</p>
 
 #### 5.5. Controle de estoque
 
-O proprietário pode controlar o estoque de produtos que estão armazenados. Podendo removê-los da loja quando o estoque tiver acabado.
+<p align="justify">O proprietário pode controlar o estoque de produtos que estão armazenados. Podendo removê-los da loja quando o estoque tiver acabado.</p>
 
 #### 5.6. Acompanhamento do pedido
 
-O usuário deve ser capaz de acompanhar o pedido desde a etapa de confirmação do pagamento até a entrega do produto.
+<p align="justify">O usuário deve ser capaz de acompanhar o pedido desde a etapa de confirmação do pagamento até a entrega do produto.</p>
 
 ### 6. Restrições
 * A página deve estar em funcionamento até maio;
 * Ter um computador com acesso a internet ou um celular com acesso a internet.
+
 #### 6.1 Restrições Externas
-   Dentre as restrições externas, a dificuldade no uso da tecnologia e a compreensão no uso da linguagem estabelecida , além de possíveis transtornos entre a equipe.
+
+<p align="justify">Dentre as restrições externas, a dificuldade no uso da tecnologia e a compreensão no uso da linguagem estabelecida , além de possíveis transtornos entre a equipe.</p>
+
 #### 6.2 Restrições de Design
-   Toda a interação com o software deve ser feita de forma natural, de modo que o usuário não tenha dúvidas sobre como realizar determinada tarefa dentro do aplicativo. Os recursos cujo usuários têm acesso devem ser de fácil entendimento, de modo que o usuário não desista durante alguma ação. Para facilitar o desenvolvimento será feito um página web.
+
+<p align="justify">Toda a interação com o software deve ser feita de forma natural, de modo que o usuário não tenha dúvidas sobre como realizar determinada tarefa dentro do aplicativo. Os recursos cujo usuários têm acesso devem ser de fácil entendimento, de modo que o usuário não desista durante alguma ação. Para facilitar o desenvolvimento será feito um página web.</p>
 
 #### 6.3 Restrições de Confiabilidade
-   A pagina será testadas exaustivamente com com o intuito de manter os dados protegidos e 100% operacional 
+A pagina será testadas exaustivamente com com o intuito de manter os dados protegidos e 100% operacional.
 
 ### 7. Faixas de Qualidade
-Para maior eficiência e acessibilidade, a aplicação será web, pois possíbilita o acesso a aplicação tanto em desktops, celulares e tables por consumidores. Além disso, a aplicação deverá ser responsivo para todos os tipos de tamanho de tela. 
+<p align="justify">Para maior eficiência e acessibilidade, a aplicação será web, pois possíbilita o acesso a aplicação tanto em desktops, celulares e tables por consumidores. Além disso, a aplicação deverá ser responsivo para todos os tipos de tamanho de tela. </p>
 
 ### 8. Precedência e Prioridade
 <p align="justify">Essa etapa descreve as prioridades dos recursos do sistema e dependência de outros recursos (precedência). Para isso são definidos critérios de prioridade.</p>
@@ -259,7 +263,9 @@ Para maior eficiência e acessibilidade, a aplicação será web, pois possíbil
 |16/02/2021|1.0|Adiciona Estrutura inicial do documento de visão e tópicos 1. Introdução e 3. Perfis dos Envolvidos.|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |17/02/2021|1.01|Adição do tópico 4|[Danilo Domingo](https://github.com/danilow200)|
 |17/02/2021|1.02|Adição do tópico 2|[Gustavo Afonso](https://github.com/GustavoAPS)|
-|18/02/2021|1.03|Adição da Precedência e Prioridade dos recursos|[Maicon Mares](https://github.com/MaiconMares)|
-|18/02/2021|1.04|Adição da Faixas de Qualidade|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|18/02/2021|1.03|Adição do tópico 5|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|18/02/2021|1.04|Adição da Precedência e Prioridade dos recursos|[Maicon Mares](https://github.com/MaiconMares)|
+|18/02/2021|1.05|Adição da Faixas de Qualidade|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|18/02/2021|1.06|Revisão|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 
 
