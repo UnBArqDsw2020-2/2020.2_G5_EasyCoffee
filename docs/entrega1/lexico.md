@@ -36,7 +36,7 @@
 | **Noção** | É uma bebida feita a partir da infusão de água quente com grãos de café torrados e moídos. <br> Pode se referir também ao pó de café, café em grãos, café em cápsulas, ou café em outras formas que são utilizadas para o preparo da bebida.|
 | **Impacto** | Pode ser [cadastrado](#Cadastro) café em grãos, em pó ou em cápsulas pelo [proprietário](#Proprietário) para [venda](#Venda) <br> Pode ser  [comprado](#Compra) café em grãos, em pó ou em cápsulas pelo [cliente](#Cliente). <br> Pode ser [comprado](#Compra) pelo [cliente](#Cliente) uma [cafeteira](#Cafeteira) para fazer [café](#Café). |
 
-<p align="center"><img src="./../img/lexico/xicara_de_cafe.JPG" width=150 height=150></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/xicara_de_cafe.JPG?raw=true" width=150 height=150></p>
 <p align="center"><i>Imagem de uma xícara com café </i><br> Disponível em: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/200px-A_small_cup_of_coffee.JPG</p>
 
 ### Café Arábica 
@@ -60,7 +60,7 @@
 | **Noção** | Espécie de [café](#Café) cultivada em diversos países como o Brasil e o Vietnã. Esse tipo de [café](#Café) tem facilidade de se desenvolver em regiões de clima quente e úmido, além de poder ser cultivado em regiões com altitudes mais baixas de até 600 metros. Essa espécie é de fácil plantio, pois é mais resistente ao ataque de pragas. Esse tipo de grão tem uma concentração mais alta de [cafeína](#Cafeína), o que torna o sabor do [café](#Café) mais amargo e sua consistência mais encorpada. |
 | **Impacto** | O [café](#Café) [vendido](#Venda) pelo [proprietário](#Proprietário) pode ser café robusta. <br> Pode ser comprado pelo [cliente](#Cliente). <br> Pode ser [cadastrado](#Cadastro) pelo [proprietário](#Proprietário). |
 
-<p align="center"><img src="./../img/lexico/cafe_robusta.png" width=200 height=auto></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/cafe_robusta.png?raw=true" width=200 height=auto></p>
 <p align="center"><i> Imagem de grão de café robusta </i><br> Disponível em: https://img.itdg.com.br/tdg/images/blog/uploads/2019/04/graos-robusta-e-arabica.jpg</p>
 
 ### Cafeína
@@ -81,7 +81,7 @@
 | **Noção** | Utensílio culinário utilizado para preparar [cafés](#Café).  |
 | **Impacto** | Pode ser [cadastrado](#Cadastro) pelo [proprietário](#Proprietário). <br> Pode ser comprado pelo [cliente](#Cliente). |
 
-<p align="center"><img src="./../img/lexico/cafeteira.jpg" width=200 height=200></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/cafeteira.jpg?raw=true" width=200 height=200></p>
 <p align="center"><i>Imagem de uma cafeteira </i><br> Disponível em: http://philco.vteximg.com.br/arquivos/ids/169071/CAFETEIRA-INOX-PLUS-BCF36I_063901102_1.jpg?v=636765905077070000</p>
 
 ### Cliente
@@ -102,7 +102,7 @@
 | **Noção** | Utensílio culinário feito de pano, utilizado como filtro para separar a parte líquida da parte sólida do [café](#Café). |
 | **Impacto** | Pode ser [cadastrado](#Cadastro) pelo [proprietário](#Proprietário) para [venda](#Venda). <br> Pode ser [comprado](#Compra) pelo [cliente](#Cliente).|
 
-<p align="center"><img src="./../img/lexico/coador.jpg" width=200 height=200></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/coador.jpg?raw=true" width=200 height=200></p>
 <p align="center"><i>Imagem de um coador</i><br>Disponível em: http://d26lpennugtm8s.cloudfront.net/stores/522/745/products/coador-de-cafe-de-pano-grande-com-aro-e-cabo-de-arame-480-coisasdecasanet1-2337beaef6fa85953d15411137417485-640-0.jpg</p>
 
 ### Compra
@@ -132,7 +132,7 @@
 | **Noção** | Utensílio feito de papel semipermeável, utilizado para separar a parte líquida da parte sólida do café. |
 | **Impacto** | Pode ser [cadastrado](#Cadastro) para [venda](#Venda) pelo [proprietário](#Proprietário) <br> Pode ser [comprado](#Compra) pelo [cliente](#Cliente)|
 
-<p align="center"><img src="./../img/lexico/filtros.jpg" width=200 height=200></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/filtros.jpg?raw=true" width=200 height=200></p>
 <p align="center"><i>Imagem de filtros de café</i><br>Disponível em: https://2.bp.blogspot.com/-NNYkRlDgIdM/WKyuCL2I7fI/AAAAAAAAQF8/gWc7_IltMOcuKJCmLJ4IKhGZM0Fyu5F4gCEw/s1600/00Copo-do-filtro-de-gotejamento-papel-de-filtro-de-alta-qualidade-102-Modelo-papel-de-filtro.jpg</p>
 
 ### Moedor de café
@@ -144,7 +144,7 @@
 | **Noção** | Aparelho utilizado para moer grãos de [café](#Café). Podendo ser manual ou elétrico. |
 | **Impacto** | Pode ser [cadastrado](#Cadastro) para [venda](#Venda) pelo [proprietário](#Proprietário) <br> Pode ser [comprado](#Compra) pelo [cliente](#Cliente) para moer grãos de [café](#café). |
 
-<p align="center"><img src="./../img/lexico/moedor_manual.jpg" width=200 height=200><img src="./img/lexico/moedor_eletrico.jpg" width=200 height=200></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/moedor_manual.jpg?raw=true" width=200 height=200><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/lexico/moedor_eletrico.jpg?raw=true" width=200 height=200></p>
 <p align="center"><i>Imagens de moedor de café manual e moedor de café elétrico</i><br>Disponível em: https://a-static.mlcdn.com.br/618x463/moedor-de-cafe-manual-graos-aco-inox-tramontina/casacha/8059466087/9cc2866d3ea4320cca8386f9af7239f3.jpg <br> https://i.zst.com.br/thumbs/51/1d/11/925881629.jpg</p>
 
 ### Proprietário

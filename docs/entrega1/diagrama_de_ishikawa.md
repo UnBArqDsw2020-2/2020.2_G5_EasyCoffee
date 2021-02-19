@@ -12,7 +12,7 @@
 - Para gerar melhorias nos processos.
 
 <p align="center">
-    <img src="./../img/diagrama_de_ishikawa/diagrama_de_ishikawa.png"/>
+    <img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/diagrama_de_ishikawa/diagrama_de_ishikawa.png?raw=true"/>
     <br>
     <i>Diagrama de Ishikawa</i>
 </p>
