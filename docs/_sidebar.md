@@ -19,3 +19,4 @@
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
+        - [Metodologia](/entrega1/metodologia.md)
