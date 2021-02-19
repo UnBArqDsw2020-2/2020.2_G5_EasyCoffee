@@ -11,6 +11,7 @@
         	- [Storyboard](/entrega1/desing_sprint/Storyboard.md)
             - [Protótipo](entrega1/prototipo.md)
         - [5W2H](/entrega1/5w2h.md)
+        - [Questionário](/entrega1/questionario.md)
         - [Diagrama de Ishikawa](/entrega1/diagrama_de_ishikawa.md)
         - [Léxico](/entrega1/lexico.md)
         - [Guia de Estilo](entrega1/guia_de_estilo.md)
