@@ -20,6 +20,37 @@ O uso desse questionário para auxiliar o desenvolvimento do projeto, consistiu 
 
 <p align="center"><img src="entrega1/img/questionario_parte_2.jpeg" width=auto height=auto></p>
 
+## Dados das Resposta do Questionário
+
+<p align="center"><img src="entrega1/img/Respostas1.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas2.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas3.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas4.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas5.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas6.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas7.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas8.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas9.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas10.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas11.png" width=auto height=auto></p>
+
+<p align="center"><img src="entrega1/img/Respostas12.png" width=auto height=auto></p>
+
+## Principais Sugestões
+
+<p align="justify">As principais sugestões apresentadas pelos entrevistados são mais informações sobre os tipos de café nas lojas.</p>
+
+<p align="center"><img src="entrega1/img/Respostas13.png" width=auto height=auto></p>
 
 ## Referências Bibliográficas
 
@@ -31,3 +62,4 @@ PENTEADO, Rosângela. Técnicas de Obtenção de Requisitos. UFSCar. Disponível
 |------|------|------|------|
 |13/02/2021|1.0|Criação do questionário|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |13/02/2021|1.0|Adição de bibliográfia sobre o tema| [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro) |
+|18/02/2021|1.1|Adição de imagens e das respostas| [Gustavo Afonso](https://github.com/GustavoAPS) |
