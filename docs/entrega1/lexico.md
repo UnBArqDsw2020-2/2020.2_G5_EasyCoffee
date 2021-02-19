@@ -48,7 +48,7 @@
 | **Noção** |Espécie de [café](#Café) originária da Arábia e Etiópia. É utilizado na produção de [cafés](#Café) de qualidade superior. Muitos dos [cafés](#Café) finos produzidos do mundo são feitos a partir de variações dessa espécie. Seus grãos são cultivados em altitudes de mais de 1000 metros, pois a grande altitude está relacionada com a maior qualidade do grão. Essa espécie possui um teor mais baixo de [cafeína](#Cafeína), porém um teor mais elevado de açúcar. |
 | **Impacto** | O [café](#Café) [vendido](#Venda) pelo [proprietário](#Proprietário) pode ser café arábica. <br> Pode ser comprado pelo [cliente](#Cliente). <br> Pode ser [cadastrado](#Cadastro) pelo [proprietário](#Proprietário).|
 
-<p align="center"><img src="./../img/lexico/cafe_arabica.jpg" width=200 height=200></p>
+<p align="center"><img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/img/lexico/cafe_arabica.jpg?raw=true" width=200 height=200></p>
 <p align="center"><i> Imagem de grão de café arábica </i><br> Disponível em: https://img.itdg.com.br/tdg/images/blog/uploads/2019/04/graos-robusta-e-arabica.jpg</p>
 
 ### Café Robusta 
