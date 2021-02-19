@@ -236,15 +236,87 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 #### Feature: Pagamento
 
-
-#### Feature: Acompanhamento do Pedido
-**US19 - Acompanhar um pedido de uma compra, como cliente**
-
-  
+**US14 - Eu, como cliente, quero editar a quantidade de um determinado produto no carrinho de compras.**
 
 *Tarefas*
 
+* O cliente deve ser capaz de alterar a quantidade de produtos no carrinho.
+* A tela de edição deve ser feita como planejado no protótipo.
+
+*Critérios de aceitação:*
+
+* O cliente deve ser capaz de aditar seu carrinho.
+* O cliente deve estar logado no sistema.
+
+*Requisitos relacionados à história:*
+* [RF14]() via Brainstorm.
+
+**US15 - Eu, como cliente, quero realizar compra de produtos.**
+
+*Tarefas*
+
+* O cliente deve ser capaz de selecionar os produtos e adicionar ao carrinho.
+* A tela onde os produtos estão listados deve ser feita em conformidade com o protótipo.
+
+*Critérios de aceitação:*
+
+* O cliente pode adicionar corretamente seus produtos ao carrinho. 
+* o cliente deve estar logado em sua conta.
+
+*Requisitos relacionados à história:*
+* [RF16]() via Brainstorm.
+
+**US16 - Eu, como administrador, quero cadastrar informações a respeito do frete.**
+
+*Tarefas*
+
+* O administrador do sistema deve ser capaz de cadastrar informações sobre o preço do frete.
+* A tela onde o frete é cadastrado deve ser feita em conformidade com o protótipo.
+
+*Critérios de aceitação:*
+
+* O administrador pode adicionar corretamente as informações sobre o frete dos produtos. 
+* Apenas o administrador logado em sua conta pode cadastrar informações sobre o frete.
+
+*Requisitos relacionados à história:*
+* [RF23]() via Brainstorm.
+
+**US17 - Eu, como cliente, quero visualizar informações a respeito do frete.**
+
+*Tarefas*
+
+* O cliente deve ser capaz de visualizar informações sobre o frete de seus produtos.
+* A tela onde o frete é mostrado deve ser feita em conformidade com o protótipo.
+
+*Critérios de aceitação:*
+
+* O cliente deve ver as informações sobre o frete apenas de seus produtos. 
+* O cliente logado em sua conta para visualizar informações sobre o frete.
+
+
+*Requisitos relacionados à história:*
+* [RF24]() via Brainstorm.
+
+**US18 - Eu, como cliente, quero fazer o pagamento dos produtos selecionados**
+
+*Tarefas*
+
+* O cliente deve ser capaz de fazer o pagamento de seus produtos.
+* A tela de pagamentos deve ser feita em conformidade com o protótipo.
+
+*Critérios de aceitação:*
+
+* O cleinte deve ser capaz de pagar os produtos do carrinho. 
+* Apenas o usuário e o administrador devem ter acesso aos dados da compra.
+
+
+*Requisitos relacionados à história:*
+* [RF17]() via Brainstorm e Questionário.
+
+#### Feature: Acompanhamento do Pedido
   
+
+*Tarefas*
 
 * A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
 
@@ -558,3 +630,4 @@ Acesso em: 17 fev 2021.
 |17/02/2021|1.1|Product Backlog, História de usuário US09 até US15|[Danilo Domingo](https://github.com/danilow200)|
 |17/02/2021|1.2| Adição das US05 a US08 | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |17/02/2021|1.3| Adição das US29 a US33 | [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|18/02/2021|1.4| Adição das US14 a US18|[Gustavo Afonso](https://github.com/GustavoAPS)|
