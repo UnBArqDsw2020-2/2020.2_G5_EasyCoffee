@@ -71,5 +71,6 @@ SCRUM. Disponível em: [https://www.desenvolvimentoagil.com.br/scrum/](https://w
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
+|17/02/2021|0.5|Discussão de metodologia|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |18/02/2021|1.0|Adiciona metodologia|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 
