@@ -453,27 +453,100 @@ As histórias de usuário são ferramentas para o desenvolvimento ágil de softw
 
 * [RF01]() via Brainstorm e Storyboard.
 
-
-
-
-
-
 #### Feature: Login
+
+**US24 - Eu, como administrador, quero fazer login na aplicação.**
+
+*Tarefas:*
+
+* Utilizar token JWT para manter a sessão salva, caso o usuário feche a aba.
+* Diferenciar permissões entre administrador e usuário comum.
+* Salvar os dados do administrador em sua conta antes da sessão ser finalizada.
+
+*Critérios de aceitação:*
+
+* Administrador deve ter permissões especiais
+* Usuários comuns não podem ter permissões de administrador
+* Deve ser determinado um tempo para a sessão ser esgotada
+* Definir critérios de criação de conta, ex.: senha mínimo 6 dígitos incluindo ao menos uma letra maiúscula e um número.
+
+*Requisitos relacionados à história:*
+
+* [RF02]() via Brainstorm e Storyboard.
+
+**US25 - Eu, como cliente, quero fazer login na aplicação.**
+*Tarefas:*
+* Utilizar token JWT para manter a sessão salva, caso o usuário feche a aba.
+* Diferenciar permissões entre administrador e usuário comum.
+* Salvar os dados do usuário em sua conta antes da sessão ser finalizada.
+
+*Critérios de aceitação:*
+
+* Usuários comuns não podem ter permissões de administrador
+* Deve ser determinado um tempo para a sessão ser esgotada
+* Definir critérios de criação de conta, ex.: senha mínimo 6 dígitos incluindo ao menos uma letra maiúscula e um número.
+
+*Requisitos relacionados à história:*
+* [RF02]() via Brainstorm e Storyboard.
 
 ### Épico 4: Área de Usuário
 
 #### Feature: Área do Administrador
 
+**US26 - Eu, como administrador, quero adicionar informações a um glossário sobre café.**
 
+*Tarefas:*
 
+* Criar estrutura, uma espécie de formulário, padronizada para adicionar as informações em um padrão comum.
+* Linkar as informações ao respectivo glossário.
 
+*Critérios de aceitação:*
+
+* Não devem haver informações duplicadas.
+* A informação adicionada deve ser linkada ao glossário correto.
+
+*Requisitos relacionados à história:*
+
+* [RF26]() via Brainstorm e Storyboard.
+
+**US27 - Eu, como administrador, quero editar informações em um glossário sobre café.**
+
+*Tarefas:*
+
+* Implementar funcionalidade editar visível somente aos administradores
+* Recuperar do Banco de Dados o glossário correspondente
+* Atualizar somente as informações editadas
+* Após edição atualizar a lista de glossários
+
+*Critérios de aceitação:*
+
+* Todos os dados editados devem ser persistidos
+* Somente administradores podem editar um glossário
+* O glossário editado deve aparecer com as novas informações junto aos outros.
+
+*Requisitos relacionados à história:*
+
+* [RF27]() via Brainstorm e Storyboard.
+
+**US28 - Eu, como administrador, quero excluir informações de um glossário sobre café.**
+
+*Tarefas:*
+
+* Implementar funcionalidade excluir visível somente aos administradores
+* Após a exclusão atualizar a lista de glossários
+
+*Critérios de aceitação:*
+
+* Somente administradores podem excluir um glossário.
+* O glossário excluído não deve aparecer junto aos outros após a exclusão.
+
+*Requisitos relacionados à história:*
+
+* [RF28]() via Brainstorm e Storyboard.
 
 **US29 - Eu, como administrador, quero visualizar informações no glossário sobre café.**
 
-  
 *Tarefas*
-
-  
 
 * Recuperar do Banco de Dados o glossário sobre café.
 
