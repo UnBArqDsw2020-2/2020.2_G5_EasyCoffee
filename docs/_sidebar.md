@@ -10,6 +10,7 @@
             - [Rich Picture](/entrega1/desing_sprint/rich_picture.md)
             - [Storyboard](/entrega1/desing_sprint/Storyboard.md)
             - [Protótipo](entrega1/prototipo.md)
+        - [Guia de Estilo](entrega1/guia_de_estilo.md)
         - [5W2H](/entrega1/5w2h.md)
         - [Questionário](/entrega1/questionario.md)
         - [Diagrama de Ishikawa](/entrega1/diagrama_de_ishikawa.md)
@@ -18,7 +19,6 @@
         - [Léxico](/entrega1/lexico.md)
         - [Todos os requisitos](/entrega1/requisitos.md)
         - [Product Backlog](entrega1/backlog.md)
-        - [Guia de Estilo](entrega1/guia_de_estilo.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
         - [Documento de Visão](entrega1/documento_de_visao.md)
