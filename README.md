@@ -17,11 +17,17 @@
 ## Sobre 
 O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem vender diversos produtos e os seus clientes podem realizar compras sem se deslocar até a cafeteria. Tendo em vista o âmbito de Transformação Digital, nossa solução visará resolver o problema de flexibilidade no acesso aos serviços/produtos da cafeteria.
 
-## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+## Screenshots Primeira Entrega
+![alt text](https://raw.githubusercontent.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/master/docs/entrega1/img/Captura%20de%20tela%20de%202021-02-19%2021-45-10.png)
+![alt text](https://raw.githubusercontent.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/master/docs/entrega1/img/Captura%20de%20tela%20de%202021-02-19%2021-52-21.png)
 
-## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione o(s)s vídeo(s) da Primeira Entrega.
+## Vídeo(s) Primeira Entrega
+
+### Easy Coffee  | Módulo Projeto Não Orientado a Abordagens Específicas | 2º/2020
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVBDfov2Z8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Easy Coffee | Módulo Processos/Metodologias/Abordagens | Arquitetura e Desenho de Software 2º/2020
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9V6OZ4iW42g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
