@@ -24,10 +24,10 @@ O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem
 ## Vídeo(s) Primeira Entrega
 
 ### Easy Coffee  | Módulo Projeto Não Orientado a Abordagens Específicas | 2º/2020
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cVBDfov2Z8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Vídeo 1](https://www.youtube.com/embed/cVBDfov2Z8k)
 
 ### Easy Coffee | Módulo Processos/Metodologias/Abordagens | Arquitetura e Desenho de Software 2º/2020
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9V6OZ4iW42g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Vídeo 2](https://www.youtube.com/embed/9V6OZ4iW42g)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
