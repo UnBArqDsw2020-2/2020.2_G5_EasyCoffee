@@ -8,7 +8,7 @@
 <p align="justify">Por meio do diagrama a seguir podemos definir os riscos que podem afetar o projeto em quatro categorias gerais: Técnico, Externo, Organizacional e Gerenciamento de projeto.</p>
 
 <p align="center">
-    <img src="../img/plano_de_riscos/easy_coffee_EAR.png"/>
+    <img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/master/docs/entrega1/img/plano_de_riscos/easy_coffee_EAR.png?raw=true"/>
     <br>
     <i>Estrutura Analítica de Riscos - EasyCoffee</i>
 </p>
