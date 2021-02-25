@@ -25,3 +25,9 @@
         - [Documento de Visão](entrega1/documento_de_visao.md)
         - [Metodologia](/entrega1/metodologia.md)
         - [Modelagem BPMN](/entrega1/bpmn.md)
+
+- 2 Modelagem
+    - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais
+        
+        - 2.1.1 Modelagem UML Estática
+            - [Diagrama de Pacotes](/entrega2/diagramas_uml/diagrama_de_pacotes.md)
