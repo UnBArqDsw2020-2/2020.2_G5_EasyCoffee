@@ -17,6 +17,9 @@ O Diagrama de Atividades é um diagrama dinâmico que foca em representar o flux
 </p>
 
 
+- UML-DIAGRAMS. Activity Diagrams [S. l.]; Disponível em: https://www.uml-diagrams.org/activity-diagrams.html. Acesso em: 01 março. 2021.
+
+- LUCIDCHART. O que é diagrama de atividades UML? [S. l.]; Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml. Acesso em: 27 set. 2020.
 
 ## Versionamento
 
@@ -24,3 +27,4 @@ O Diagrama de Atividades é um diagrama dinâmico que foca em representar o flux
 |------|------|------|------|
 |27/02/2021|1.0|Criação do Diagrama de Atividades do Cliente|[Maicon Mares](https://github.com/MaiconMares)|
 |27/02/2021|1.0|Criação do Diagrama de Atividades do Administrador|[Maicon Mares](https://github.com/MaiconMares)|
+|05/03/2021|1.0|Adicionando referências bibliográficas|[Gustavo Afonso](https://github.com/GustavoAPS)|
