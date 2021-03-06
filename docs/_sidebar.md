@@ -31,3 +31,4 @@
         
         - 2.1.1 Modelagem UML Estática
             - [Diagrama de Pacotes](/entrega2/diagramas_uml/diagrama_de_pacotes.md)
+            - [Diagrama de Componentes](/entrega2/diagramas_uml/diagrama_de_componentes.md)
