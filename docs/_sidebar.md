@@ -31,3 +31,6 @@
         
         - 2.1.1 Modelagem UML Estática
             - [Diagrama de Pacotes](/entrega2/diagramas_uml/diagrama_de_pacotes.md)
+        
+        - 2.1.2 Modelagem UML Dinâmica
+            - [Diagrama de Atividades](/entrega2/diagramas_uml/diagrama_de_atividades.md)
