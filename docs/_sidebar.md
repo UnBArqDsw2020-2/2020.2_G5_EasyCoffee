@@ -35,3 +35,4 @@
         
         - 2.1.2 Modelagem UML Dinâmica
             - [Diagrama de Atividades](/entrega2/diagramas_uml/diagrama_de_atividades.md)
+            - [Diagrama de Comunicação](/entrega2/diagramas_uml/diagrama_de_comunicacao.md)
