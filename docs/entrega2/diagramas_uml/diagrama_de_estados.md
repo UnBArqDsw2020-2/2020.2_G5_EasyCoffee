@@ -2,15 +2,18 @@
 
 O diagrama de estados é um tipo de diagrama de comportamento na Unified Modeling Language (UML), que representa a transformação entre vários objetos. A máquina de estado serve para descrever objetos que têm um comportamento complicado ou significativo.Podemos usar o diagrama para classes, componentes e operações. 
 
-Com o objetivo de trazer maior qualidade ao projeto, utilizaremos o diagrama apenas para represetar a operação mais significativa para a regra de negócio, a operação de compra.
 
 Foi utilizado a ferramenta [LucidHart](https://www.lucidchart.com) para elaboração desse diagrama.
 
 ## V1.0
 
+### Compra
 ![alt text](../img/diagrama_estados.png)
 Feito por: [Iago Theóphilo](https://github.com/iagotheophilo)
 
+### Login na aplicação
+![alt text](../img/login_DE.png)
+Feito por: [Iago Theóphilo](https://github.com/iagotheophilo)
 ## Referência Bibliográficas
  - https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-maquina-de-estados-uml. Acesso em: 25 fev. 2021.
  - UML. State Machine Diagrams. [S. l.], 2020. Disponível em: https://www.uml-diagrams.org/state-machine-diagrams.html. Acesso em: 26 fev. 2021.
@@ -21,4 +24,5 @@ Feito por: [Iago Theóphilo](https://github.com/iagotheophilo)
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|26/02/2021|1.0|Criando e adicionando a V1.0 do diagrama|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|26/02/2021|1.0|Criando e adicionando a V1.0 do diagrama do caso Compra|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|06/03/2021|1.0|Criando e adicionando a V1.0 do diagrama do caso Login|[Iago Theóphilo](https://github.com/iagotheophilo)|
