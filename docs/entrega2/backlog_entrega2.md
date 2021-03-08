@@ -326,7 +326,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * [RF17]() via Brainstorm e Questionário.
 
 #### Feature: Acompanhamento do Pedido
-**US19 - Acompanhar um pedido de uma compra, como cliente**
+**US19 - Eu, como cliente, quero acompanhar um pedido de uma compra.**
 
 *Tarefas*
 
@@ -352,7 +352,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 
 
-**US20 - Acompanhar um pedido de uma compra, como administrador**
+**US20 - Eu, como administrador, quero atualizar o status de uma compra.**
 
   
 
@@ -437,8 +437,10 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 * [RF01]() via Brainstorm e Storyboard.
 
+**US23 - Eu, como cliente, quero visualizar meu cadastro no site.**
 
-**US23 - Eu, como cliente, quero excluir meu cadastro no site.**
+
+**US24 - Eu, como cliente, quero excluir meu cadastro no site.**
 
   
 
@@ -467,7 +469,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 #### Feature: Login
 
-**US24 - Eu, como administrador, quero fazer login na aplicação.**
+**US25 - Eu, como administrador, quero fazer login na aplicação.**
 
 *Tarefas:*
 
@@ -486,7 +488,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 * [RF02]() via Brainstorm e Storyboard.
 
-**US25 - Eu, como cliente, quero fazer login na aplicação.**
+**US26 - Eu, como cliente, quero fazer login na aplicação.**
 *Tarefas:*
 * Utilizar token JWT para manter a sessão salva, caso o usuário feche a aba.
 * Diferenciar permissões entre administrador e usuário comum.
@@ -505,7 +507,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 #### Feature: Área do Administrador
 
-**US26 - Eu, como administrador, quero adicionar informações a um glossário sobre café.**
+**US27 - Eu, como administrador, quero adicionar informações a um glossário sobre café.**
 
 *Tarefas:*
 
@@ -521,7 +523,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 * [RF26]() via Brainstorm e Storyboard.
 
-**US27 - Eu, como administrador, quero editar informações em um glossário sobre café.**
+**US28 - Eu, como administrador, quero editar informações em um glossário sobre café.**
 
 *Tarefas:*
 
@@ -540,7 +542,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 * [RF27]() via Brainstorm e Storyboard.
 
-**US28 - Eu, como administrador, quero excluir informações de um glossário sobre café.**
+**US29 - Eu, como administrador, quero excluir informações de um glossário sobre café.**
 
 *Tarefas:*
 
@@ -556,7 +558,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 * [RF28]() via Brainstorm e Storyboard.
 
-**US29 - Eu, como administrador, quero visualizar informações no glossário sobre café.**
+**US30 - Eu, como administrador, quero visualizar informações no glossário sobre café.**
 
 *Tarefas*
 
@@ -581,7 +583,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 #### Feature: Área do Cliente
 
 
-**US30 - Eu, como cliente, quero acessar o meu histórico de produtos comprados anteriormente.**
+**US31 - Eu, como cliente, quero acessar o meu histórico de produtos comprados anteriormente.**
 
   
 
@@ -612,7 +614,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * [RF19]() via Brainstorm.
 
 
-**US31 - Eu, como cliente, quero marcar um produto como favorito.**
+**US32 - Eu, como cliente, quero marcar um produto como favorito.**
 
   
 
@@ -641,7 +643,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * [RF22]() via Brainstorm.
 
 
-**US32 - Eu, como cliente, quero visualizar meus produtos marcados como favoritos.**
+**US33 - Eu, como cliente, quero visualizar meus produtos marcados como favoritos.**
 
   
 
@@ -670,7 +672,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * [RF22]() via Brainstorm.
 
 
-**US33 - Eu, como cliente, quero visualizar informações no glossário sobre café.**
+**US34 - Eu, como cliente, quero visualizar informações no glossário sobre café.**
 
   
 
@@ -720,3 +722,4 @@ Acesso em: 17 fev 2021.
 |18/02/2021|1.6| Adição da descrição MoSCoW|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |04/03/2021|1.7| Repriorização do Backlog e pontuação com planning poker | [Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |08/03/2021|1.7|Adiciona explicações sobre o backlog|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|08/03/2021|1.7|Corrige nome das Us e corrige erros[Gustavo Afonso](https://github.com/GustavoAPS)|
