@@ -14,8 +14,9 @@
 
 ## Referências Bibliográficas
  
-[Referencia 1](https://github.com/UnBArqDsw/2020.1_G12_Stock)
-[Referencia 2](https://creately.com/blog/pt/diagrama/tutorial-diagrama-de-classes/)
+DEVMEDIA. Orientações básicas na elaboração de um diagrama de classes. Disponível em: https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224. Acesso em: 24 de fevereiro de 2021.
+ 
+Tutorial Diagrama de Classes. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-diagrama-de-classes/). Acesso em: 24 de fevereiro de 2021.
 
 ## Versionamento
 

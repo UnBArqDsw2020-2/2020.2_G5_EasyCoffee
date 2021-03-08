@@ -2,11 +2,7 @@
 
 O Diagrama de Pacotes, é um diagrama estático que possibilita a organização mais adequada do sistema representando uma visão em Pacotes, que são agrupamentos de elementos UML relacionados.
 
-<<<<<<< HEAD
 Foi utilizado a ferramenta [LucidChart](https://www.lucidchart.com) para elaboração desse diagrama.
-=======
-Foi utilizado a ferramenta [LucidHart](https://www.lucidchart.com) para elaboração desse diagrama.
->>>>>>> 30f6c0a9c3593546932e5971c04ade59a21caf25
 
 ## V1.0
 
