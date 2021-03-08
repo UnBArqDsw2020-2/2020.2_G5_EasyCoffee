@@ -39,7 +39,8 @@
             - [Diagrama de Comunicação](/entrega2/diagramas_uml/diagrama_de_comunicacao.md)
 
 - Atas de reunião
-    - [Reunião 22/02](/atas/ata_de_reuniao_22_02.md)
+    - [Reunião - 22/02](/atas/ata_de_reuniao_22_02.md)
 
 - Sprint
-    - [Spint 0 planning](/sprints/sprint0_planning.md)
+    - [Spint 0 - Planning](/sprints/sprint0_planning.md)
+    - [Spint 0 - Review/Retrospective](/sprints/sprint0_review_retrospective.md)
