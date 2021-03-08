@@ -35,3 +35,6 @@
         
         - 2.1.2 Modelagem UML Dinâmica
             - [Diagrama de Atividades](/entrega2/diagramas_uml/diagrama_de_atividades.md)
+            
+        - 2.1.3 Modelagem Ágil
+            - [Product Backlog](/entrega2/backlog_entrega2.md)
