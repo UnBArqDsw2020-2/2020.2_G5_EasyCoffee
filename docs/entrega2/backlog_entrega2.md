@@ -7,6 +7,12 @@
 
 <p align="justify">A técnica MoSCoW foi projetada para ajudar a selecionar e priorizar no contexto do desenvolvimento de software. As letras maiúsculas são as siglas para Must have (deve ter), Should have (deveria ter), Could have "pode ​​ter" e Won’t have (não será feito,por enquanto) e são compostas de quatro categorias usadas para organizar requisitos, histórias de usuário ou necessidades.</p>
 
+## Backlog do Produto Easy Coffee - V1.7
+
+Foram feitas alterações no Backlog do Produto apresentado anteriormente. Foi acrescentado uma nova história de usuário. Além disso, foi feita a repriorização utilizando o MoSCoW e a pontuação das histórias utilizando o planning poker. 
+
+A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.6](entrega1/backlog.md)
+
 ## Lista de tarefas do produto - V1.7
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRgY3mofb3Li3H3MoZzFwexJxMgmWK92AKN4QQrS01jkfF68fDlOka8k-vbN6cXHoZMArZXCBKPLnP/pubhtml?widget=true&amp;headers=false" width="670" height="680" frameborder="0"></iframe>
 
@@ -713,3 +719,4 @@ Acesso em: 17 fev 2021.
 |18/02/2021|1.5| Adição das US24 a US28|[Maicon Mares](https://github.com/MaiconMares)|
 |18/02/2021|1.6| Adição da descrição MoSCoW|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |04/03/2021|1.7| Repriorização do Backlog e pontuação com planning poker | [Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|08/03/2021|1.7|Adiciona explicações sobre o backlog|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
