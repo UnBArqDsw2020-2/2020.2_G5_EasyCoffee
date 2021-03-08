@@ -20,7 +20,6 @@ Os seguintes princípios e práticas da metodologia XP - eXtreme Programming for
 * **Baby Steps**: pequenas mudanças serão feitas no código por vez, de forma incremental. O foco estará apenas no que é necessário naquela etapa do projeto, e o software irá evoluir a cada iteração até chegar no produto final.
 * **Padrão de codificação**: será definido um padrão para os códigos escritos, logo nas etapas iniciais do projeto, para que todos possam compreender códigos escritos por outros membros. Isso se faz extremamente importante, tendo em vista que a prática de código coletivo.
 Refatoração: sempre que necessário serão feitas melhorias no código, sem alterações nas suas funcionalidades. Visando sempre um código de qualidade. 
-* **Testes**: Serão utilizados testes unitários, para verificar se as funcionalidades implementadas funcionam como o esperado. Entretanto, devido a pouca experiência do grupo, essa prática será adaptada, tendo os testes escritos após a codificação da funcionalidade, e não antes como sugere o XP.
 
 ## SCRUM
 
@@ -33,7 +32,7 @@ As seguintes práticas e artefatos da metodologia ágil SCRUM foram adotados:
 * **Sprint Retrospective:** após a reunião de Review, essa prática será utilizada para avaliar o que funcionou bem naquele sprint e o que pode ser melhorado, bem como que ações serão tomadas para que essas melhorias ocorram. 
 * **Sprint Review:** é uma reunião que será realizada no fim de cada sprint, com o objetivo de verificar o que foi de fato cumprido durante aquela Sprint. 
 * **Daily Scrum:** todos os dias será realizada uma pequena reunião, com o objetivo de manter todos os membros atualizados sobre o andamento do projeto. Nessa reunião, cada membro informará o que fez no dia anterior, o que pretende fazer no dia atual e quais são suas dificuldades.
-* **Planning Poker:** É uma prática que será utilizada para estabelecer os objetivos de cada Sprint de forma colaborativa e utilizando estimativas. Será utilizada a ferramenta online: [https://play.planningpoker.com/register](https://play.planningpoker.com/register) para realização dessa prática. 
+* **Planning Poker:** É uma prática que será utilizada para estabelecer os objetivos de cada Sprint de forma colaborativa e utilizando estimativas. Será utilizada a ferramenta online: [PlanITpoker](https://www.planitpoker.com/) para realização dessa prática. 
 
 *Artefatos:*
 
@@ -58,14 +57,20 @@ Os seguintes artefatos foram adotados do processo OpenUp:
 É uma prática que nos auxiliará a manter o gerenciamento do fluxo de trabalho da equipe.
 Para isso será utilizada a ferramenta Zenhub. Para poder visualizá-lo será necessário instalar a extensão do Zenhub para o seu navegador: [https://www.zenhub.com/extension](https://www.zenhub.com/extension).
 
+## Testes Unitários
+Teste unitário é basicamente o teste da menor parte testável de uma aplicação. Como por exemplo uma calculada simples, haverá um teste unitário para cada função dessa calculora( soma, subtração, multiplicação e divisão).
+
+Serão utilizados testes unitários, para verificar se as funcionalidades implementadas funcionam como o esperado. Entretanto, devido a pouca experiência do grupo, essa prática será adaptada, tendo os testes escritos após a codificação da funcionalidade, e não antes como sugere o XP.
+
+
 ## Referências Bibliográficas
 
-eXtreme Programming. Disponível em: [http://www.extremeprogramming.org/](http://www.extremeprogramming.org/). Acesso em: 17/02/2021.
-Kanban. Disponível em: [https://artia.com/kanban/](https://artia.com/kanban/). Acesso em: 17/02/2021.
-OpenUp. Disponível em: [http://www.utm.mx/~caff/doc/OpenUPWeb/](http://www.utm.mx/~caff/doc/OpenUPWeb/). Acesso em: 17/02/2021.
-Planning Poker. Disponível em: [https://www.planningpoker.com/about/](https://www.planningpoker.com/about/
-). Acesso em: 17/02/2021.
-SCRUM. Disponível em: [https://www.desenvolvimentoagil.com.br/scrum/](https://www.desenvolvimentoagil.com.br/scrum/). Acesso em: 17/02/2021.
+- eXtreme Programming. Disponível em: [http://www.extremeprogramming.org/](http://www.extremeprogramming.org/). Acesso em: 17/02/2021.
+- Kanban. Disponível em: [https://artia.com/kanban/](https://artia.com/kanban/). Acesso em: 17/02/2021.
+- OpenUp. Disponível em: [http://www.utm.mx/~caff/doc/OpenUPWeb/](http://www.utm.mx/~caff/doc/OpenUPWeb/). Acesso em: 17/02/2021.
+- SCRUM. Disponível em: [https://www.desenvolvimentoagil.com.br/scrum/](https://www.desenvolvimentoagil.com.br/scrum/). Acesso em: 17/02/2021.
+- Entenda de uma vez por todas o que são testes unitários, para que servem e como fazê-los. Disponível em: [https://dayvsonlima.medium.com/entenda-de-uma-vez-por-todas-o-que-s%C3%A3o-testes-unit%C3%A1rios-para-que-servem-e-como-faz%C3%AA-los-2a6f645bab3](https://dayvsonlima.medium.com/entenda-de-uma-vez-por-todas-o-que-s%C3%A3o-testes-unit%C3%A1rios-para-que-servem-e-como-faz%C3%AA-los-2a6f645bab3). Acesso em: 05/03/2021
+- PlanITpoker. Disponível em: [https://www.planitpoker.com/](https://www.planitpoker.com/). Acesso em: 05/03/2021
 
 ## Versionamento
 
@@ -73,4 +78,4 @@ SCRUM. Disponível em: [https://www.desenvolvimentoagil.com.br/scrum/](https://w
 |------|------|------|------|
 |17/02/2021|0.5|Discussão de metodologia|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |18/02/2021|1.0|Adiciona metodologia|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
-
+|05/03/2021|1.1|Adiciona testes unitários|[Danilo Domingo](https://github.com/danilow200)|
