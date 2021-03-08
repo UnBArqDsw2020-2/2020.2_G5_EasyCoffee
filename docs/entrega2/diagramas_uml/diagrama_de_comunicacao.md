@@ -10,6 +10,12 @@ O Diagrama de Comunicação é um tipo de diagrama de interação UML que mostra
 <i>Feito por: Rafael Ribeiro</i>
 </p>
 
+## Diagrama de Comunicação Funcionario - V 1.0
+<p align="center">
+<img src="./../../img/uml/Diagrama_de_Comunicacao(Funcionario).png"
+<i>Feito por: Rafael Ribeiro</i>
+</p>
+
 
 - UML-DIAGRAMS. UML Communication Diagrams Overview; Disponível em: https://www.uml-diagrams.org/activity-diagrams.html. Acesso em: 07 de março de 2021.
 
@@ -19,3 +25,4 @@ O Diagrama de Comunicação é um tipo de diagrama de interação UML que mostra
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |07/03/2021|1.0|Criação do Diagrama de Comunicação do Cliente|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|07/03/2021|1.1|Criação do Diagrama de Comunicação do Funcionário|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
