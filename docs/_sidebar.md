@@ -18,7 +18,8 @@
         - [Estimativas de custo](/entrega1/estimativa.md)
         - [Plano de Riscos](entrega1/plano_de_riscos.md)
         - [Léxico](/entrega1/lexico.md)
-        - [Todos os requisitos](/entrega1/requisitos.md)
+        - [Requisitos Funcionais](/entrega1/requisitos.md)
+        - [Requisitos Não Funcionais](/entrega1/requisitos_nao_funcionais.md)
         - [Product Backlog](entrega1/backlog.md)
         
     - 1.2 Módulo Processos/Metodologias/Abordagens
