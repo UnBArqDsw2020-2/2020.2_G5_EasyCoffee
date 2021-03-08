@@ -42,3 +42,4 @@
     - [Reunião 22/02](/atas/ata_de_reuniao_22_02.md)
 
 - Sprint
+    - [Spint 0 planning](/sprints/sprint0_planning.md)
