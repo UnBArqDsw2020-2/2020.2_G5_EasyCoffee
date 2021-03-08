@@ -30,11 +30,14 @@
     - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais
         
         - 2.1.1 Modelagem UML Estática
+            - [Diagrama de Classe](/entrega2/diagramas_uml/diagrama_de_classe.md)
             - [Diagrama de Pacotes](/entrega2/diagramas_uml/diagrama_de_pacotes.md)
             - [Diagrama de Componentes](/entrega2/diagramas_uml/diagrama_de_componentes.md)
         
         - 2.1.2 Modelagem UML Dinâmica
             - [Diagrama de Atividades](/entrega2/diagramas_uml/diagrama_de_atividades.md)
-            
+            - [Diagrama de Comunicação](/entrega2/diagramas_uml/diagrama_de_comunicacao.md)
+
         - 2.1.3 Modelagem Ágil
             - [Product Backlog](/entrega2/backlog_entrega2.md)
+
