@@ -213,3 +213,4 @@ O "NFR Framework" é uma abordagem para representar e analisar Requisitos Não-F
 |------|------|------|------|
 |08/03/2021|1.0| Criação do requistos não funcionais e NFRs| [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina) e [Maicon Mares](https://github.com/MaiconMares)|
 |08/03/2021|1.1|Correção da tabela e ortografia| [Maicon Mares](https://github.com/MaiconMares)
+|08/03/2021|1.2| Adição dos diagramas de propagação| [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina) e [Maicon Mares](https://github.com/MaiconMares)|
