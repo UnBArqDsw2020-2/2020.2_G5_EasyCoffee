@@ -6,13 +6,15 @@ O Diagrama de Atividades é um diagrama dinâmico que foca em representar o flux
 
 ## Diagrama de Atividades Cliente - V 1.0
 <p align="center">
-<img src="./../../img/uml/Diagrama_de_Atividades_EasyCoffee(Cliente).png"/>
+
+![alt text](../../img/uml/Diagrama_de_Atividades_EasyCoffee(Cliente).png)
 <i>Feito por: Maicon Mares</i>
 </p>
 
 ## Diagrama de Atividades Administrador - V 1.0
 <p align="center">
-<img src="./../../img/uml/Diagrama_de_Atividades_EasyCoffee(Administrador).png"/>
+
+![alt text](../../img/uml/Diagrama_de_Atividades_EasyCoffee(Administrador).png)
 <i>Feito por: Maicon Mares</i>
 </p>
 
