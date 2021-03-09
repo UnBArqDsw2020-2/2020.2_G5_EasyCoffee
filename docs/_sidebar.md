@@ -37,12 +37,16 @@
         - 2.1.2 Modelagem UML Dinâmica
             - [Diagrama de Atividades](/entrega2/diagramas_uml/diagrama_de_atividades.md)
             - [Diagrama de Comunicação](/entrega2/diagramas_uml/diagrama_de_comunicacao.md)
+            
+            - [Iniciativas Extras](/entrega2/iniciativas_extras_entrega2.md)
 
 - Atas de reunião
     - [Reunião - 22/02](/atas/ata_de_reuniao_22_02.md)
+    - [Reunião - 04/03](/atas/ata_de_reuniao_04_03.md)
 
 - Sprint
-    - [Spint 0 - Planning](/sprints/sprint0_planning.md)
-    - [Spint 0 - Review/Retrospective](/sprints/sprint0_review_retrospective.md)
-    - [Spint 1 - Planning](/sprints/sprint1_planning.md)
-    - [Spint 1 - Review/Retrospective](/sprints/sprint1_review_retrospective.md)
+    - [Sprint 0 - Planning](/sprints/sprint0_planning.md)
+    - [Sprint 0 - Review/Retrospective](/sprints/sprint0_review_retrospective.md)
+    - [Sprint 1 - Planning](/sprints/sprint1_planning.md)
+    - [Sprint 1 - Review/Retrospective](/sprints/sprint1_review_retrospective.md)
+    - [Sprint 2 - Planning](/sprints/sprint2_planning.md)
