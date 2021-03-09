@@ -6,9 +6,19 @@
 ## Módulo Processos/Metodologias/Abordagens
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9V6OZ4iW42g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Notação UML – Diagramas Estáticos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZT_EMas2XfU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Notação UML – Diagramas Dinâmicos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQrbI0ahZyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Modelagem Ágil | Backlog 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oxgikbByJzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |19/02/2021|1.0|Módulo Projeto Não Orientado a Abordagens Específicas e Módulo Processos/Metodologias/Abordagens| [Iago Theóphilo](https://github.com/IagoTheophilo)|
+|08/03/2021|1.0| Notação UML – Diagramas Estáticos, Notação UML – Diagramas Dinâmicos, Modelagem Ágil Backlog  | [Iago Theóphilo](https://github.com/IagoTheophilo)|
 
