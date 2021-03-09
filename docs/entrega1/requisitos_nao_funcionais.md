@@ -5,7 +5,7 @@ O grupo decidiu trabalhar com o framework NFR para trazer mais confiabilidade no
 
 ## NFR Framework
 
-"O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, Requisitos funcionais, prioridades e carga de trabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para um determinado sistema (CHUNG et al., 2000)" (SILVA, 2019, p. 31).
+<p align= "justify"> "O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, Requisitos funcionais, prioridades e carga de trabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para um determinado sistema (CHUNG et al., 2000)" (SILVA, 2019, p. 31).</p>
 
 ## Usabilidade
 ![alt text](./img/NFR/NFR_usabilidade.jpg)
@@ -25,7 +25,7 @@ O grupo decidiu trabalhar com o framework NFR para trazer mais confiabilidade no
 ## Requisitos Não Funcionais
 
 |Requisitos| Descrição|Classificação|
-|---|---|---|---|
+|---|---|---|
 |RNF01|A interface deve ser agradável e de fácil utilização.| Usabilidade|
 |RNF02|O site não deverá armazenar dados localmente, sendo estes direcionados a um servidor externo.| Performance|
 |RNF03|As cores dos elementos de cada categoria devem possuir cores próximas para garantir uma melhor compreensão pelo usuário.|Usabilidade |
@@ -42,8 +42,13 @@ O grupo decidiu trabalhar com o framework NFR para trazer mais confiabilidade no
 |RNF14|O sistema deverá ser acessado completamente via browser HTTP/HTML|Suportabilidade |
 
 
+## Referências Bibliográficas
+
+CASTRO, Jaelson. Requisitos Não-Funcionais. Disponível em: https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf. Acesso em: 08 de março de 2021.
+
 
 ## Versionamentofile
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |08/03/2021|1.0| Criação do requistos não funcionais e NFRs| [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina) e [Maicon Mares](https://github.com/MaiconMares)|
+|08/03/2021|1.1| Revisão de documento | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro) |
