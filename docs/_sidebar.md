@@ -31,3 +31,4 @@
         
         - 2.1.1 Modelagem UML Estática
             - [Diagrama de Pacotes](/entrega2/diagramas_uml/diagrama_de_pacotes.md)
+            - [Diagrama de Atividades](/entrega2/diagramas_uml/diagrama_de_atividades.md)
