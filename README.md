@@ -30,10 +30,20 @@ O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem
 [Vídeo 2](https://www.youtube.com/embed/9V6OZ4iW42g)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+![alt text](docs/img/pacotes.png)
+
+![alt text](docs/img/sequencia.png)
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione o(s)s vídeo(s) da Segunda Entrega.
+
+### Easy Coffee  | Notação UML – Diagramas Estáticos
+[Vídeo 1](https://www.youtube.com/watch?v=ZT_EMas2XfU)
+
+### Easy Coffee  | Notação UML – Diagramas Dinâmicos 
+[Vídeo 2](https://www.youtube.com/watch?v=gQrbI0ahZyA)
+
+### Easy Coffee  | Modelagem Ágil | Backlog
+[Vídeo 3](https://www.youtube.com/watch?v=oxgikbByJzM)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
