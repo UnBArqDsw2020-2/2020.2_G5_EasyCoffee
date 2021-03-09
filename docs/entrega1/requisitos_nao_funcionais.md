@@ -10,17 +10,33 @@ O "NFR Framework" é uma abordagem para representar e analisar Requisitos Não-F
 ## Usabilidade
 ![alt text](./img/NFR/NFR_usabilidade.jpg)
 
+## Usabilidade(propagação)
+![alt text](./img/NFR/diagrama_nfr_usabilidade(propagacao).png)
+
 ## Portabilidade 
 ![alt text](./img/NFR/NFR_portabilidade.jpg)
+
+## Portabilidade(propagação)
+![alt text](./img/NFR/diagrama_portabilidade_nfr(propagacao).png)
 
 ## Segurança
 ![alt text](./img/NFR/NFR_Seguranca.jpg)
 
+## Segurança(propagação)
+![alt text](./img/NFR/diagrama_seguranca_nfr(propagacao).png)
+
 ## Confiabilidade
 ![alt text](./img/NFR/NFR_Confiabilidade.jpg)
 
+
+## Confiabilidade(propagação)
+![alt text](./img/NFR/diagrama_nfr_confiabilidade(propagacao).png)
+
 ## Desempenho
 ![alt text](./img/NFR/NFR_desempenho.png)
+
+## Desempenho(propagação)
+![alt text](./img/NFR/diagrama_desempenho(propagacao).jpg)
 
 ## Requisitos Não Funcionais
 
