@@ -47,6 +47,7 @@
 ### Uso no projeto e justificativa
 
 ## State
+<p align="justify">É um padrão que faz com que um objeto altere o seu comportamento quando o seu estado interno mudar. O objeto irá aparentar mudar de classe.</p>
 
 ### Uso no projeto e justificativa
 
@@ -62,3 +63,4 @@
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona estrutura inicial de gofs comportamentais e chain of responsibility|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |07/03/2021|1.0|Adiciona Resumo sobre iteretor e memento|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|07/03/2021|1.0|Adiciona Resumo sobre State|[Iago Theóphilo](https://github.com/iagotheophilo)|
