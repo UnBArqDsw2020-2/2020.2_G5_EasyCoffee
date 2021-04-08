@@ -27,7 +27,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Tarefas*
 
-* Criação da página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* Criação da página "comprar-cafe" de acordo com o [protótipo](entrega1/prototipo.md).
 * O sistema de ser capaz de trazer os produtos disponibilizados pelo administrador do sistema contendo o nome do produto e seu valor.
 
 *Critérios de aceitação:*
@@ -43,7 +43,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Tarefas*
 
-* O sistema deve ser capaz de trazer as informações do produto de acordo com a página "comprar-cafe" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* O sistema deve ser capaz de trazer as informações do produto de acordo com a página "comprar-cafe" de acordo com o [protótipo](entrega1/prototipo.md).
 * O sistema deve trazer as informações correspondentes do produto quando o usuário clicar sobre ele.
 
 *Critérios de aceitação:*
@@ -51,15 +51,15 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O cliente deve ser capaz de visualizar as informações do produto.
 
 *Requisitos relacionados à história:*
-* [RF12](../entrega1/requisitos.md) via Brainstorm, Storyboard e Questionário.
-* [RF13](../entrega1/requisitos.md) via Brainstorm e Questionário.
+* [RF12](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md), [Storyboard](entrega1/desing_sprint/Storyboard.md) e [Questionário](entrega1/questionario.md).
+* [RF13](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Questionário](entrega1/questionario.md).
 
 
 **US03 - Eu, como cliente, quero vizualizar os produtos por categorias.**
 
 *Tarefas*
 
-* Criação da página "menus" de acordo com o [protótipo](https://trabalhofga123.wixsite.com/easycoffee/menus).
+* Criação da página "menus" de acordo com o [protótipo](entrega1/prototipo.md).
 * O sistema de ser capaz de separar os produtos por categorias.
 
 *Critérios de aceitação:*
@@ -69,7 +69,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
 
 *Requisitos relacionados à história:*
-* [RF07](../entrega1/requisitos.md) via Brainstorm.
+* [RF07](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 #### Feature: Manter Produto
 
@@ -89,9 +89,9 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Depois de cadastrar o produto, ele deve ser disponibilizado para compra.
 
 *Requisitos relacionados à história:*
-* [RF03](../entrega1/requisitos.md) via Brainstorm e Storyboard.
-* [RF07](../entrega1/requisitos.md) via Brainstorm.
-* [RF08](../entrega1/requisitos.md) via Brainstorm.
+* [RF03](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
+* [RF07](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
+* [RF08](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US05 - Eu, como administrador, quero editar produtos no site.**
 
@@ -110,10 +110,10 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Depois de editar um produto, ele deve ter suas informações atualizadas para compra.
 
 *Requisitos relacionados à história:* 
-* [RF04](../entrega1/requisitos.md) via Brainstorm.
-* [RF07](../entrega1/requisitos.md) via Brainstorm.
-* [RF09](../entrega1/requisitos.md) via Brainstorm.
-* [RF10](../entrega1/requisitos.md) via Brainstorm.
+* [RF04](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
+* [RF07](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
+* [RF09](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
+* [RF10](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US06 - Eu, como administrador, quero colocar um produto em promoção.**
 
@@ -133,7 +133,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Depois de colocar um produto em promoção, ele deve ter suas informações atualizadas para compra.
 
 *Requisitos relacionados à história:* 
-* [RF30](../entrega1/requisitos.md) via Brainstorm e Questionário.
+* [RF30](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Questionário](entrega1/questionario.md).
 
 **US07 - Eu, como administrador, quero excluir produtos no site.**
 
@@ -151,7 +151,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Depois de excluir um produto , ele deve desaparecer para compra.
 
 *Requisitos relacionados à história:* 
-* [RF05](../entrega1/requisitos.md) via Brainstorm.
+* [RF05](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US08 - Eu, como administrador, quero visualizar os produtos cadastados.**
 
@@ -165,7 +165,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Essa página deverá conter a opção de editar, excluir e colocar um produto em promoção (botões).
 
 *Requisitos relacionados à história:* 
-* [RF06](../entrega1/requisitos.md) via Brainstorm.
+* [RF06](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 #### Feature: Avaliação
 
@@ -183,7 +183,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Depois de avaliar o produto deve ser possivel ver a avaliação.
 
 *Requisitos relacionados à história:*
-* [RF20](../entrega1/requisitos.md) via Brainstorm.
+* [RF20](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US10 - Eu, como cliente, quero visualizar as avaliações de um produto feitas por outros clientes.**
 
@@ -196,7 +196,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O cliente do sistema deve ser capaz de ver a avaliação dos produtos.
 
 *Requisitos relacionados à história:*
-* [RF21](../entrega1/requisitos.md) via Brainstorm.
+* [RF21](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US11 - Eu, como administrador, quero visualizar as avaliações de um produto feitas pelos clientes.**
 
@@ -210,7 +210,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O administrador do sistema deve ser capaz de de ver a avaliação dos produtos feita pelos os clientes.
 
 *Requisitos relacionados à história:*
-* [RF21](../entrega1/requisitos.md) via Brainstorm.
+* [RF21](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 ### Épico 2: Área de Compras
 
@@ -229,7 +229,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O cliente deve estar logado no sistema.
 
 *Requisitos relacionados à história:*
-* [RF14](../entrega1/requisitos.md) via Brainstorm.
+* [RF14](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US13 - Eu, como cliente, quero excluir produtos no carrinho de compras.**
 
@@ -244,7 +244,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O cliente deve estar logado no sistema.
 
 *Requisitos relacionados à história:*
-* [RF15](../entrega1/requisitos.md) via Brainstorm.
+* [RF15](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 #### Feature: Pagamento
 
@@ -261,7 +261,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O cliente deve estar logado no sistema.
 
 *Requisitos relacionados à história:*
-* [RF14](../entrega1/requisitos.md) via Brainstorm.
+* [RF14](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US15 - Eu, como cliente, quero realizar compra de produtos.**
 
@@ -276,7 +276,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * o cliente deve estar logado em sua conta.
 
 *Requisitos relacionados à história:*
-* [RF16](../entrega1/requisitos.md) via Brainstorm.
+* [RF16](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US16 - Eu, como administrador, quero cadastrar informações a respeito do frete.**
 
@@ -291,7 +291,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Apenas o administrador logado em sua conta pode cadastrar informações sobre o frete.
 
 *Requisitos relacionados à história:*
-* [RF23](../entrega1/requisitos.md) via Brainstorm.
+* [RF23](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US17 - Eu, como cliente, quero visualizar informações a respeito do frete.**
 
@@ -307,7 +307,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 
 *Requisitos relacionados à história:*
-* [RF24](../entrega1/requisitos.md) via Brainstorm.
+* [RF24](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 **US18 - Eu, como cliente, quero fazer o pagamento dos produtos selecionados**
 
@@ -323,14 +323,14 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 
 *Requisitos relacionados à história:*
-* [RF17](../entrega1/requisitos.md) via Brainstorm e Questionário.
+* [RF17](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Questionário](entrega1/questionario.md).
 
 #### Feature: Acompanhamento do Pedido
 **US19 - Eu, como cliente, quero acompanhar um pedido de uma compra.**
 
 *Tarefas*
 
-* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* A tela de acompanhamento desenvolvido como está no [protótipo](entrega1/prototipo.md).
 
 * O usuário deve ser capaz de acompanhar o status do seu pedido
 
@@ -348,7 +348,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF18](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF18](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 
 
@@ -360,7 +360,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
   
 
-* A tela de acompanhamento desenvolvido como está no protótipo [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* A tela de acompanhamento desenvolvido como está no protótipo [protótipo](entrega1/prototipo.md).
 
 * O administrador deve ser capaz de acompanhar a chegada de pedido e atualizar o status de acordo com o evoluir do pedido
 
@@ -378,7 +378,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF18](../entrega1/requisitos.md),[ RF25](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF18](/entrega1/requisitos.md),[RF25](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 ### Épico 3: Acesso a Aplicação
 
@@ -391,7 +391,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
   
 
-* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* A tela de acompanhamento desenvolvido como está no [protótipo](entrega1/prototipo.md).
 
 * O cliente de ser capaz de realizar seu cadastro sem nenhum problema preenchendo os campos necessários
   
@@ -408,7 +408,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF01](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF01](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US22 - Eu, como cliente, quero editar meu cadastro no site.**
 
@@ -418,7 +418,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
   
 
-* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* A tela de acompanhamento desenvolvido como está no [protótipo](entrega1/prototipo.md).
 
 * O cliente de ser capaz de fazer edições nos seus dados cadastrais, para manter sempre atualizado
   
@@ -435,7 +435,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF01](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF01](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US23 - Eu, como cliente, quero visualizar meu cadastro no site.**
 
@@ -443,7 +443,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
   
 
-* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* A tela de acompanhamento desenvolvido como está no [protótipo](entrega1/prototipo.md).
 
 * O cliente de ser capaz visualizar seus dados.
   
@@ -465,7 +465,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
   
 
-* A tela de acompanhamento desenvolvido como está no [protótipo](https://trabalhofga123.wixsite.com/easycoffee/comprar-cafe).
+* A tela de acompanhamento desenvolvido como está no [protótipo](entrega1/prototipo.md).
 
 * O cliente de ser capaz de ter alguma forma de excluir seu perfil.
   
@@ -482,7 +482,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF01](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF01](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 #### Feature: Login
 
@@ -503,7 +503,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF02](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF02](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US26 - Eu, como cliente, quero fazer login na aplicação.**
 *Tarefas:*
@@ -518,7 +518,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * Definir critérios de criação de conta, ex.: senha mínimo 6 dígitos incluindo ao menos uma letra maiúscula e um número.
 
 *Requisitos relacionados à história:*
-* [RF02](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF02](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 ### Épico 4: Área de Usuário
 
@@ -538,7 +538,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF26](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF26](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US28 - Eu, como administrador, quero editar informações em um glossário sobre café.**
 
@@ -557,7 +557,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF27](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF27](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US29 - Eu, como administrador, quero excluir informações de um glossário sobre café.**
 
@@ -573,7 +573,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF28](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF28](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US30 - Eu, como administrador, quero visualizar informações no glossário sobre café.**
 
@@ -594,7 +594,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF29](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF29](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 
 #### Feature: Área do Cliente
@@ -628,7 +628,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF19](../entrega1/requisitos.md) via Brainstorm.
+* [RF19](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 
 **US32 - Eu, como cliente, quero marcar um produto como favorito.**
@@ -657,7 +657,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF22](../entrega1/requisitos.md) via Brainstorm.
+* [RF22](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 
 **US33 - Eu, como cliente, quero visualizar meus produtos marcados como favoritos.**
@@ -686,7 +686,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF22](../entrega1/requisitos.md) via Brainstorm.
+* [RF22](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md).
 
 
 **US34 - Eu, como cliente, quero visualizar informações no glossário sobre café.**
@@ -711,7 +711,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 
 *Requisitos relacionados à história:*
 
-* [RF29](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF29](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 
 ## Referência Bibliográficas
@@ -741,3 +741,4 @@ Acesso em: 17 fev 2021.
 |08/03/2021|1.7|Adiciona explicações sobre o backlog|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |08/03/2021|1.7|Corrige nome das Us e corrige erros|[Gustavo Afonso](https://github.com/GustavoAPS)|
 |08/03/2021|1.7|Adiciona tarefas da US23 e adciona link nas RFs|[Danilo Domingo](https://github.com/danilow200)|
+|08/04/2021|1.7|Corrige links quebrados e adicina links para artefatos|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
