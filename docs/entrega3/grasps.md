@@ -65,6 +65,10 @@ O controller, além de ser um padrão de projeto GRASP, também é um padrão ut
 
 ### Indireção
 
+<p align="justify">O GRASP de Indireção faz a delegação de responsabilidades por meio de uma classe mediadora, evitando que ocorra o acoplamento direto entre duas classes. Desse modo, dois componentes não serão mais dependentes um do outro e sim da indireção, o que possibilita o reuso.
+
+Um exemplo é a introdução do componente controlador para mediação entre dados (model) e sua representação (view) no padrão MVC</p>
+
 #### Uso no projeto e justificativa
 
 ### Variações Protegidas
@@ -85,5 +89,6 @@ SERRANO, Milene. **Aula - GRASP - PARTE I.**
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona resumo sobre GRASPs|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |07/03/2021|1.1|Adiciona resumo sobre Criador|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
-|07/03/2021|1.1|Adiciona Resumo sobre especialista e alta coesão|[Gustavo Afonso](https://github.com/GustavoAPS)|
-|07/03/2021|1.1|Adiciona Resumo sobre Baixo Acoplamento e Controller|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|07/03/2021|1.2|Adiciona Resumo sobre especialista e alta coesão|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|07/03/2021|1.3|Adiciona Resumo sobre Baixo Acoplamento e Controller|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|07/03/2021|1.4|Adiciona resumo sobre Indireção|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
