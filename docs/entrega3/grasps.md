@@ -60,7 +60,9 @@ O controller, além de ser um padrão de projeto GRASP, também é um padrão ut
 #### Uso no projeto e justificativa
 
 ### Invenção Pura (ou Fabricação Própria)
+<p align="justify">O GRASP de Invenção Pura traz uma classe que não está relacionada com nenhum conceito no domínio do problema.  É simplesmente uma classe prestadora de serviços. Isso auxilia o sistema a ter um baixo acoplamento e alta coesão. 
 
+Um exemplo de invenção pura, está em um projeto onde várias classes precisam fazer a persistência dos dados de suas instâncias em um banco, e ao invés de atribuir essa responsabilidade a cada uma das classes, é criada uma outra classe que tenha a responsabilidade de salvar os dados das demais classes no banco de dados.</p>
 #### Uso no projeto e justificativa
 
 ### Indireção
