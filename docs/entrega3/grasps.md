@@ -39,10 +39,19 @@ De forma geral, isso significa que esse padrão de projeto está preocupado em c
 #### Uso no projeto e justificativa
 
 ### Baixo Acoplamento
+<p align="justify">O GRASP Baixo Acoplamento é um padrão que diz que não deve haver dependência entre objetos concretos das classes, para que as mudanças possam ser feitas sem que haja um grande impacto e seja possível a reutilização. Desse modo, as responsabilidades entre as classes devem ser atribuídas de modo que o acoplamento entre estas permaneça baixo. </p>
+
+
 
 #### Uso no projeto e justificativa
 
 ### Controller
+
+<p align="justify">O GRASP Controller ou controlador é um padrão que se preocupa em atribuir a responsabilidade de lidar com os eventos do sistema à classe mais adequada, ou seja, o controller faz a ligação entre as ações que ocorrem na interface do usuário com a lógica de comportamento de seu sistema.
+
+Desse modo, o controller faz com que a camada de interação com o usuário seja separada da camada responsável pela lógica do sistema. Assim, cada camada se torna mais independente e menos sensível a alterações feitas na outra camada. 
+
+O controller, além de ser um padrão de projeto GRASP, também é um padrão utilizado amplamente no desenvolvimento de aplicações web atuais, que utilizam o padrão model-view-controller.</p>
 
 #### Uso no projeto e justificativa
 
@@ -77,3 +86,4 @@ SERRANO, Milene. **Aula - GRASP - PARTE I.**
 |07/03/2021|1.0|Adiciona resumo sobre GRASPs|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |07/03/2021|1.1|Adiciona resumo sobre Criador|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |07/03/2021|1.1|Adiciona Resumo sobre especialista e alta coesão|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|07/03/2021|1.1|Adiciona Resumo sobre Baixo Acoplamento e Controller|[Iago Theóphilo](https://github.com/iagotheophilo)|
