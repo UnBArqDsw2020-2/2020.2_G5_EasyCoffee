@@ -24,9 +24,17 @@ De forma geral, isso significa que esse padrão de projeto está preocupado em c
 
 ### Especialista
 
+<p align="justify">O GRASP especialista é um padrão que se preocupa em determinar a qual objeto será delegado cada responsabilidade, de modo que cada tarefa seja feita por uma entidade que seja mais especialista naquele aspecto.</p>
+
 #### Uso no projeto e justificativa
 
 ### Alta Coesão
+
+<p align="justify">O GRASP Alta Coesão determina que as classes devem focar apenas nas suas responsabilidades e fazerem isso da melhor maneira possível. Desse modo, as classes não devem fazer tarefas não relacionadas e a atribuição de  responsabilidades deve ser feita visando manter a coesão da classe alta. Isso reduz o acoplamento, além de manter os objetos do sistema mais focados, compreensíveis e gerenciáveis.</p>
+
+<p align="justify">Um sistema com classes com baixa coesão enfrentará diversos problemas, como: a difícil compreensão, difícil reutilização, difícil manutenção, fragilidade e necessidade frequente de alterações.</p>
+
+<p align="justify">Assim, para verificar se as classes possuem alta coesão, basta verificar se ela possui uma quantidade relativamente pequena de métodos, as funcionalidades desses métodos são altamente relacionadas e a classe não faz trabalho demais.</p>
 
 #### Uso no projeto e justificativa
 
@@ -68,3 +76,4 @@ SERRANO, Milene. **Aula - GRASP - PARTE I.**
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona resumo sobre GRASPs|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |07/03/2021|1.1|Adiciona resumo sobre Criador|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|07/03/2021|1.1|Adiciona Resumo sobre especialista e alta coesão|[Gustavo Afonso](https://github.com/GustavoAPS)|
