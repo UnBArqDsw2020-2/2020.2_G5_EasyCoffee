@@ -2,13 +2,23 @@
 
 ## Class Adapter
 
+### Uso no projeto e justificativa
+
 ## Object Adapter
+
+### Uso no projeto e justificativa
 
 ## Bridge
 
+### Uso no projeto e justificativa
+
 ## Composite
 
+### Uso no projeto e justificativa
+
 ## Decorator
+
+### Uso no projeto e justificativa
 
 ## Facade
 <p align="justify">É um padrão que oculta a complexidade de uma ou mais classes por meio de uma facade (fachada), com o objetivo de simplificar uma interface e o acesso a mesma. Uma definição mais oficial do padrão facade é “O Padrão Facade fornece uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface de nível mais alto que facilita a utilização do subsistema”.</p>
@@ -20,7 +30,11 @@
     
 ## Flyweight
 
+### Uso no projeto e justificativa
+
 ## Proxy
+
+### Uso no projeto e justificativa
 
 ## Versionamento
 
