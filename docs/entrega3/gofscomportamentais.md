@@ -28,6 +28,8 @@
 
 ## Iterator 
 
+<p align="justify">É um padrão que possibilita percorrer uma coleção de objetos, sem que o encapsulamento dos mesmos seja violado.</p>
+
 ### Uso no projeto e justificativa
 
 ## Mediator
@@ -35,6 +37,8 @@
 ### Uso no projeto e justificativa
 
 ## Memento
+
+<p align="justify">É um padrão que armazena o estado de um objeto em um dado momento, permitindo a volta para esse estado caso alguma alteração seja feita.</p>
 
 ### Uso no projeto e justificativa
 
@@ -57,3 +61,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona estrutura inicial de gofs comportamentais e chain of responsibility|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|07/03/2021|1.0|Adiciona Resumo sobre iteretor e memento|[Gustavo Afonso](https://github.com/GustavoAPS)|
