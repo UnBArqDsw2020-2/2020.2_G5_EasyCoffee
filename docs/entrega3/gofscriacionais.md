@@ -21,6 +21,7 @@
 #### Uso no projeto e justificativa
 
 ## Prototype
+<p align="justify">O padrão Prototype faz a criação de novos objetos, mas ao invés de criar objetos com valores não inicializados, ele cria objetos através da cópia dos valores de um protótipo.</p>
 
 #### Uso no projeto e justificativa
 
@@ -30,3 +31,4 @@
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona resumo sobre GoFs Criacionais|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |07/03/2021|1.1|Adiciona resumo sobre singleton|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|07/03/2021|1.1|Adiciona resumo sobre Prototype|[Iago Theóphilo](https://github.com/iagotheophilo)|
