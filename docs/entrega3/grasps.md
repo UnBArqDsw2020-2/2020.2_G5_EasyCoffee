@@ -75,6 +75,8 @@ Um exemplo é a introdução do componente controlador para mediação entre dad
 
 ### Variações Protegidas
 
+O GRASP Variações Protegidas é um padrão que protege o sistema com a variação de componentes, trazendo o encapsulamento dos comportamentos que são de fato importantes.
+
 #### Uso no projeto e justificativa
 
 ## Referências Bibliográficas
@@ -94,3 +96,4 @@ SERRANO, Milene. **Aula - GRASP - PARTE I.**
 |07/03/2021|1.2|Adiciona Resumo sobre especialista e alta coesão|[Gustavo Afonso](https://github.com/GustavoAPS)|
 |07/03/2021|1.3|Adiciona Resumo sobre Baixo Acoplamento e Controller|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |07/03/2021|1.4|Adiciona resumo sobre Indireção|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
+|08/03/2021|1.5|Adiciona resumo sobre Variações Protegidas|[Danilo Domingo](https://github.com/danilow200)
