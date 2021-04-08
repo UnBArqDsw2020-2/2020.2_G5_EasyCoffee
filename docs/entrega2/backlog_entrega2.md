@@ -5,7 +5,7 @@
 ## MoSCoW
 <p align="justify">O método MoSCoW é uma técnica de priorização simples, mas eficaz, para o gerenciamento e organização eficaz de recursos.</p>
 
-<p align="justify">A técnica MoSCoW foi projetada para ajudar a selecionar e priorizar no contexto do desenvolvimento de software. As letras maiúsculas são as siglas para Must have (deve ter), Should have (deveria ter), Could have "pode ​​ter" e Won’t have (não será feito,por enquanto) e são compostas de quatro categorias usadas para organizar requisitos, histórias de usuário ou necessidades.</p>
+<p align="justify">A técnica MoSCoW foi projetada para ajudar a selecionar e priorizar no contexto do desenvolvimento de software. As letras maiúsculas são as siglas para Must have (deve ter), Should have (deveria ter), Could have "pode ter" e Won’t have (não será feito,por enquanto) e são compostas de quatro categorias usadas para organizar requisitos, histórias de usuário ou necessidades.</p>
 
 ## Backlog do Produto Easy Coffee - V1.7
 
@@ -37,7 +37,7 @@ A versão anterior pode ser encontrada em: [Backlog do Produto Easy Coffee - V1.
 * O site deve ser responsivo para facilitar a navegação em diferentes aparelhos.
 
 *Requisitos relacionados à história:*
-* [RF11](../entrega1/requisitos.md) via Brainstorm e Storyboard.
+* [RF11](/entrega1/requisitos.md) via [Brainstorm](/entrega1/desing_sprint/brainstorm.md) e [Storyboard](entrega1/desing_sprint/Storyboard.md).
 
 **US02 - Eu, como cliente, quero visualizar as informações sobre um determinado produto.**
 
