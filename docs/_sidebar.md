@@ -45,7 +45,19 @@
         - 2.1.3 Modelagem Ágil
             - [Product Backlog](/entrega2/backlog_entrega2.md)
             - [Iniciativas Extras](/entrega2/iniciativas_extras_entrega2.md)
-            
+
+- 3 Padrões de Projeto
+    - 3.1 GRASPS - General Responsibility Assignment Software Patterns
+        - [GRASPS](/entrega3/grasps.md)
+    - 3.2 GoFs - Gang of Four Desing Patterns
+        - [GoFs](/entrega3/gofs.md)
+        - [GoFs Criacionais](/entrega3/gofscriacionais.md)
+        - [GoFs Estruturais](/entrega3/gofsestruturais.md)
+        - [GoFs Comportamentais](/entrega3/gofscomportamentais.md)
+    - 3.3 Padrões Emergentes
+        - [algum padrão](/entrega3/padraoemergente.md)
+    - [Iniciativas Extras](/entrega3/iniciativas_extras_entrega3.md)            
+
 - Atas de reunião
     - [Reunião - 22/02](/atas/ata_de_reuniao_22_02.md)
     - [Reunião - 04/03](/atas/ata_de_reuniao_04_03.md)
