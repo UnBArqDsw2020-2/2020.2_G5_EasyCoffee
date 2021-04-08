@@ -1,10 +1,9 @@
 # GoFs Estruturais
 
-## Class Adapter
+## Adapter
 
-### Uso no projeto e justificativa
-
-## Object Adapter
+<p align="justify">O Adapter é um padrão de projeto clássico dos GoFs estruturais. Compõem padrões nos quais o objetivo é identificar como entender relacionamentos entre classes e objetos de uma forma simples. Esse padrão é tipicamente usado quando um módulo incompatível necessita ser integrado com um módulo já existente sem que haja nenhuma modificação no código fonte. 
+Há duas variantes do Adapter: Object Adapter que depende da composição e a Class Adapter que depende da herança.</p>
 
 ### Uso no projeto e justificativa
 
@@ -36,9 +35,14 @@
 
 ### Uso no projeto e justificativa
 
+## Referências Bibliográficas
+
+**Adapter Pattern.** Disponível em: https://springframework.guru/gang-of-four-design-patterns/adapter-pattern/. Acesso em: 08 de abril de 2021.
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona estrutura inicial de gofs estruturais e resumo sobre facade|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|08/03/2021|1.1|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 
