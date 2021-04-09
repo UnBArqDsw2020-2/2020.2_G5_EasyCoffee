@@ -40,9 +40,8 @@ Define uma interface para criar todos os produtos distintos, mas deixa a criaç�
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|07/03/2021|1.0|Adiciona resumo sobre GoFs Criacionais|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
-|07/03/2021|1.1|Adiciona resumo sobre singleton|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
-|07/03/2021|1.1|Adiciona resumo sobre Prototype|[Iago Theóphilo](https://github.com/iagotheophilo)|
-|08/03/2021|1.2|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
-|08/03/2021|1.3|Adiciona resumo sobre Factory Method|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
-|08/03/2021|1.3|Adiciona resumo sobre Abstract Factory |[Gustavo Afonso](https://github.com/GustavoAPS)| 
+|07/04/2021|1.0|Adiciona resumo sobre GoFs Criacionais|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|07/04/2021|1.1|Adiciona resumo sobre singleton|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|07/04/2021|1.1|Adiciona resumo sobre Prototype|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|08/04/2021|1.2|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
+|08/04/2021|1.3|Adiciona resumo sobre Factory Method|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
