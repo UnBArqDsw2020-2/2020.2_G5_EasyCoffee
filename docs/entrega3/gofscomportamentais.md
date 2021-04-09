@@ -63,6 +63,8 @@ Disponível em: https://refactoring.guru/design-patterns/iterator
 
 ### Uso no projeto e justificativa
 
+<p align="justify">Como já citado acima foi utilizado um iterator no código onde é requisitada uma lista de objetos do banco de dados e eles são iterados ao serem enviados para o backend.</p>
+
 ## Mediator
 
 <p align="justify">É um padrão que fornece uma autoridade central sobre um grupo de objetos, encapsulando como esses objetos interagem entre si. Isso traz um desacoplamento da gestão de interações entre um grupo de objetos, fazendo com que ocorra a diminuição da ligação entre objetos do projeto.</p>
@@ -71,6 +73,8 @@ Disponível em: https://refactoring.guru/design-patterns/iterator
 *Imagem sobre mediator.* Disponível em: https://refactoring.guru/design-patterns/mediator
 
 ### Uso no projeto e justificativa
+
+<p align="justify">Não encontramos um aspecto do projeto que contemple esse padrão de projeto, mas ao longo do desenvolvimento quando surgirem dependencias ele vai ser bastante utilizado.</p>
 
 ## Memento
 
@@ -81,6 +85,8 @@ Disponível em: https://refactoring.guru/design-patterns/iterator
 
 ### Uso no projeto e justificativa
 
+<p align="justify">Não encontramos um aspecto do projeto que contemple esse padrão de projeto, mas caso futuramente seja útil salvar o estado de objetos esse padrão será usado.</p>
+
 ## Observer
 <p align="justify">É um padrão que cria uma relação de dependência entre objetos (1:N) que funciona da seguinte maneira: quando um certo objeto, chamado subject, tem seu estado modificado, outros objetos, chamados observers, são notificados. </p>
 
@@ -88,6 +94,8 @@ Disponível em: https://refactoring.guru/design-patterns/iterator
 *Imagem sobre observer.* Disponível em: https://refactoring.guru/design-patterns/observer
 
 ### Uso no projeto e justificativa
+
+<p align="justify">Não encontramos um aspecto do projeto que contemple esse padrão.</p>
 
 ## State
 <p align="justify">É um padrão que faz com que um objeto altere o seu comportamento quando o seu estado interno mudar. O objeto irá aparentar mudar de classe.</p>
@@ -131,3 +139,4 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 |08/04/2021|1.8|Adiciona resumo sobre observer|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |08/04/2021|1.9|Adiciona código exemplo do Chain of Responsibility|[Danilo Domingo](https://github.com/danilow200)|
 |09/04/2021|1.10|Adiciona imagens explicativas sobre os gofs comportamentais|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|08/04/2021|1.11|Adiciona justificativas de uso no projeto|[Gustavo Afonso](https://github.com/GustavoAPS)|
