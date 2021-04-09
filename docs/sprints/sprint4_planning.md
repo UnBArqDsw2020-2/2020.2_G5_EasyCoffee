@@ -38,4 +38,4 @@ Total de pontos planejados: 52
 
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-|08/03/2021|1.0|Adiciona planning da sprint 4 |[Danilo Domingo](https://github.com/danilow200)|
+|08/04/2021|1.0|Adiciona planning da sprint 4 |[Danilo Domingo](https://github.com/danilow200)|

@@ -69,6 +69,7 @@
     - [Sprint 1 - Review/Retrospective](/sprints/sprint1_review_retrospective.md)
     - [Sprint 2 - Planning](/sprints/sprint2_planning.md)
     - [Sprint 4 - Planning](/sprints/sprint4_planning.md)
+    - [Sprint 4 - Review/Retrospective](/sprints/sprint4_review_retrospective.md)
     
 - [Treinamento](/entrega2/treinamento.md)
            
