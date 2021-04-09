@@ -12,7 +12,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">É um padrão que traz a definição do esqueleto de um algoritmo para alguma operação, adiando a definição de alguns sub passos para  a subclasse.</p>
 
-![alt text](../img/padroes_de_projeto/template_method.png)
+![alt text](../img/padroes_de_projeto/template_method.png) <br>
 *Imagem sobre template method.* Disponível em: https://refactoring.guru/design-patterns/template-method
 
 ### Uso no projeto e justificativa
