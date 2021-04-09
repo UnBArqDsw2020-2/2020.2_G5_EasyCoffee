@@ -37,7 +37,7 @@ export default function ModalCart({ isVisibleCart }) {
             Seus prudutos
           </header>
           <main>
-            <p>Produosdddddddddddddd</p>
+            <p>Produtos</p>
           </main>
           <footer>
             <h3>Total: R$99</h3>
@@ -50,10 +50,22 @@ export default function ModalCart({ isVisibleCart }) {
   )
 }
 ```
+
+## Component Pattern 
+<p align="justify">O padrão de componentes consiste basicamente em utilizar componentes, criando-os de forma suficientemente genérica para que possam ser reutilizados em boa parte do projeto.</p>
+
+### Uso no projeto e justificativa
+
+<p align="justify">Para demostrar o uso desse padrão de projeto, utilizamos a pasta components para armazenar o que sera reutilizado</p>
+
+![alt text](../img/emergentes/components.png)
+
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |09/04/2021|1.0|Adiciona estrutura inicial de padrões emergentes e resumo sobre revealing module|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS), [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina), [Maicon Mares](https://github.com/MaiconMares), [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |09/04/2021|1.1| Adicionando o padrão de proejto Render Props e o Uso no projeto e justificativa |[Iago Theóphilo](https://github.com/IagoTheophilo)|
+|09/04/2021|1.1| Adicionando o padrão de proejto Component Pattern  e o Uso no projeto e justificativa |[Iago Theóphilo](https://github.com/IagoTheophilo)|
 
