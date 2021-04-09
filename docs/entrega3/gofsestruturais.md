@@ -29,6 +29,11 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 <p align="justify">No nosso projeto, a lógica de funcionamento de cada classe se encontra dentro das controllers correspondentes a cada model. Entretanto, foi feita uma separação das controllers e suas rotas, visando uma maior facilidade, já que a parte responsável pelas rotas possui uma grande simplicidade e delega o trabalho mais robusto às funções que estão nas controllers.</p>
 
 *Rotas de produto*
+
+![alt text](../img/gofs/rotas_produto.png)
+
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/routes/product.routes.js)
+
     
 ## Flyweight
 
@@ -53,4 +58,5 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 |08/04/2021|1.1|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 |08/04/2021|1.2|Adiciona resumo sobre Composite|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |08/04/2021|1.3|Adiciona resumo sobre Proxy|[itallo Gravina](https://github.com/itallogravina)|
+|09/04/2021|1.4|Adiciona código de rotas de produto|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS) e [itallo Gravina](https://github.com/itallogravina)|
 
