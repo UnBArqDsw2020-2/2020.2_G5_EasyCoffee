@@ -24,9 +24,18 @@ De forma geral, isso significa que esse padrão de projeto está preocupado em c
 
 ### Especialista
 
-<p align="justify">O GRASP especialista é um padrão que se preocupa em determinar a qual objeto será delegado cada responsabilidade, de modo que cada tarefa seja feita por uma entidade que seja mais especialista naquele aspecto.</p>
+<p align="justify">
+O GRASP especialista é um padrão que se preocupa em atribuir responsabilidades a entidade especialista em determinado aspecto, de modo que cada tarefa seja feita por uma entidade que seja mais especialista naquele aspecto.</p>
 
 #### Uso no projeto e justificativa
+
+<p align="center">
+<img src="../img/grasps/MiddlewareCheckDuplicateUsernameOrEmail.png"/>
+</p>
+
+<p align="justify">
+Na criação de novos usuários (signup) é necessário que sejam feitas validações em relação ao formato dos dados tanto quanto verificações de atributos que devem ser únicos para cada usuário. A primeira tarefa é desempenhada bem pelas models, entretanto a segunda necessita de ajuda de um serviço adicional. Uma middleware foi criada apenas com o propósito de realizar as verificações, rejeitar ou permitir a criação e no caso de rejeição retornar o erro.
+</p>
 
 ### Alta Coesão
 
