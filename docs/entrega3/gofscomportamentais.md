@@ -63,5 +63,6 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona estrutura inicial de gofs comportamentais e chain of responsibility|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
-|07/03/2021|1.0|Adiciona Resumo sobre iteretor e memento|[Gustavo Afonso](https://github.com/GustavoAPS)|
-|07/03/2021|1.0|Adiciona Resumo sobre State|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|07/03/2021|1.1|Adiciona Resumo sobre iteretor e memento|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|07/03/2021|1.2|Adiciona Resumo sobre State|[Iago Theóphilo](https://github.com/iagotheophilo)|
+|07/03/2021|1.3|Adiciona Resumo sobre Strategy|[Itallo Gravina](https://github.com/itallogravina)|
