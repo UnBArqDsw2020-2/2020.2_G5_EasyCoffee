@@ -35,6 +35,7 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 ### Uso no projeto e justificativa
 
 ## Proxy
+<p align="justify">É um padrão de projeto que fornece um objeto representando visando controlar o acesso a outro objeto. Normalmente, o objeto Proxy tem a mesma interface do objeto original, e o cliente talvez nem se dê conta que está lidando com um proxy ao invés de um objeto real.</p>
 
 ### Uso no projeto e justificativa
 
@@ -51,4 +52,5 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 |07/04/2021|1.0|Adiciona estrutura inicial de gofs estruturais e resumo sobre facade|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |08/04/2021|1.1|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 |08/04/2021|1.2|Adiciona resumo sobre Composite|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|08/04/2021|1.2|Adiciona resumo sobre Proxy|[itallo Gravina](https://github.com/itallogravina)|
 
