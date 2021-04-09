@@ -30,6 +30,23 @@ Define uma interface para criar todos os produtos distintos, mas deixa a criaç�
 
 #### Uso no projeto e justificativa
 
+```javascript
+const productController = {
+  // Create
+  async create(req, res) {
+    const product = req.body;
+    try {
+      const newProduct = await Product.create(product);
+      return res.json({newProduct});
+    } catch (err) {
+      return res.status(400).json({err:'Não foi possível cadastrar o produto!'});
+    }
+  }
+}
+```
+<p align="justify">Esse padrão foi utilizado por conta dos benefícios oferecidos nativamente pelo JavaScript, além de ser um padrão fácil de ser aplicado, isso pode melhorar a performace.</p>
+
+
 ## Referências Bibliográficas
 
 **Builder Pattern.** Disponível em: https://springframework.guru/gang-of-four-design-patterns/builder-pattern/. Acesso em: 08 de abril de 2021.
@@ -45,3 +62,4 @@ Define uma interface para criar todos os produtos distintos, mas deixa a criaç�
 |07/04/2021|1.1|Adiciona resumo sobre Prototype|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |08/04/2021|1.2|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 |08/04/2021|1.3|Adiciona resumo sobre Factory Method|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
+|09/04/2021|1.4|Adiciona como foi aplicado o padrão Prototype|[Rafael Ribeiro](https://github.com/rafaelflarrn), [Iago Theóphilo](https://github.com/iagotheophilo), [Itallo Gravina](https://github.com/itallogravina)|
