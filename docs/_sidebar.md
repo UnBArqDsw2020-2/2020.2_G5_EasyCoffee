@@ -68,6 +68,8 @@
     - [Sprint 1 - Planning](/sprints/sprint1_planning.md)
     - [Sprint 1 - Review/Retrospective](/sprints/sprint1_review_retrospective.md)
     - [Sprint 2 - Planning](/sprints/sprint2_planning.md)
+    - [Sprint 3 - Planning](/sprints/sprint3_planning.md)
+    - [Sprint 3 - Review/Retrospective](/sprints/sprint3_review_retrospective.md)
     - [Sprint 4 - Planning](/sprints/sprint4_planning.md)
     - [Sprint 4 - Review/Retrospective](/sprints/sprint4_review_retrospective.md)
     
