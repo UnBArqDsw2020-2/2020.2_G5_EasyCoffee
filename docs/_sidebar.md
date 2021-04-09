@@ -58,20 +58,7 @@
         - [algum padrão](/entrega3/padraoemergente.md)
     - [Iniciativas Extras](/entrega3/iniciativas_extras_entrega3.md)            
 
-- Atas de reunião
-    - [Reunião - 22/02](/atas/ata_de_reuniao_22_02.md)
-    - [Reunião - 04/03](/atas/ata_de_reuniao_04_03.md)
-
-- Sprint
-    - [Sprint 0 - Planning](/sprints/sprint0_planning.md)
-    - [Sprint 0 - Review/Retrospective](/sprints/sprint0_review_retrospective.md)
-    - [Sprint 1 - Planning](/sprints/sprint1_planning.md)
-    - [Sprint 1 - Review/Retrospective](/sprints/sprint1_review_retrospective.md)
-    - [Sprint 2 - Planning](/sprints/sprint2_planning.md)
-    - [Sprint 3 - Planning](/sprints/sprint3_planning.md)
-    - [Sprint 3 - Review/Retrospective](/sprints/sprint3_review_retrospective.md)
-    - [Sprint 4 - Planning](/sprints/sprint4_planning.md)
-    - [Sprint 4 - Review/Retrospective](/sprints/sprint4_review_retrospective.md)
-    
+- [Atas de reunião](/atas/atas_de_reunioes.md)
+- [Sprints](/sprints/sprints.md)
 - [Treinamento](/entrega2/treinamento.md)
            
