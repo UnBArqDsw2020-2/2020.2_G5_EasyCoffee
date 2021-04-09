@@ -7,6 +7,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ### Uso no projeto e justificativa
 
+<p align="justify">Um cenário em que os adaptadores são comumente usados é quando novos componentes precisam ser integrados e trabalhar em conjunto com os componentes existentes no aplicativo, assim sendo naturalmente utilizado no projeto para fazer a comunicação entre os componentes. 
+</p>
+
 ## Bridge
 
 <p align="justify">Bridge é um padrão de design estrutural que permite dividir uma grande classe ou um conjunto de classes intimamente relacionadas em duas hierarquias separadas em abstração e implementação, que podem ser desenvolvidas independentemente uma da outra.
@@ -24,6 +27,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ### Uso no projeto e justificativa
 
+<p align="jsutify">Utilizado em uma estrutura de árvore é criada a partir de objetos Node, com ele podendo conter vários métodos, assim entrando naturalmente no projeto ao criar um obejeto novo com mas de um métado.
+</p>
+
 
 ## Decorator
 
@@ -32,9 +38,7 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ### Uso no projeto e justificativa
 
-<p align="justify">Um exemplo de Decorator é o gerenciamento de segurança, em que os objetos de negócios recebem acesso adicional a informações privilegiadas, dependendo dos privilégios do usuário autenticado.
-
-Decoradores fornecem flexibilidade para linguagens tipadas estaticamente, permitindo mudanças em tempo de execução ao invés da herança que ocorre em tempo de compilação. JavaScript, no entanto, é uma linguagem dinâmica e a capacidade de estender um objeto em tempo de execução é incorporada à própria linguagem. 
+<p align="justify">Um exemplo de Decorator é o gerenciamento de segurança, em que os objetos de negócios recebem acesso adicional a informações privilegiadas, dependendo dos privilégios do usuário autenticado. Utilizado no nosso projeto como uma chave de segurança. 
 </p>
 
 ## Facade
@@ -64,6 +68,7 @@ Decoradores fornecem flexibilidade para linguagens tipadas estaticamente, permit
 <p align="justify">É um padrão de projeto que fornece um objeto representando visando controlar o acesso a outro objeto. Normalmente, o objeto Proxy tem a mesma interface do objeto original, e o cliente talvez nem se dê conta que está lidando com um proxy ao invés de um objeto real.</p>
 
 ### Uso no projeto e justificativa
+<p align="justify">O proxy não se encaixa no escopo do projeto.</p>
 
 ## Referências Bibliográficas
 
@@ -83,3 +88,4 @@ Decoradores fornecem flexibilidade para linguagens tipadas estaticamente, permit
 |09/04/2021|1.5|Adiciona resumo e justificativa do Bridge|[Danilo Domingo](https://github.com/danilow200)|
 |09/04/2021|1.6|Adiciona resumo e justificativa do Decorator|[Danilo Domingo](https://github.com/danilow200)|
 |09/04/2021|1.7|Adiciona resumo e justificativa do Flyweight[Danilo Domingo](https://github.com/danilow200)|
+|09/04/2021|1.8|Adiciona restante das propostas e justificativas[Danilo Domingo](https://github.com/danilow200)|
