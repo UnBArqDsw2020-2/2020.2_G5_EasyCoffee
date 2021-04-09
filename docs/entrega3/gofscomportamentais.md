@@ -56,6 +56,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 ### Uso no projeto e justificativa
 
 ## Observer
+<p align="justify">É um padrão que cria uma relação de dependência entre objetos (1:N) que funciona da seguinte maneira: quando um certo objeto, chamado subject, tem seu estado modificado, outros objetos, chamados observers, são notificados. </p>
 
 ### Uso no projeto e justificativa
 
@@ -77,6 +78,8 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 ### Uso no projeto e justificativa
 <p align="justify">Não foi implementado no projeto, pois não foi encontrado algum aspecto do projeto que se aplique. Além disso, a própria linguagem de programação JavaScript tem grande flexibilidade fornecendo a possibilidade de adicionar e remover métodos em tempo de execução, desse modo esse não é um padrão muito utilizado quando se usa essa linguagem no desenvolvimento de um projeto.</p>
 
+## Versionamento
+
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |07/04/2021|1.0|Adiciona estrutura inicial de gofs comportamentais e chain of responsibility|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
@@ -87,3 +90,4 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 |08/04/2021|1.5|Adiciona Resumo sobre Visitor|[Gustavo Afonso](https://github.com/GustavoAPS)|
 |08/04/2021|1.6|Adiciona Uso no Projeto e Justificativa State|[Maicon Mares](https://github.com/MaiconMares)|
 |08/04/2021|1.7|Adiciona resumo sobre Template Method, Command e Mediator|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|08/04/2021|1.8|Adiciona resumo sobre observer|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
