@@ -10,6 +10,8 @@
 
 ## Abstract Factory:
 
+Define uma interface para criar todos os produtos distintos, mas deixa a criação real do produto para classes fábrica concretas. Cada tipo de fábrica corresponde a uma determinada variedade de produtos. É um padrão de projeto criacional, que resolve o problema de criar famílias inteiras de produtos sem especificar suas classes concretas.
+
 #### Uso no projeto e justificativa
 
 ## Builder 
