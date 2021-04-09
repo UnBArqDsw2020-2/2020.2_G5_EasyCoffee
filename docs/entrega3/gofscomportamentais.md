@@ -2,7 +2,12 @@
 
 ## Interpreter
 
+É um padrão que fornece uma linguagem de script que permite que usuários finais personalizem sua solução. É utilizado em aplicações complexas, que exigem configurações avançadas. Desse modo, esse padrão fornece a possibilidade de manipulação da aplicação, pelo usuário final, com uma linguagem de script básica. 
+
 ### Uso no projeto e justificativa
+
+Uso no projeto e justificativa
+Não foi encontrado nenhum elemento no projeto em que o padrão interpreter fosse aplicável. Mas é interessante ressaltar que caso seja necessário utilizar esse padrão em algum projeto que utilize JavaScript, o ideal seria utilizar um gerador de código como o [ANTLR](https://www.antlr.org/tools.html), que permite a construção de seu próprio interpretador de comandos, baseado na gramática informada.
 
 ## Template Method
 
@@ -65,4 +70,5 @@
 |07/03/2021|1.0|Adiciona estrutura inicial de gofs comportamentais e chain of responsibility|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |07/03/2021|1.1|Adiciona Resumo sobre iteretor e memento|[Gustavo Afonso](https://github.com/GustavoAPS)|
 |07/03/2021|1.2|Adiciona Resumo sobre State|[Iago Theóphilo](https://github.com/iagotheophilo)|
-|07/03/2021|1.3|Adiciona Resumo sobre Strategy|[Itallo Gravina](https://github.com/itallogravina)|
+|08/03/2021|1.3|Adiciona Resumo sobre Strategy|[Itallo Gravina](https://github.com/itallogravina)|
+|08/03/2021|1.4|Adiciona Resumo sobre Interpreter|[Danilo Domingo](https://github.com/danilow200)|
