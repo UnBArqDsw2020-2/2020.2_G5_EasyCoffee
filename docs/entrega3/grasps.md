@@ -30,7 +30,7 @@ O GRASP especialista é um padrão que se preocupa em atribuir responsabilidades
 #### Uso no projeto e justificativa
 
 <p align="center">
-<img src="../img/grasps/MiddlewareCheckDuplicateUsernameOrEmail.png"/>
+<img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/05ecd9b95ccd4de2f3aa6d87020d33c914880895/docs/img/grasps/MiddlewareCheckDuplicateUsernameOrEmail.png?raw=true"/>
 </p>
 
 <p align="justify">
