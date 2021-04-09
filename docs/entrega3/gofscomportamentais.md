@@ -52,9 +52,9 @@
 ### Uso no projeto e justificativa
 
 ## Strategy
-
+<p align="justify">É um padrão que traz a possibilidade de uma família de algoritmos ser utilizada de forma seletiva e independente. Esse padrão encapsula determinados algoritmos alternativos para uma determinada tarefa. </p>
 ### Uso no projeto e justificativa
-
+<p align="justify">Nesse primeiro momento, não foi utilizado no projeto, pois não foi implementado algo que se aplicasse. Entretanto, será estudado a possibilidade do uso desse padrão para implementar o frete. Que pode ser calculado de formas diferentes, a depender do tipo de entrega escolhida. </p>
 ## Visitor
 
 ### Uso no projeto e justificativa
