@@ -24,9 +24,18 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ### Uso no projeto e justificativa
 
+
 ## Decorator
 
+<p align="justify">Decorator é um padrão de design estrutural que permite anexar novos comportamentos a objetos, colocando esses objetos dentro de objetos de invólucro especiais que contêm os comportamentos.
+</p>
+
 ### Uso no projeto e justificativa
+
+<p align="justify">Um exemplo de Decorator é o gerenciamento de segurança, em que os objetos de negócios recebem acesso adicional a informações privilegiadas, dependendo dos privilégios do usuário autenticado.
+
+Decoradores fornecem flexibilidade para linguagens tipadas estaticamente, permitindo mudanças em tempo de execução ao invés da herança que ocorre em tempo de compilação. JavaScript, no entanto, é uma linguagem dinâmica e a capacidade de estender um objeto em tempo de execução é incorporada à própria linguagem. 
+</p>
 
 ## Facade
 <p align="justify">É um padrão que oculta a complexidade de uma ou mais classes por meio de uma facade (fachada), com o objetivo de simplificar uma interface e o acesso a mesma. Uma definição mais oficial do padrão facade é “O Padrão Facade fornece uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface de nível mais alto que facilita a utilização do subsistema”.</p>
@@ -43,7 +52,13 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
     
 ## Flyweight
 
+<p align="justify">Flyweight é um padrão de design estrutural que permite ajustar mais objetos na quantidade disponível de RAM, compartilhando partes comuns de estado entre vários objetos, em vez de manter todos os dados em cada objeto. 
+</p>
+
 ### Uso no projeto e justificativa
+
+<p align="justify">O Flyweight está dentro do próprio mecanismo JavaScript, que mantém uma lista de strings imutáveis que são compartilhadas no aplicativo.
+</p>
 
 ## Proxy
 <p align="justify">É um padrão de projeto que fornece um objeto representando visando controlar o acesso a outro objeto. Normalmente, o objeto Proxy tem a mesma interface do objeto original, e o cliente talvez nem se dê conta que está lidando com um proxy ao invés de um objeto real.</p>
@@ -66,4 +81,5 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 |08/04/2021|1.3|Adiciona resumo sobre Proxy|[itallo Gravina](https://github.com/itallogravina)|
 |09/04/2021|1.4|Adiciona código de rotas de produto|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS) e [itallo Gravina](https://github.com/itallogravina)|
 |09/04/2021|1.5|Adiciona resumo e justificativa do Bridge|[Danilo Domingo](https://github.com/danilow200)|
-
+|09/04/2021|1.6|Adiciona resumo e justificativa do Decorator|[Danilo Domingo](https://github.com/danilow200)|
+|09/04/2021|1.7|Adiciona resumo e justificativa do Flyweight[Danilo Domingo](https://github.com/danilow200)|
