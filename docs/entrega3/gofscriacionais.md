@@ -4,6 +4,8 @@
 
 ## Factory Method
 
+<p align="justify">O padrão Factory Method foca na criação de objetos dentro de uma aplicação. Ele usa classes para atuar como fábricas de criar objetos. Esse padrão favorece o método de invocação em vez de fazer chamadas diretas ao construtor para criar objetos, podendo criar objetos sem especificar a classe exata a ser criada.</p>
+
 #### Uso no projeto e justificativa
 
 ## Abstract Factory:
@@ -30,6 +32,8 @@
 
 **Builder Pattern.** Disponível em: https://springframework.guru/gang-of-four-design-patterns/builder-pattern/. Acesso em: 08 de abril de 2021.
 
+**Factory Method Design Pattern** Disponível em: https://springframework.guru/gang-of-four-design-patterns/factory-method-design-pattern/. Acesso em: 08 de abril de 2021.
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
@@ -38,3 +42,4 @@
 |07/03/2021|1.1|Adiciona resumo sobre singleton|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |07/03/2021|1.1|Adiciona resumo sobre Prototype|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |08/03/2021|1.2|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
+|08/03/2021|1.3|Adiciona resumo sobre Factory Method|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
