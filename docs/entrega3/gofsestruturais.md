@@ -52,7 +52,13 @@ Decoradores fornecem flexibilidade para linguagens tipadas estaticamente, permit
     
 ## Flyweight
 
+<p align="justify">Flyweight é um padrão de design estrutural que permite ajustar mais objetos na quantidade disponível de RAM, compartilhando partes comuns de estado entre vários objetos, em vez de manter todos os dados em cada objeto. 
+</p>
+
 ### Uso no projeto e justificativa
+
+<p align="justify">O Flyweight está dentro do próprio mecanismo JavaScript, que mantém uma lista de strings imutáveis que são compartilhadas no aplicativo.
+</p>
 
 ## Proxy
 <p align="justify">É um padrão de projeto que fornece um objeto representando visando controlar o acesso a outro objeto. Normalmente, o objeto Proxy tem a mesma interface do objeto original, e o cliente talvez nem se dê conta que está lidando com um proxy ao invés de um objeto real.</p>
@@ -76,4 +82,4 @@ Decoradores fornecem flexibilidade para linguagens tipadas estaticamente, permit
 |09/04/2021|1.4|Adiciona código de rotas de produto|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS) e [itallo Gravina](https://github.com/itallogravina)|
 |09/04/2021|1.5|Adiciona resumo e justificativa do Bridge|[Danilo Domingo](https://github.com/danilow200)|
 |09/04/2021|1.6|Adiciona resumo e justificativa do Decorator|[Danilo Domingo](https://github.com/danilow200)|
-
+|09/04/2021|1.7|Adiciona resumo e justificativa do Flyweight[Danilo Domingo](https://github.com/danilow200)|
