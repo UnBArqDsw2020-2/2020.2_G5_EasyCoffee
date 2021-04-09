@@ -25,7 +25,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">As funções middleware podem executar qualquer código, fazer mudanças nos objetos de solicitação e resposta, encerrar o ciclo de solicitação-resposta e chamar o próximo middleware na fila. </p>
 
-*Middleware de autenticação de usuário*
+![alt](../img/gofs/MiddlewareVerifySignUp.png)
     
 <p align="justify">No nosso projeto, foi feito o uso de middleware na autenticação do usuário, para assegurar que só terá acesso a determinadas funcionalidades do site o usuário que possuir conta em nosso sistema e estiver devidamente logado. </p>
 
@@ -87,3 +87,4 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 |08/04/2021|1.5|Adiciona Resumo sobre Visitor|[Gustavo Afonso](https://github.com/GustavoAPS)|
 |08/04/2021|1.6|Adiciona Uso no Projeto e Justificativa State|[Maicon Mares](https://github.com/MaiconMares)|
 |08/04/2021|1.7|Adiciona resumo sobre Template Method, Command e Mediator|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|08/04/2021|1.8|Adiciona código exemplo do Chain of Responsibility|[Danilo Domingo](https://github.com/danilow200)|
