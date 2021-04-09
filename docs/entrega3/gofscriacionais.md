@@ -10,6 +10,8 @@
 
 ## Abstract Factory:
 
+Define uma interface para criar todos os produtos distintos, mas deixa a criação real do produto para classes fábrica concretas. Cada tipo de fábrica corresponde a uma determinada variedade de produtos. É um padrão de projeto criacional, que resolve o problema de criar famílias inteiras de produtos sem especificar suas classes concretas.
+
 #### Uso no projeto e justificativa
 
 ## Builder 
@@ -43,3 +45,4 @@
 |07/03/2021|1.1|Adiciona resumo sobre Prototype|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |08/03/2021|1.2|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 |08/03/2021|1.3|Adiciona resumo sobre Factory Method|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
+|08/03/2021|1.3|Adiciona resumo sobre Abstract Factory |[Gustavo Afonso](https://github.com/GustavoAPS)| 
