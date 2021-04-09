@@ -55,6 +55,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 <p align="justify">É um padrão que faz com que um objeto altere o seu comportamento quando o seu estado interno mudar. O objeto irá aparentar mudar de classe.</p>
 
 ### Uso no projeto e justificativa
+Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estudada a possibilidade do seu uso no Frontend do projeto, através do uso do useState do React, em especial na parte de login. Pois quando o usuário loga, novas funcionalidades se tornam disponíveis.
 
 ## Strategy
 <p align="justify">É um padrão que traz a possibilidade de uma família de algoritmos ser utilizada de forma seletiva e independente. Esse padrão encapsula determinados algoritmos alternativos para uma determinada tarefa. </p>
@@ -76,3 +77,4 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 |08/04/2021|1.3|Adiciona Resumo sobre Strategy|[Itallo Gravina](https://github.com/itallogravina)|
 |08/04/2021|1.4|Adiciona Resumo sobre Interpreter|[Danilo Domingo](https://github.com/danilow200)|
 |08/04/2021|1.5|Adiciona Resumo sobre Visitor|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|08/04/2021|1.6|Adiciona Uso no Projeto e Justificativa State|[Maicon Mares](https://github.com/MaiconMares)|
