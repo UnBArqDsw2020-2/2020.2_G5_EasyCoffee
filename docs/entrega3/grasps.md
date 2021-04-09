@@ -57,6 +57,10 @@ O controller, além de ser um padrão de projeto GRASP, também é um padrão ut
 
 ### Polimorfismo
 
+<p align="justify">
+O GRASP Polimorfismo é um padrão bastante conhecido, pois é bastante aplicado na Programação Orientada à Objetos. Esse padrão é utilizado quando duas ou mais classes possuem métodos com comportamento semelhante. Quando isso ocorre, é criado uma classe abstrata, onde a responsabilidade por aquelas ações se encontra nessa classe, e as demais classes derivam dessa abstração, podendo variar na implementação dos métodos conforme a necessidade.
+</p>
+
 #### Uso no projeto e justificativa
 
 ### Invenção Pura (ou Fabricação Própria)
@@ -97,3 +101,4 @@ SERRANO, Milene. **Aula - GRASP - PARTE I.**
 |07/03/2021|1.3|Adiciona Resumo sobre Baixo Acoplamento e Controller|[Iago Theóphilo](https://github.com/iagotheophilo)|
 |07/03/2021|1.4|Adiciona resumo sobre Indireção|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 |08/03/2021|1.5|Adiciona resumo sobre Variações Protegidas|[Danilo Domingo](https://github.com/danilow200)
+|08/03/2021|1.6|Adiciona resumo sobre Polimorfismo|[Maicon Mares](https://github.com/maiconmares)
