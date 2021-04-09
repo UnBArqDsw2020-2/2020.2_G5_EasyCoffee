@@ -50,7 +50,16 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 <p align="justify">É um padrão que possibilita percorrer uma coleção de objetos, sem que o encapsulamento dos mesmos seja violado.</p>
 
 ![alt text](../img/padroes_de_projeto/iterator.png) <br>
-*Imagem sobre iterator.* Disponível em: https://refactoring.guru/design-patterns/iterator
+
+
+<p align="justify">O padrão iterator foi utilizado no código abaixo por exemplo, onde é requisitado uma lista de objetos do banco de dados e eles são iterados ao serem enviados para o backend.</p>
+
+![alt text](../img/gofs/find_all.png) <br>
+*Trecho de código mostrando uma iteração.* 
+
+Disponível em: https://refactoring.guru/design-patterns/iterator
+
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/controllers/productController.js)
 
 ### Uso no projeto e justificativa
 
