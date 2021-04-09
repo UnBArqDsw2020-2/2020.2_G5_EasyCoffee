@@ -21,7 +21,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">É um padrão que dá a oportunidade a mais de um objeto de lidar com uma solicitação. Isso significa que uma mesma solicitação passa por uma série de objetos em cadeia (objetos receptores e objetos de solicitação), até que algum seja capaz de tratar a solicitação. Uma vantagem no uso desse padrão é evitar a dependência entre um objeto receptor e um objeto solicitante. </p>
 
-![alt text](../img/padroes_de_projeto/chain_of_responsibility.png)
+![alt text](../img/padroes_de_projeto/chain_of_responsibility.png) <br>
 *Imagem sobre chain of responbibility.* Disponível em: https://refactoring.guru/design-patterns/chain-of-responsibility
 
 ### Uso no projeto e justificativa
@@ -38,7 +38,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">Esse padrão de projeto encapsula as ações dos objetos. É um objeto utilizado para realizar a chamada de determinado componente, bem como controlar as suas requisições. Ou seja, há uma separação entre um objeto que controla as requisições, com o objeto que lida com essas requisições.</p>
 
-![alt text](../img/padroes_de_projeto/command.png)
+![alt text](../img/padroes_de_projeto/command.png) <br>
 *Imagem sobre command.* Disponível em: https://refactoring.guru/design-patterns/command
 
 ### Uso no projeto e justificativa
@@ -49,7 +49,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">É um padrão que possibilita percorrer uma coleção de objetos, sem que o encapsulamento dos mesmos seja violado.</p>
 
-![alt text](../img/padroes_de_projeto/iterator.png)
+![alt text](../img/padroes_de_projeto/iterator.png) <br>
 *Imagem sobre iterator.* Disponível em: https://refactoring.guru/design-patterns/iterator
 
 ### Uso no projeto e justificativa
@@ -58,7 +58,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">É um padrão que fornece uma autoridade central sobre um grupo de objetos, encapsulando como esses objetos interagem entre si. Isso traz um desacoplamento da gestão de interações entre um grupo de objetos, fazendo com que ocorra a diminuição da ligação entre objetos do projeto.</p>
 
-![alt text](../img/padroes_de_projeto/mediator.png)
+![alt text](../img/padroes_de_projeto/mediator.png) <br>
 *Imagem sobre mediator.* Disponível em: https://refactoring.guru/design-patterns/mediator
 
 ### Uso no projeto e justificativa
@@ -67,7 +67,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 
 <p align="justify">É um padrão que armazena o estado de um objeto em um dado momento, permitindo a volta para esse estado caso alguma alteração seja feita.</p>
 
-![alt text](../img/padroes_de_projeto/memento.png)
+![alt text](../img/padroes_de_projeto/memento.png) <br>
 *Imagem sobre memento.* Disponível em: https://refactoring.guru/design-patterns/memento
 
 ### Uso no projeto e justificativa
@@ -75,7 +75,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 ## Observer
 <p align="justify">É um padrão que cria uma relação de dependência entre objetos (1:N) que funciona da seguinte maneira: quando um certo objeto, chamado subject, tem seu estado modificado, outros objetos, chamados observers, são notificados. </p>
 
-![alt text](../img/padroes_de_projeto/observer.png)
+![alt text](../img/padroes_de_projeto/observer.png) <br>
 *Imagem sobre observer.* Disponível em: https://refactoring.guru/design-patterns/observer
 
 ### Uso no projeto e justificativa
@@ -83,7 +83,7 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 ## State
 <p align="justify">É um padrão que faz com que um objeto altere o seu comportamento quando o seu estado interno mudar. O objeto irá aparentar mudar de classe.</p>
 
-![alt text](../img/padroes_de_projeto/state.png)
+![alt text](../img/padroes_de_projeto/state.png) <br>
 *Imagem sobre state.* Disponível em: https://refactoring.guru/design-patterns/state
 
 ### Uso no projeto e justificativa
@@ -92,7 +92,7 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 ## Strategy
 <p align="justify">É um padrão que traz a possibilidade de uma família de algoritmos ser utilizada de forma seletiva e independente. Esse padrão encapsula determinados algoritmos alternativos para uma determinada tarefa. </p>
 
-![alt text](../img/padroes_de_projeto/strategy.png)
+![alt text](../img/padroes_de_projeto/strategy.png) <br>
 *Imagem sobre strategy.* Disponível em: https://refactoring.guru/design-patterns/strategy
 
 ### Uso no projeto e justificativa
@@ -101,7 +101,7 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 ## Visitor
 <p align="justify">O padrão visitor define novas operações a serem realizadas em uma coleção de objetos sem alterar os objetos em si.</p>
 
-![alt text](../img/padroes_de_projeto/visitor.png)
+![alt text](../img/padroes_de_projeto/visitor.png) <br>
 *Imagem sobre visitor.* Disponível em: https://refactoring.guru/design-patterns/visitor
 
 ### Uso no projeto e justificativa
