@@ -5,9 +5,12 @@
 <p align="justify">O Adapter é um padrão de projeto clássico dos GoFs estruturais. Compõem padrões nos quais o objetivo é identificar como entender relacionamentos entre classes e objetos de uma forma simples. Esse padrão é tipicamente usado quando um módulo incompatível necessita ser integrado com um módulo já existente sem que haja nenhuma modificação no código fonte. 
 Há duas variantes do Adapter: Object Adapter que depende da composição e a Class Adapter que depende da herança.</p>
 
+![alt text](../img/padroes_de_projeto/adapter.png) <br>
+*Imagem sobre adapter.* Disponível em: https://refactoring.guru/design-patterns/adapter
+
 ### Uso no projeto e justificativa
 
-<p align="justify">Um cenário em que os adaptadores são comumente usados é quando novos componentes precisam ser integrados e trabalhar em conjunto com os componentes existentes no aplicativo, assim sendo naturalmente utilizado no projeto para fazer a comunicação entre os componentes. 
+<p align="justify">Não se aplica ao nosso projeto. Mas, um cenário em que os adaptadores são comumente usados é quando novos componentes precisam ser integrados e trabalhar em conjunto com os componentes existentes no aplicativo, assim sendo naturalmente utilizado no projeto para fazer a comunicação entre os componentes. 
 </p>
 
 ## Bridge
@@ -15,9 +18,12 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 <p align="justify">Bridge é um padrão de design estrutural que permite dividir uma grande classe ou um conjunto de classes intimamente relacionadas em duas hierarquias separadas em abstração e implementação, que podem ser desenvolvidas independentemente uma da outra.
 </p>
 
+![alt text](../img/padroes_de_projeto/bridge.png) <br>
+*Imagem sobre bridge.* Disponível em: https://refactoring.guru/design-patterns/bridge
+
 ### Uso no projeto e justificativa
 
-<p align="justify">Um exemplo do padrão Bridge é um aplicativo (o cliente) e um driver de banco de dados (o serviço). O aplicativo grava em uma API de banco de dados bem definida, por exemplo MongoDB, mas por trás dessa API você descobrirá que a implementação de cada driver é totalmente diferente para cada fornecedor de banco de dados (SQL Server, MySQL, Oracle, etc.).
+<p align="justify">Não se aplica ao nosso projeto. Porém, um exemplo do padrão Bridge é um aplicativo (o cliente) e um driver de banco de dados (o serviço). O aplicativo grava em uma API de banco de dados bem definida, por exemplo MongoDB, mas por trás dessa API você descobrirá que a implementação de cada driver é totalmente diferente para cada fornecedor de banco de dados (SQL Server, MySQL, Oracle, etc.).
 </p> 
 
 ## Composite
@@ -25,9 +31,12 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 <p align="justify">Usando o padrão Composite é possível criar árvores hierárquicas de objetos de uma maneira uniforme sem grande complexidade. Compondo objetos em estruturas de árvores para representar relações hierárquicas parte-todo. O padrão Composite permite aos clientes tratar objetos de forma individual e composições de objetos uniformemente, ou seja, o cliente pode ser capaz de aplicar as mesmas operações sobre ambas agregações de objetos(todo) e objetos individuais(parte).
 </p>
 
+![alt text](../img/padroes_de_projeto/composite.png) <br>
+*Imagem sobre composite.* Disponível em: https://refactoring.guru/design-patterns/composite
+
 ### Uso no projeto e justificativa
 
-<p align="jsutify">Utilizado em uma estrutura de árvore é criada a partir de objetos Node, com ele podendo conter vários métodos, assim entrando naturalmente no projeto ao criar um obejeto novo com mas de um métado.
+<p align="jsutify">Utilizado em uma estrutura de árvore é criada a partir de objetos Node, com ele podendo conter vários métodos, assim entrando naturalmente no projeto ao criar um objeto novo com mais de um método.
 </p>
 
 
@@ -36,6 +45,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 <p align="justify">Decorator é um padrão de design estrutural que permite anexar novos comportamentos a objetos, colocando esses objetos dentro de objetos de invólucro especiais que contêm os comportamentos.
 </p>
 
+![alt text](../img/padroes_de_projeto/decorator.png) <br>
+*Imagem sobre decorator.* Disponível em: https://refactoring.guru/design-patterns/decorator
+
 ### Uso no projeto e justificativa
 
 <p align="justify">Um exemplo de Decorator é o gerenciamento de segurança, em que os objetos de negócios recebem acesso adicional a informações privilegiadas, dependendo dos privilégios do usuário autenticado. Utilizado no nosso projeto como uma chave de segurança. 
@@ -43,6 +55,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ## Facade
 <p align="justify">É um padrão que oculta a complexidade de uma ou mais classes por meio de uma facade (fachada), com o objetivo de simplificar uma interface e o acesso a mesma. Uma definição mais oficial do padrão facade é “O Padrão Facade fornece uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface de nível mais alto que facilita a utilização do subsistema”.</p>
+
+![alt text](../img/padroes_de_projeto/facade.png) <br>
+*Imagem sobre facade.* Disponível em: https://refactoring.guru/design-patterns/facade
 
 ### Uso no projeto e justificativa
 <p align="justify">No nosso projeto, a lógica de funcionamento de cada classe se encontra dentro das controllers correspondentes a cada model. Entretanto, foi feita uma separação das controllers e suas rotas, visando uma maior facilidade, já que a parte responsável pelas rotas possui uma grande simplicidade e delega o trabalho mais robusto às funções que estão nas controllers.</p>
@@ -59,6 +74,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 <p align="justify">Flyweight é um padrão de design estrutural que permite ajustar mais objetos na quantidade disponível de RAM, compartilhando partes comuns de estado entre vários objetos, em vez de manter todos os dados em cada objeto. 
 </p>
 
+![alt text](../img/padroes_de_projeto/flyweight.png) <br>
+*Imagem sobre flyweight.* Disponível em: https://refactoring.guru/design-patterns/flyweight
+
 ### Uso no projeto e justificativa
 
 <p align="justify">O Flyweight está dentro do próprio mecanismo JavaScript, que mantém uma lista de strings imutáveis que são compartilhadas no aplicativo.
@@ -66,6 +84,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ## Proxy
 <p align="justify">É um padrão de projeto que fornece um objeto representando visando controlar o acesso a outro objeto. Normalmente, o objeto Proxy tem a mesma interface do objeto original, e o cliente talvez nem se dê conta que está lidando com um proxy ao invés de um objeto real.</p>
+
+![alt text](../img/padroes_de_projeto/proxy.png) <br>
+*Imagem sobre proxy.* Disponível em: https://refactoring.guru/design-patterns/proxy
 
 ### Uso no projeto e justificativa
 <p align="justify">O proxy não se encaixa no escopo do projeto.</p>
@@ -87,5 +108,6 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 |09/04/2021|1.4|Adiciona código de rotas de produto|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS) e [itallo Gravina](https://github.com/itallogravina)|
 |09/04/2021|1.5|Adiciona resumo e justificativa do Bridge|[Danilo Domingo](https://github.com/danilow200)|
 |09/04/2021|1.6|Adiciona resumo e justificativa do Decorator|[Danilo Domingo](https://github.com/danilow200)|
-|09/04/2021|1.7|Adiciona resumo e justificativa do Flyweight[Danilo Domingo](https://github.com/danilow200)|
-|09/04/2021|1.8|Adiciona restante das propostas e justificativas[Danilo Domingo](https://github.com/danilow200)|
+|09/04/2021|1.7|Adiciona resumo e justificativa do Flyweight|[Danilo Domingo](https://github.com/danilow200)|
+|09/04/2021|1.8|Adiciona restante das propostas e justificativas|[Danilo Domingo](https://github.com/danilow200)|
+|09/04/2021|1.9|Adiciona imagens e revisa documento.|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
