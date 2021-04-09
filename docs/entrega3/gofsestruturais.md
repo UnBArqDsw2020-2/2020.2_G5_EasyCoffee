@@ -13,6 +13,9 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ## Composite
 
+<p align="justify">Usando o padrão Composite é possível criar árvores hierárquicas de objetos de uma maneira uniforme sem grande complexidade. Compondo objetos em estruturas de árvores para representar relações hierárquicas parte-todo. O padrão Composite permite aos clientes tratar objetos de forma individual e composições de objetos uniformemente, ou seja, o cliente pode ser capaz de aplicar as mesmas operações sobre ambas agregações de objetos(todo) e objetos individuais(parte).
+</p>
+
 ### Uso no projeto e justificativa
 
 ## Decorator
@@ -39,10 +42,13 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 **Adapter Pattern.** Disponível em: https://springframework.guru/gang-of-four-design-patterns/adapter-pattern/. Acesso em: 08 de abril de 2021.
 
+**Composite Pattern.** Disponível em: https://springframework.guru/gang-of-four-design-patterns/composite-pattern/. Acesso em: 08 de abril de 2021.
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |07/03/2021|1.0|Adiciona estrutura inicial de gofs estruturais e resumo sobre facade|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |08/03/2021|1.1|Adiciona resumo sobre Builder|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
+|08/03/2021|1.2|Adiciona resumo sobre Composite|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
 
