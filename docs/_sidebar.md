@@ -55,7 +55,7 @@
         - [GoFs Estruturais](/entrega3/gofsestruturais.md)
         - [GoFs Comportamentais](/entrega3/gofscomportamentais.md)
     - 3.3 Padrões de Projeto Extras
-        - [Revealing Module Pattern](/entrega3/padraoemergente.md)
+        - [Padrão Emergente](/entrega3/padraoemergente.md)
     - [Iniciativas Extras](/entrega3/iniciativas_extras_entrega3.md)            
 
 - [Atas de reunião](/atas/atas_de_reunioes.md)
