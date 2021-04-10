@@ -4,6 +4,10 @@
 
 <p align="justify">A UML foi criada como um modelo padronizado para descrever uma abordagem de programação orientada ao objeto. Como as classes são os componentes básicos dos objetos, diagramas de classes são os componentes básicos da UML. Os diversos componentes em um diagrama de classes podem representar as classes que serão realmente programadas, os principais objetos ou as interações entre classes e objetos.</p>
 
+## Diagrama de Classes - V2.0
+
+![alt text](../../img/diagrama_classe/Diagrma_de_Classev3.png)
+
 ## Diagrama de Classes - V1.0
 
 ![alt text](../../img/uml/Diagrama_de_Classes_v1.0.png)
