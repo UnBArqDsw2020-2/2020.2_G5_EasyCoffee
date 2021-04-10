@@ -20,7 +20,17 @@ De forma geral, isso significa que esse padrão de projeto está preocupado em c
 
 #### Uso no projeto e justificativa
 
-<p align="justify"></p>
+<p align="justify">No nosso projeto, o produto é responsável pela sua própria criação.</p>
+
+![alt text](../img/grasps/CriaProduto.png) <br>
+
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/controllers/productController.js)
+
+<p align="justify">O user também é responsável pela sua criação.</p>
+
+![alt text](../img/grasps/CriaUsuario.png) <br>
+
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/controllers/auth.controller.js)
 
 ### Especialista
 
@@ -29,9 +39,10 @@ O GRASP especialista é um padrão que se preocupa em atribuir responsabilidades
 
 #### Uso no projeto e justificativa
 
-<p align="center">
-<img src="https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee/blob/05ecd9b95ccd4de2f3aa6d87020d33c914880895/docs/img/grasps/MiddlewareCheckDuplicateUsernameOrEmail.png?raw=true"/>
-</p>
+<p align="justify">Em nosso projeto isso pode ser observado no trecho de código a seguir, que é responsável por checar se o usuário já existe no banco de dados.</p>
+
+![alt text](../img/grasps/MiddlewareCheckDuplicateUsernameOrEmail.png) <br>
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/middlewares/verifySignUp.js)
 
 <p align="justify">
 Na criação de novos usuários (signup) é necessário que sejam feitas validações em relação ao formato dos dados tanto quanto verificações de atributos que devem ser únicos para cada usuário. A primeira tarefa é desempenhada bem pelas models, entretanto a segunda necessita de ajuda de um serviço adicional. Uma middleware foi criada apenas com o propósito de realizar as verificações, rejeitar ou permitir a criação e no caso de rejeição retornar o erro.
@@ -47,22 +58,35 @@ Na criação de novos usuários (signup) é necessário que sejam feitas valida�
 
 #### Uso no projeto e justificativa
 
+<p align="justify">No nosso projeto, tentamos manter a coesão mais alta possível, mantendo as tarefas sob a resposabilidade das classes referentes. </p>
+
 ### Baixo Acoplamento
 <p align="justify">O GRASP Baixo Acoplamento é um padrão que diz que não deve haver dependência entre objetos concretos das classes, para que as mudanças possam ser feitas sem que haja um grande impacto e seja possível a reutilização. Desse modo, as responsabilidades entre as classes devem ser atribuídas de modo que o acoplamento entre estas permaneça baixo. </p>
 
-
-
 #### Uso no projeto e justificativa
+
+<p align="justify">No nosso projeto, tentamos manter o baixo acoplamento, especialmente durante a codificação, para que haja a menor dependência possível entre as classes.</p>
 
 ### Controller
 
-<p align="justify">O GRASP Controller ou controlador é um padrão que se preocupa em atribuir a responsabilidade de lidar com os eventos do sistema à classe mais adequada, ou seja, o controller faz a ligação entre as ações que ocorrem na interface do usuário com a lógica de comportamento de seu sistema.
+<p align="justify">O GRASP Controller ou controlador é um padrão que se preocupa em atribuir a responsabilidade de lidar com os eventos do sistema à classe mais adequada, ou seja, o controller faz a ligação entre as ações que ocorrem na interface do usuário com a lógica de comportamento de seu sistema.</p>
 
-Desse modo, o controller faz com que a camada de interação com o usuário seja separada da camada responsável pela lógica do sistema. Assim, cada camada se torna mais independente e menos sensível a alterações feitas na outra camada. 
+<p align="justify">Desse modo, o controller faz com que a camada de interação com o usuário seja separada da camada responsável pela lógica do sistema. Assim, cada camada se torna mais independente e menos sensível a alterações feitas na outra camada. </p>
 
-O controller, além de ser um padrão de projeto GRASP, também é um padrão utilizado amplamente no desenvolvimento de aplicações web atuais, que utilizam o padrão model-view-controller.</p>
+<p align="justify">O controller, além de ser um padrão de projeto GRASP, também é um padrão utilizado amplamente no desenvolvimento de aplicações web atuais, que utilizam o padrão model-view-controller.</p>
 
 #### Uso no projeto e justificativa
+
+<p align="justify">Esse padrão, por ser algo já utilizado nos padrões de desenvolvimento web, foi aplicado em nosso projeto nas controllers de diversas models</p>
+
+*Controller de produto* 
+
+![alt text](../img/grasps/produto1.png) <br><br>
+![alt text](../img/grasps/produto2.png) <br><br>
+![alt text](../img/grasps/produto3.png) <br>
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/controllers/productController.js)
+
+[Controler de usuário](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/controllers/auth.controller.js)
 
 ### Polimorfismo
 
@@ -72,11 +96,16 @@ O GRASP Polimorfismo é um padrão bastante conhecido, pois é bastante aplicado
 
 #### Uso no projeto e justificativa
 
+<p align="justify"> Não se aplica no nosso projeto, especialmente porque JavaScrip não suporta classes abstratas.</p>
+
 ### Invenção Pura (ou Fabricação Própria)
 <p align="justify">O GRASP de Invenção Pura traz uma classe que não está relacionada com nenhum conceito no domínio do problema.  É simplesmente uma classe prestadora de serviços. Isso auxilia o sistema a ter um baixo acoplamento e alta coesão. 
 
 Um exemplo de invenção pura, está em um projeto onde várias classes precisam fazer a persistência dos dados de suas instâncias em um banco, e ao invés de atribuir essa responsabilidade a cada uma das classes, é criada uma outra classe que tenha a responsabilidade de salvar os dados das demais classes no banco de dados.</p>
+
 #### Uso no projeto e justificativa
+
+<p align="justify"> Não aplicamos no projeto.</p>
 
 ### Indireção
 
@@ -86,11 +115,15 @@ Um exemplo é a introdução do componente controlador para mediação entre dad
 
 #### Uso no projeto e justificativa
 
+<p align="justify"> Não encontramos aplicação no projeto até o momento, mas talvez seja utilizado no futuro.</p>
+
 ### Variações Protegidas
 
 O GRASP Variações Protegidas é um padrão que protege o sistema com a variação de componentes, trazendo o encapsulamento dos comportamentos que são de fato importantes.
 
 #### Uso no projeto e justificativa
+
+<p align="justify"> Não encontramos aplicação no projeto.</p>
 
 ## Referências Bibliográficas
 
@@ -111,3 +144,4 @@ SERRANO, Milene. **Aula - GRASP - PARTE I.**
 |07/04/2021|1.4|Adiciona resumo sobre Indireção|[Rafael Ribeiro](https://github.com/rafaelflarrn)| 
 |08/04/2021|1.5|Adiciona resumo sobre Variações Protegidas|[Danilo Domingo](https://github.com/danilow200)
 |08/04/2021|1.6|Adiciona resumo sobre Polimorfismo|[Maicon Mares](https://github.com/maiconmares)
+|09/04/2021|1.7|Adiciona justificativas|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
