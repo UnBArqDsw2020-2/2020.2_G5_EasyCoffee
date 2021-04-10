@@ -2,11 +2,11 @@
 
 ## Interpreter
 
-É um padrão que fornece uma linguagem de script que permite que usuários finais personalizem sua solução. É utilizado em aplicações complexas, que exigem configurações avançadas. Desse modo, esse padrão fornece a possibilidade de manipulação da aplicação, pelo usuário final, com uma linguagem de script básica. 
+<p align="justify">É um padrão que fornece uma linguagem de script que permite que usuários finais personalizem sua solução. É utilizado em aplicações complexas, que exigem configurações avançadas. Desse modo, esse padrão fornece a possibilidade de manipulação da aplicação, pelo usuário final, com uma linguagem de script básica. </p>
 
 ### Uso no projeto e justificativa
 
-Não foi encontrado nenhum elemento no projeto em que o padrão interpreter fosse aplicável. Mas é interessante ressaltar que caso seja necessário utilizar esse padrão em algum projeto que utilize JavaScript, o ideal seria utilizar um gerador de código como o [ANTLR](https://www.antlr.org/tools.html), que permite a construção de seu próprio interpretador de comandos, baseado na gramática informada.
+<p align="justify">Não foi encontrado nenhum elemento no projeto em que o padrão interpreter fosse aplicável. Mas é interessante ressaltar que caso seja necessário utilizar esse padrão em algum projeto que utilize JavaScript, o ideal seria utilizar um gerador de código como o [ANTLR](https://www.antlr.org/tools.html), que permite a construção de seu próprio interpretador de comandos, baseado na gramática informada.</p>
 
 ## Template Method
 
@@ -31,6 +31,8 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 <p align="justify">As funções middleware podem executar qualquer código, fazer mudanças nos objetos de solicitação e resposta, encerrar o ciclo de solicitação-resposta e chamar o próximo middleware na fila. </p>
 
 ![alt](../img/gofs/MiddlewareVerifySignUp.png)
+
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/middlewares/verifySignUp.js)
     
 <p align="justify">No nosso projeto, foi feito o uso de middleware na autenticação do usuário, para assegurar que só terá acesso a determinadas funcionalidades do site o usuário que possuir conta em nosso sistema e estiver devidamente logado. </p>
 
@@ -50,20 +52,17 @@ Não foi encontrado nenhum elemento no projeto em que o padrão interpreter foss
 <p align="justify">É um padrão que possibilita percorrer uma coleção de objetos, sem que o encapsulamento dos mesmos seja violado.</p>
 
 ![alt text](../img/padroes_de_projeto/iterator.png) <br>
+Disponível em: https://refactoring.guru/design-patterns/iterator
 
+### Uso no projeto e justificativa
 
 <p align="justify">O padrão iterator foi utilizado no código abaixo por exemplo, onde é requisitado uma lista de objetos do banco de dados e eles são iterados ao serem enviados para o backend.</p>
 
 ![alt text](../img/gofs/find_all.png) <br>
 *Trecho de código mostrando uma iteração.* 
 
-Disponível em: https://refactoring.guru/design-patterns/iterator
-
 [Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/controllers/productController.js)
 
-### Uso no projeto e justificativa
-
-<p align="justify">Como já citado acima foi utilizado um iterator no código onde é requisitada uma lista de objetos do banco de dados e eles são iterados ao serem enviados para o backend.</p>
 
 ## Mediator
 
@@ -74,7 +73,7 @@ Disponível em: https://refactoring.guru/design-patterns/iterator
 
 ### Uso no projeto e justificativa
 
-<p align="justify">Não encontramos um aspecto do projeto que contemple esse padrão de projeto, mas ao longo do desenvolvimento quando surgirem dependencias ele vai ser bastante utilizado.</p>
+<p align="justify">Não encontramos um aspecto do projeto que contemple esse padrão de projeto, mas ao longo do desenvolvimento quando surgirem dependências ele poderá ser bastante utilizado.</p>
 
 ## Memento
 
@@ -139,4 +138,5 @@ Não usamos no projeto para essa entrega. Mas nas próximas sprints, será estud
 |08/04/2021|1.8|Adiciona resumo sobre observer|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |08/04/2021|1.9|Adiciona código exemplo do Chain of Responsibility|[Danilo Domingo](https://github.com/danilow200)|
 |09/04/2021|1.10|Adiciona imagens explicativas sobre os gofs comportamentais|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
-|08/04/2021|1.11|Adiciona justificativas de uso no projeto|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|09/04/2021|1.11|Adiciona justificativas de uso no projeto|[Gustavo Afonso](https://github.com/GustavoAPS)|
+|09/04/2021|1.12|Revisão do documento|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|

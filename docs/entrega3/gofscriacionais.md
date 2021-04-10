@@ -43,6 +43,11 @@ Define uma interface para criar todos os produtos distintos, mas deixa a criaç�
 ![alt text](../img/gofs/indexjs.png) <br>
 [Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/index.js)
 
+<p align="justify">Outro uso encontrado no nosso projeto está no banco de dados que é único. </p>
+
+![alt text](../img/gofs/banco.png) <br>
+[Link para o código](https://github.com/UnBArqDsw2020-2/2020.2_G5_EasyCoffee_Backend/blob/dev/src/database/index.js)
+
 ## Prototype
 <p align="justify">O padrão Prototype faz a criação de novos objetos, mas ao invés de criar objetos com valores não inicializados, ele cria objetos através da cópia dos valores de um protótipo.</p>
 
@@ -79,4 +84,5 @@ Define uma interface para criar todos os produtos distintos, mas deixa a criaç�
 |09/04/2021|1.4|Adiciona como foi aplicado o padrão Prototype|[Rafael Ribeiro](https://github.com/rafaelflarrn), [Iago Theóphilo](https://github.com/iagotheophilo), [Itallo Gravina](https://github.com/itallogravina)|
 |09/04/2021|1.5|Adiciona justificativa do padrão prototype|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 |09/04/2021|1.5|Adiciona justificativa dos padrões de projeto Factory Method, Abstract Factory, |[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|09/04/2021|1.6|Adiciona código banco de dados|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
 
