@@ -28,3 +28,4 @@ Tutorial Diagrama de Classes. Disponível em: https://creately.com/blog/pt/diagr
 |:----:|:------:|:---------:|:---------:|
 |24/02/2021|0.1|Criação do diagrama de classes|[Itallo Gravina](https://github.com/itallogravina)|
 |08/03/2021|1.0|Melhoria no diagrama de classes|[Danilo Domingo](https://github.com/danilow200), [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS)|
+|09/04/2021|2.0|Melhoria no diagrama de classes|[Rafael Ribeiro](https://github.com/rafaelflarrn)|
