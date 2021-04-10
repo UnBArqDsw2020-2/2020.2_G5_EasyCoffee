@@ -45,17 +45,20 @@
         - 2.1.3 Modelagem Ágil
             - [Product Backlog](/entrega2/backlog_entrega2.md)
             - [Iniciativas Extras](/entrega2/iniciativas_extras_entrega2.md)
-            
-- Atas de reunião
-    - [Reunião - 22/02](/atas/ata_de_reuniao_22_02.md)
-    - [Reunião - 04/03](/atas/ata_de_reuniao_04_03.md)
 
-- Sprint
-    - [Sprint 0 - Planning](/sprints/sprint0_planning.md)
-    - [Sprint 0 - Review/Retrospective](/sprints/sprint0_review_retrospective.md)
-    - [Sprint 1 - Planning](/sprints/sprint1_planning.md)
-    - [Sprint 1 - Review/Retrospective](/sprints/sprint1_review_retrospective.md)
-    - [Sprint 2 - Planning](/sprints/sprint2_planning.md)
-    
+- 3 Padrões de Projeto
+    - 3.1 GRASPS - General Responsibility Assignment Software Patterns
+        - [GRASPS](/entrega3/grasps.md)
+    - 3.2 GoFs - Gang of Four Desing Patterns
+        - [GoFs](/entrega3/gofs.md)
+        - [GoFs Criacionais](/entrega3/gofscriacionais.md)
+        - [GoFs Estruturais](/entrega3/gofsestruturais.md)
+        - [GoFs Comportamentais](/entrega3/gofscomportamentais.md)
+    - 3.3 Padrões de Projeto Extras
+        - [Revealing Module Pattern](/entrega3/padraoemergente.md)
+    - [Iniciativas Extras](/entrega3/iniciativas_extras_entrega3.md)            
+
+- [Atas de reunião](/atas/atas_de_reunioes.md)
+- [Sprints](/sprints/sprints.md)
 - [Treinamento](/entrega2/treinamento.md)
            
