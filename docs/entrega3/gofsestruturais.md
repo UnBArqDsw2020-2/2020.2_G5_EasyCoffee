@@ -20,7 +20,13 @@ Há duas variantes do Adapter: Object Adapter que depende da composição e a Cl
 
 ## Decorator
 
+O padrão Decorator permite estender um objeto dinamicamente em tempo de execução sem alterar a sua interface. A habilidade de adicionar um novo comportamento ao objeto é possível através de um objeto decorador que 'embrulha' a si mesmo em torno do objeto original. Dessa maneira, é possível adicionar novas funcionalidades ao objeto sem alterar a estrutura de sua classe, por exemplo.
+
 ### Uso no projeto e justificativa
+
+![alt](../img/gofs/ClassUserDecorator.png)
+
+Nesse projeto, é necessária a criação de conta de usuário para acessar determinadas áreas do site. Entretanto, os dados devem ser formatados antes de enviar para o backend processar. A classe de usuário tem o propósito de apenas agrupar os dados e permitir a sua criação não sendo sensato delegar a esta a funcionaliadade de formatação dos dados antes de seu envio ao backend. Logo, criou-se um decorador que adiciona, ao objeto gerado pela classe, a funcionalidade de formatação.
 
 ## Facade
 <p align="justify">É um padrão que oculta a complexidade de uma ou mais classes por meio de uma facade (fachada), com o objetivo de simplificar uma interface e o acesso a mesma. Uma definição mais oficial do padrão facade é “O Padrão Facade fornece uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface de nível mais alto que facilita a utilização do subsistema”.</p>
