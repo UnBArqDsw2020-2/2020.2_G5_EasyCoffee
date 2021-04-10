@@ -46,18 +46,21 @@ O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem
 [Vídeo 3](https://www.youtube.com/watch?v=oxgikbByJzM)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+
+![alt text](docs/img/GRASPs.png)
+![alt text](docs/img/gofs.png)
+![alt text](docs/img/emergentes.png)
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
 ### Easy Coffee | Padrões de Projeto GRASPs
-[Vídeo 1]()
+[Vídeo 1](https://youtu.be/J8qDV41bfK8)
 
 ### Easy Coffee | Padrões de Projeto GoFs
-[Vídeo 2]()
+[Vídeo 2](https://youtu.be/usT-LnDHDm4)
 
 ### Easy Coffee | Padrões de Projeto Extras
-[Vídeo 3]()
+[Vídeo 3](https://youtu.be/-TGA5ZZ64T4)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
