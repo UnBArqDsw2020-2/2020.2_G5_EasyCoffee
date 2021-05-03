@@ -10,11 +10,13 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
-* **API**: É um acrônimo para Application Programming Interface(interface de programação de aplicações). A API é um conjunto de definições e protocolos usado no desenvolvimento e na integração de software de aplicações, permitindo que um serviço interaja com outros produtos e serviçoes sem a necessidade de saber como eles foram implementados.
-* **DB**: É um acrônimo para database(banco de dados), local onde persistem os dados que devem ser salvos pela aplicação.
+* **API**: É um acrônimo para Application Programming Interface(Interface de Programação de Aplicações). A API é um conjunto de definições e protocolos usado no desenvolvimento e na integração de software de aplicações, permitindo que um serviço interaja com outros produtos e serviços sem a necessidade de saber como eles foram implementados.
+* **AWS**: É um acrônimo para Amazon Web Services. O AWS é uma plataforma de serviços de computação em nuvem.
+* **DB**: É um acrônimo para database(Banco de Dados), local onde persistem os dados que devem ser salvos pela aplicação.
+* **HTML**: É um acrônimo para HyperText Markup Language(Linguagem de Marcação de Hipertexto). O HTML é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web.
 * **HTTP**: É um acrônimo para Hypertext Transfer Protocol(Protocolo de Transferência de Hipertexto). O HTTP é um protocolo que permite a obtenção de recursos, como documentos HTML.
-* **REST**: É um acrônimo para Representational State Transfer(transferência representacional de estado). O REST é um conjunto de princípios de arquitetura. Os desenvolvedores podem implementar a arquitetura REST de maneiras variadas.
-* **UML**: É um acrônimo para Unified Modeling Language(linguagem de modelagem unificada). O UML é uma linguagem utilizada para visualizar, especificar, construir e documentar a arquitetura completa de um software, fornecendo informações necessárias para que o desenvolvedor implemente o software.
+* **REST**: É um acrônimo para Representational State Transfer(Transferência Representacional de Estado). O REST é um conjunto de princípios de arquitetura. Os desenvolvedores podem implementar a arquitetura REST de maneiras variadas.
+* **UML**: É um acrônimo para Unified Modeling Language(Linguagem de Modelagem Unificada). O UML é uma linguagem utilizada para visualizar, especificar, construir e documentar a arquitetura completa de um software, fornecendo informações necessárias para que o desenvolvedor implemente o software.
 
 #### **1.4. Referências Bibliográficas**
 
@@ -22,13 +24,13 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
 **O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML.** Disponível: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acesso em: 03 de maio de 2021.
 
-https://pt-br.reactjs.org/
+**ReactJS** Disponível em: https://pt-br.reactjs.org/ Acesso em: 03 de maio de 2021.
 
-https://expressjs.com/pt-br/
+**Express** Disponível em: https://expressjs.com/pt-br/ Acesso em: 03 de maio de 2021.
+**Node.JS** Disponível em: https://nodejs.org/en/about/ Acesso em: 03 de maio de 2021.
+**MongoDB** Disponível em: https://www.mongodb.com/ Acesso em: 03 de maio de 2021.
 
-https://nodejs.org/en/about/
 
-https://www.mongodb.com/
 
 #### **1.5. Visão Geral**
 O documento de arquitetura está organizado em tópicos da seguinte maneira:                          
@@ -48,16 +50,18 @@ O documento de arquitetura está organizado em tópicos da seguinte maneira:
 
 ### Tecnologias
 
-* **Frontend:**
+* **Frontend**
+ 
+ * **React**: O React é um conjunto de bibliotecas open source voltados para a criação de UIs interativas de forma mais fácil. Toda a lógica do React é escrita em JavaScript, facilitando a passagem de dados ao longo da aplicação. Essa tecnologia foi escolhida por conta da quantidade de conteúdo disponível na internet, facilitando o treinamento e aprendizado da equipe. Outro fator importante é a comunidade, que está sempre ativa para ajudar em possíveis dúvidas.
+ 
+* **Backend**
 
-  * **React**: O React é um conjunto de bibliotecas open source voltados para a criação de UIs interativas de forma mais fácil. Toda a lógida do React é escrita em JavaScript, facilitando a passagem de dados ao longo da aplicação. Essa tecnologia foi escolhida por conta da quantidade de conteúdo disponível na internet, facilitando o treinamento e aprendizado da esquipe. Outro fator importante é a comunidade, que está sempre ativa para ajudar em possíveis dúvidas.
-
-* **Backend:**
-  
   * **Express**: O Express é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel. Ele é o principal bloco de construção de aplicações web com JavaScript e Node.JS.
-  * **Node.JS**: O Node.JS é uma tecnologia usada para executar código JavaScript fora do navegador. Com ele podemos construir aplicações web em geral, desde web sites até APIs e microsserviços. Isso é possível graças a união do ambiente de execução de JavaScript fornecido pelo próprio Node.js e o motor de interpretação e execução de JavaScript presente no Google Chrome, chamado de V8.
-  * **MongoDB**: O MongoDB é um software de banco de dados open source. Ele segue o modelo de banco de dados orientado a documentos, também chamado de bancos de dados **NoSQL**. É um dos bancos mais populares, possuindo uma comunidade ativa.
-
+ * **Node.JS**: O Node.JS é uma tecnologia usada para executar código JavaScript fora do navegador. Com ele podemos construir aplicações web em geral, desde websites até APIs e microsserviços. Isso é possível graças à união do ambiente de execução de JavaScript fornecido pelo próprio Node.js e o motor de interpretação e execução de JavaScript presente no Google Chrome, chamado de V8.
+ * **MongoDB**: O MongoDB é um software de banco de dados open source. Ele segue o modelo de banco de dados orientado a documentos, também chamado de bancos de dados **NoSQL**. É um dos bancos mais populares, possuindo uma comunidade ativa.
+ 
+* **Outros**
+  * **Docker**: O Docker é uma tecnologia open source que permite aos desenvolvedores empacotar, entregar e executar aplicações em containers leves e autossuficientes. Contém uma comunidade que sempre está trabalhando para melhorar essa tecnologia.
 ## 3. Metas e Restrições da Arquitetura
 
 #### **3.1 - Restrições**
@@ -162,6 +166,8 @@ Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 
 ## 7. Visão de Deploy
 
+  Descreve como a aplicação é disponibilizada para uso, seja em um ambiente de desenvolvimento, para testes ou em produção. A nossa escolha de ferramenta ideal para o projeto seria o AWS CodeDeploy, um serviço que automatiza implantações de códigos na AWS ou em servidores locais para implantar código em máquinas virtuais que podem ser criadas e gerenciadas com o Amazon EC2.
+
 
 ## 8. Visão de Implementação
 Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação. Esta visão é opcional quando do uso das Visões 4+1.
@@ -211,3 +217,8 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |03/05/2021|1.4|Adiciona Escopo| [Gustavo Afonso](https://github.com/GustavoAPS)|
 |03/05/2021|1.4|Adiciona Visão Geral| [Gustavo Afonso](https://github.com/GustavoAPS)|
 |03/05/2021|1.5|Adiciona Referências bibliográficas|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
+|03/05/2021|1.6|Adiciona Acrônimos| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|03/05/2021|1.6|Adiciona Representação Arquitetural| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|03/05/2021|1.6|Adiciona Visão de Deploy| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+
+
