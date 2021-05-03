@@ -56,6 +56,20 @@ Como é utilizado em toda a aplicação uma base na chamada da api, o grupo dese
 ## Back-end
 
 
+### Conexão com o MongoDB
+
+  Esse código é reutilizavel pois ele permite fazer a conexão com o banco de dados em qualquer lugar da aplicação.
+
+
+![alt text](./img/mongo.png)
+
+### Autenticação
+
+  O código é reutilizado pois permite fazer a sua utilização caso precise. Foi utilizado no código para facilar a verificação da autenticidade do usuário ao tentar fazer alguns requisições no banco de dados.
+
+![alt text](./img/auth.png)
+![alt text](./img/authEx.png)
+
 ## Frameworks
 
 #### Express
@@ -98,3 +112,4 @@ Como é utilizado em toda a aplicação uma base na chamada da api, o grupo dese
 |02/05/2021|1.0| Introdução  | [Iago Theóphilo](https://github.com/iagotheophilo) |
 |03/05/2021|1.0| Biblioteca, Ferramenta eMiddlewares | [Itallo Gravina](https://github.com/iitallogravina) |
 |03/05/2021|1.0| Front-end | [Iago Theóphilo](https://github.com/iagotheophilo) |
+|03/05/2021|1.0| Back-end | [Iago Theóphilo](https://github.com/iagotheophilo) |
