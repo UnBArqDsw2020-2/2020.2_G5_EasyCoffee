@@ -6,18 +6,36 @@
 Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema.
 
 #### **1.2. Escopo**
+Esse documento serve de guia para outros tópicos da construção arquitetural do software, abordando os principais pontos desenvolvidos na arquitetura do projeto, a partir desse breve resumo de cada tópico é possível se orientar com relação a outros documentos da arquitetura desenvolvidos no projeto, onde é possível ter uma visão detalhada de cada tema. 
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
+
 #### **1.4. Referências Bibliográficas**
 
-#### **1.5. Visão Geral**
+**Arquitetura de Software.** Disponível em: http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf. Acesso em: 30 de abril de 2021.
 
-## 2. Representação Arquitetural
+**O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML.** Disponível: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acesso em: 03 de maio de 2021.
+
+#### **1.5. Visão Geral**
+O documento de arquitetura está organizado em tópicos da seguinte maneira:                          
+
+  1. Introdução.                              
+  2. Escopo.                                      
+  3. Metas e Restrições de Arquitetura.                           
+  4. Visão dos Casos de Uso.                                   
+  5. Visão Lógica.                                 
+  6. Visão de Processos.                             
+  7. Visão de Deploy.                                   
+  8. Visão de Implementação.                                      
+  9. Tamanho e Desempenho.                                   
+  10. Qualidade.                              
+
+## 2. Representação Arquitetural 
 
 ## 3. Metas e Restrições da Arquitetura
 
-#### 3.1 - Restrições**
+#### **3.1 - Restrições**
 
 -   O  _software_  deve ser desenvolvido nas tecnologias definidas;
 -   O  _software_  deve rodar nos navegadores: Web Firefox e Google Chrome;
@@ -165,3 +183,6 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |02/05/2021|1.3|Adiciona Visão Lógica|[Danilo Domingo](https://github.com/danilow200)|
 |02/05/2021|1.3|Adiciona Visão Lógica Metas e Restrições da Arquitetura|[itallo gravina](https://github.com/itallogravina)|
 |03/05/2021|1.4|Adiciona Casos de Uso|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS)|
+|03/05/2021|1.4|Adiciona Escopo| [Gustavo Afonso](https://github.com/GustavoAPS)|
+|03/05/2021|1.4|Adiciona Visão Geral| [Gustavo Afonso](https://github.com/GustavoAPS)|
+|03/05/2021|1.5|Adiciona Referências bibliográficas|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
