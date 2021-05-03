@@ -200,7 +200,15 @@ Feito por: [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)
 
 
 ## 8. Visão de Implementação
-Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação. Esta visão é opcional quando do uso das Visões 4+1.
+#### **8.1 Visão Geral**
+
+   Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação. Esta visão é opcional quando do uso das Visões 4+1.
+
+#### **8.2 Diagrama de Classes**
+
+   O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.
+
+![alt text](../img/diagrama_classe/Diagrma_de_Classev3.png)
 
 ## 9. Visão de Dados
 Essa visão é utilizada em projetos onde existe alguma camada de persistência, geralmente, um banco de dados relacional. É uma visão geral dos dados persistentes, por meio dessa objetos são mapeados dados persistentes. Essa visão é visualizada com o Modelo Entidade Relacionamento, no caso de banco de dados relacionais.
