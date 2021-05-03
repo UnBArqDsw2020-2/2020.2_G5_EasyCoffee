@@ -6,6 +6,7 @@
 Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema.
 
 #### **1.2. Escopo**
+Esse documento serve de guia para outros tópicos da construção arquitetural do software, abordando os principais pontos desenvolvidos na arquitetura do projeto, a partir desse breve resumo de cada tópico é possível se orientar com relação a outros documentos da arquitetura desenvolvidos no projeto, onde é possível ter uma visão detalhada de cada tema. 
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
@@ -13,7 +14,7 @@ Este documento oferece uma visão geral arquitetural abrangente do sistema, usan
 
 #### **1.5. Visão Geral**
 
-## 2. Representação Arquitetural
+## 2. Representação Arquitetural 
 
 ## 3. Metas e Restrições da Arquitetura
 
@@ -165,3 +166,4 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |02/05/2021|1.3|Adiciona Visão Lógica|[Danilo Domingo](https://github.com/danilow200)|
 |02/05/2021|1.3|Adiciona Visão Lógica Metas e Restrições da Arquitetura|[itallo gravina](https://github.com/itallogravina)|
 |03/05/2021|1.4|Adiciona Casos de Uso|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS)|
+|03/05/2021|1.4|Adiciona Escopo| [Gustavo Afonso](https://github.com/GustavoAPS)|
