@@ -1,16 +1,36 @@
 # Documento de Arquitetura de Software
 
 ## 1. Introdução
+#### [**1.1. Finalidade**]()
+Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema.
+1.2. Escopo
+#### [**1.2. Escopo**]()
 
 ## 2. Representação Arquitetural
 
-## 3. Metas e Restrições da Arquitetura
 
+## 3. Metas e Restrições da Arquitetura
+#### [**3.1 - Restrições**]()
+
+-   O  _software_  deve ser desenvolvido nas tecnologias definidas ;
+-   O  _software_  deve rodar tanto em qualquer navegador;
+-   O ambiente de desenvolvimento do  _software_  deve funcionar tanto em Windows, Linux e MacOS;
+-   Para utilizar o  _software_  é necessário ter internet;
+-   O escopo do projeto deve ser concluído até o final da disciplina.
+
+#### [**3.2 - Metas**]()
+
+As metas planejadas para o aplicativo são:
+
+-   **Portabilidade**  – Deve ser possível utilizar a plataforma em qualquer navegador web.
+-   **Usabilidade**  - O  _software_  deve possuir alta aprendibilidade e inteligibilidade, para que atenda aos requisitos elicitados no formulário criado pelo grupo;
+-   **Manutenibilidade –**  O código e as documentações realizadas pelo grupo devem estar num nível de qualidade, seguindo os padrões de projeto e bibliografia, onde a sua manutenção seja fácil de ser realizada.
 ## 4. Visão de Casos de Uso
+Para representação dos Casos de Uso do sistema especificado, foram criados três diagramas referentes a módulos distintos da aplicação web
 
 ## 5. Visão Lógica
 
-A Visão Lógica descreve as partes significativas de ponto de vista da arquitetura do modelo de desing, mostrando comos está organizado o conceitual do sistema em termos de camadas, pacotes, classe e interfaces.
+A visão lógica descreve como o sistema é estruturado, em termos de unidade e implementação. Mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamento parte-todo e assim por diante.
 
 ### 5.1 Diagrama de Classes
 
@@ -49,9 +69,9 @@ Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 
 Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 ## 6. Visão de Processos
-
+  Descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação.
 ## 7. Visão de Implementação
-
+Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação. Esta visão é opcional quando do uso das Visões 4+1.
 ## 8. Tamanho e Desempenho
 
 ### 8.1 Visão Geral
