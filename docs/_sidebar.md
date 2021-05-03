@@ -57,13 +57,10 @@
     - 3.3 Padrões de Projeto Extras
         - [Padrão Emergente](/entrega3/padraoemergente.md)
     - [Iniciativas Extras](/entrega3/iniciativas_extras_entrega3.md) 
-- 4 Arquitetura de Software & Reutilização
-    - 4.1 Módulo Estilos e Padrões Arquiteturais
-    - 4.2 Módulo Reutilização de Software 
-        - [Reutilização de Software](/entrega4/reutilizacao_de_software.md)           
 
 - 4 Arquiteura de Software & Reutilização de Software
   - [Documento de Arquitetura](/entrega4/das.md)
+  - [Reutilização de Software](/entrega4/reutilizacao_de_software.md)           
 
 - [Atas de reunião](/atas/atas_de_reunioes.md)
 - [Sprints](/sprints/sprints.md)
