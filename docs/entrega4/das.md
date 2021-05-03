@@ -10,6 +10,12 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
+* **API**: É um acrônimo para Application Programming Interface(interface de programação de aplicações). A API é um conjunto de definições e protocolos usado no desenvolvimento e na integração de software de aplicações, permitindo que um serviço interaja com outros produtos e serviçoes sem a necessidade de saber como eles foram implementados.
+* **DB**: É um acrônimo para database(banco de dados), local onde persistem os dados que devem ser salvos pela aplicação.
+* **HTTP**: É um acrônimo para Hypertext Transfer Protocol(Protocolo de Transferência de Hipertexto). O HTTP é um protocolo que permite a obtenção de recursos, como documentos HTML.
+* **REST**: É um acrônimo para Representational State Transfer(transferência representacional de estado). O REST é um conjunto de princípios de arquitetura. Os desenvolvedores podem implementar a arquitetura REST de maneiras variadas.
+* **UML**: É um acrônimo para Unified Modeling Language(linguagem de modelagem unificada). O UML é uma linguagem utilizada para visualizar, especificar, construir e documentar a arquitetura completa de um software, fornecendo informações necessárias para que o desenvolvedor implemente o software.
+
 #### **1.4. Referências Bibliográficas**
 
 **Arquitetura de Software.** Disponível em: http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf. Acesso em: 30 de abril de 2021.
