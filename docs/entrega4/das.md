@@ -162,7 +162,37 @@ Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 
 Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 ## 6. Visão de Processos
+### 6.1 Visão Geral
   Descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação.
+
+### 6.2 Diagrama de Sequência
+  O diagrama de sequência é uma das soluções fornecidas pela UML, que descreve dinamicamente o ciclo de vida do sistema em desenvolvimento. Descrição detalhada. O foco principal deste diagrama é descrever as interações entre os componentes do sistema, processos e módulos que existem ao mesmo tempo de uma determinada maneira e trocam mensagens entre si. Os ciclos de vida podem ser classes, atores ou até mesmo abstrações que ocorrem entre as classes.
+
+## 6.2.1 Diagrama de Sequência Manter cliente
+
+![alt text](../img/uml/Diagrama_sequencia_manter_cliente.png)
+
+Feito por: [Gustavo Afonso](https://github.com/GustavoAPS)
+
+## 6.2.2 Diagrama de Sequência Compras Cliente
+
+![alt text](../img/uml/Diagrama_sequencia_compras_cliente.png)
+
+Feito por: [Gustavo Afonso](https://github.com/GustavoAPS)
+
+
+## 6.2.3 Diagrama de Sequência Manter Glossário
+
+![alt text](../img/uml/Diagrama_sequencia_administrador_manter_glossario.png)
+
+Feito por: [Danilo Domingo](https://github.com/danilow200)
+
+##  6.2.4 Diagrama de Sequência Manter Produto
+
+![alt text](../img/uml/Diagrama_sequencia_administrador_manter_produto.png)
+
+Feito por: [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)
+
 
 ## 7. Visão de Deploy
 
@@ -171,6 +201,10 @@ Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 
 ## 8. Visão de Implementação
 Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação. Esta visão é opcional quando do uso das Visões 4+1.
+
+
+
+
 
 ## 9. Tamanho e Desempenho
 
@@ -220,5 +254,6 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |03/05/2021|1.6|Adiciona Acrônimos| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |03/05/2021|1.6|Adiciona Representação Arquitetural| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |03/05/2021|1.6|Adiciona Visão de Deploy| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|03/05/2021|1.6|Adiciona Visão de Processos| [Iago Theóphilo](https://github.com/iagotheophilo)|
 
 
