@@ -172,23 +172,29 @@ Autor: [Rafael Ribeiro](https://github.com/rafaelflarrn)
 ## 8. Visão de Implementação
 Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação. Esta visão é opcional quando do uso das Visões 4+1.
 
-## 9. Tamanho e Desempenho
+## 9. Visão de Dados
+Essa visão é utilizada em projetos onde existe alguma camada de persistência, geralmente, um banco de dados relacional. É uma visão geral dos dados persistentes, por meio dessa objetos são mapeados dados persistentes. Essa visão é visualizada com o Modelo Entidade Relacionamento, no caso de banco de dados relacionais.
+No presente projeto foi utilizado o banco de dados MongoDB. Diferente da grande maioria, esse é orientado a documentos e possui uma representação mais simples por meio de notação semelhante a JSON. Os objetos são mapeados da camada Model para a camada persistente, o banco de dados.
 
-### 9.1 Visão Geral
+![alt text](./img/bancoDeDadosRepresentacao.png)
+
+## 10. Tamanho e Desempenho
+
+### 10.1 Visão Geral
 
 Discrição do desempenho e das características do software que impactam na arquitetura de software.
 
-### 9.2 Requisitos Mínimos
+### 10.2 Requisitos Mínimos
 
 - É necessário possuir conexão com a internet;
 - Navegador com suporte a HTML 5, CSS e JavaScript;
 - Para desenvolvimento de possuir: Windows, Linux ou MacOS;
 
-## 10. Qualidade
+## 11. Qualidade
 
 Qualidade de software tem como objetivo atingir requisitos especificados durante a elaboração do projeto, e as necessidades ou expectativas de usuários e clientes, esntando relacionado diretamente com: escalabilidade, manutebilidade, confiabilidade, usuabilidade e assim por diante.
 
-### 9.1 NFR
+### 11.1 NFR
 
 O NFR é utilziado para rastrear os requisistos não funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão, para o projeto foi criado 5 NFRs, que pode ser incontrado na parte de [Requisistos Não Funcionais](../entrega1/requisitos_nao_funcionais.md) da documentação do projeto, para que o documento não fiquei poluido será apresentando apenas o NFR de desempenho.
 
@@ -203,6 +209,8 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 ![alt text](../entrega1/img/NFR/diagrama_desempenho(propagacao).jpg)
 
 Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](https://github.com/itallogravina) e [Maicon Mares](https://github.com/MaiconMares)
+
+
 
 ## Versionamento
 
@@ -220,5 +228,6 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |03/05/2021|1.6|Adiciona Acrônimos| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |03/05/2021|1.6|Adiciona Representação Arquitetural| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
 |03/05/2021|1.6|Adiciona Visão de Deploy| [Rafael Ribeiro](https://github.com/rafaelflarrn)|
+|03/05/2021|1.7|Adiciona Visão de Dados| [Maicon Mares](https://github.com/MaiconMares)|
 
 
