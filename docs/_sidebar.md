@@ -62,6 +62,9 @@
     - 4.2 Módulo Reutilização de Software 
         - [Reutilização de Software](/entrega4/reutilizacao_de_software.md)           
 
+- 4 Arquiteura de Software & Reutilização de Software
+  - [Documento de Arquitetura](/entrega4/das.md)
+
 - [Atas de reunião](/atas/atas_de_reunioes.md)
 - [Sprints](/sprints/sprints.md)
 - [Treinamento](/entrega2/treinamento.md)
