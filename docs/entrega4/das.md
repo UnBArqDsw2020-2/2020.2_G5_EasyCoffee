@@ -112,3 +112,4 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |02/05/2021|1.1|Adiciona tamanho e desempenho|[Danilo Domingo](https://github.com/danilow200)|
 |02/05/2021|1.2|Adiciona qualidade|[Danilo Domingo](https://github.com/danilow200)|
 |02/05/2021|1.3|Adiciona Visão Lógica|[Danilo Domingo](https://github.com/danilow200)|
+|02/05/2021|1.3|Adiciona Visão Lógica Metas e Restrições da Arquitetura|[itallo gravina](https://github.com/itallogravina)|
