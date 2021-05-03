@@ -13,6 +13,17 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 #### **1.4. Referências Bibliográficas**
 
 #### **1.5. Visão Geral**
+O documento de arquitetura está organizado em tópicos da seguinte maneira:                                                            
+1.Introdução.                              
+2.Escopo.                                      
+3.Metas e Restrições de Arquitetura.                           
+4.Visão dos Casos de Uso.                                   
+5.Visão Lógica.                                 
+6.Visão de Processos.                             
+7.Visão de Deploy.                                   
+8.Visão de Implementação.                                      
+9.Tamanho e Desempenho.                                   
+10.Qualidade.                              
 
 ## 2. Representação Arquitetural 
 
@@ -167,3 +178,4 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |02/05/2021|1.3|Adiciona Visão Lógica Metas e Restrições da Arquitetura|[itallo gravina](https://github.com/itallogravina)|
 |03/05/2021|1.4|Adiciona Casos de Uso|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS)|
 |03/05/2021|1.4|Adiciona Escopo| [Gustavo Afonso](https://github.com/GustavoAPS)|
+|03/05/2021|1.4|Adiciona Visão Geral| [Gustavo Afonso](https://github.com/GustavoAPS)|
