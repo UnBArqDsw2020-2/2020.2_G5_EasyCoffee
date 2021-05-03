@@ -10,12 +10,19 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
-
 #### **1.4. Referências Bibliográficas**
 
 **Arquitetura de Software.** Disponível em: http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf. Acesso em: 30 de abril de 2021.
 
 **O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML.** Disponível: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acesso em: 03 de maio de 2021.
+
+https://pt-br.reactjs.org/
+
+https://expressjs.com/pt-br/
+
+https://nodejs.org/en/about/
+
+https://www.mongodb.com/
 
 #### **1.5. Visão Geral**
 O documento de arquitetura está organizado em tópicos da seguinte maneira:                          
@@ -32,6 +39,18 @@ O documento de arquitetura está organizado em tópicos da seguinte maneira:
   10. Qualidade.                              
 
 ## 2. Representação Arquitetural 
+
+### Tecnologias
+
+* **Frontend:**
+
+  * **React**: O React é um conjunto de bibliotecas open source voltados para a criação de UIs interativas de forma mais fácil. Toda a lógida do React é escrita em JavaScript, facilitando a passagem de dados ao longo da aplicação. Essa tecnologia foi escolhida por conta da quantidade de conteúdo disponível na internet, facilitando o treinamento e aprendizado da esquipe. Outro fator importante é a comunidade, que está sempre ativa para ajudar em possíveis dúvidas.
+
+* **Backend:**
+  
+  * **Express**: O Express é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel. Ele é o principal bloco de construção de aplicações web com JavaScript e Node.JS.
+  * **Node.JS**: O Node.JS é uma tecnologia usada para executar código JavaScript fora do navegador. Com ele podemos construir aplicações web em geral, desde web sites até APIs e microsserviços. Isso é possível graças a união do ambiente de execução de JavaScript fornecido pelo próprio Node.js e o motor de interpretação e execução de JavaScript presente no Google Chrome, chamado de V8.
+  * **MongoDB**: O MongoDB é um software de banco de dados open source. Ele segue o modelo de banco de dados orientado a documentos, também chamado de bancos de dados **NoSQL**. É um dos bancos mais populares, possuindo uma comunidade ativa.
 
 ## 3. Metas e Restrições da Arquitetura
 
