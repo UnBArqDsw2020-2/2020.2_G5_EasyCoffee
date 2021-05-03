@@ -10,26 +10,33 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
+-
+
 #### **1.4. Referências Bibliográficas**
 
+**Arquitetura de Software.** Disponível em: http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf. Acesso em: 30 de abril de 2021.
+
+**O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML.** Disponível: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acesso em: 03 de maio de 2021.
+
 #### **1.5. Visão Geral**
-O documento de arquitetura está organizado em tópicos da seguinte maneira:                                                            
-1.Introdução.                              
-2.Escopo.                                      
-3.Metas e Restrições de Arquitetura.                           
-4.Visão dos Casos de Uso.                                   
-5.Visão Lógica.                                 
-6.Visão de Processos.                             
-7.Visão de Deploy.                                   
-8.Visão de Implementação.                                      
-9.Tamanho e Desempenho.                                   
-10.Qualidade.                              
+O documento de arquitetura está organizado em tópicos da seguinte maneira:                          
+
+  1. Introdução.                              
+  2. Escopo.                                      
+  3. Metas e Restrições de Arquitetura.                           
+  4. Visão dos Casos de Uso.                                   
+  5. Visão Lógica.                                 
+  6. Visão de Processos.                             
+  7. Visão de Deploy.                                   
+  8. Visão de Implementação.                                      
+  9. Tamanho e Desempenho.                                   
+  10. Qualidade.                              
 
 ## 2. Representação Arquitetural 
 
 ## 3. Metas e Restrições da Arquitetura
 
-#### 3.1 - Restrições**
+#### **3.1 - Restrições**
 
 -   O  _software_  deve ser desenvolvido nas tecnologias definidas;
 -   O  _software_  deve rodar nos navegadores: Web Firefox e Google Chrome;
