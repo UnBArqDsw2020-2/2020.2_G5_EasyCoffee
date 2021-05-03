@@ -10,7 +10,6 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
 #### **1.3. Definições, Acrônimos e Abreviações**
 
--
 
 #### **1.4. Referências Bibliográficas**
 
@@ -186,3 +185,4 @@ Autores: [Iago Theóphilo](https://github.com/IagoTheophilo), [Itallo Gravina](h
 |03/05/2021|1.4|Adiciona Casos de Uso|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro), [Gustavo Afonso](https://github.com/GustavoAPS)|
 |03/05/2021|1.4|Adiciona Escopo| [Gustavo Afonso](https://github.com/GustavoAPS)|
 |03/05/2021|1.4|Adiciona Visão Geral| [Gustavo Afonso](https://github.com/GustavoAPS)|
+|03/05/2021|1.5|Adiciona Referências bibliográficas|[Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro)|
