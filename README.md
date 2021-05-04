@@ -63,10 +63,17 @@ O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem
 [Vídeo 3](https://youtu.be/-TGA5ZZ64T4)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+
+![alt text](docs/img/reu.png)
+
+![alt text](docs/img/arq.png)
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione o(s)s vídeo(s) da Entrega Final.
+## Módulo Estilos e Padrões Arquiteturais - DAS
+[Vídeo 1](https://www.youtube.com/watch?v=ufzEc6xAk8o)
+
+## Módulo Reutilização de Software
+[Vídeo 2](https://www.youtube.com/watch?v=WLzUZZjY4sQ)
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>

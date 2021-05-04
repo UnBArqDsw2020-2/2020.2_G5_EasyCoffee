@@ -24,6 +24,12 @@
 ## Padrões de Projeto Extras
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-TGA5ZZ64T4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Módulo Estilos e Padrões Arquiteturais - DAS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufzEc6xAk8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Módulo Reutilização de Software
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WLzUZZjY4sQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
@@ -31,4 +37,5 @@
 |19/02/2021|1.0|Módulo Projeto Não Orientado a Abordagens Específicas e Módulo Processos/Metodologias/Abordagens| [Iago Theóphilo](https://github.com/IagoTheophilo)|
 |08/03/2021|1.1| Notação UML – Diagramas Estáticos, Notação UML – Diagramas Dinâmicos, Modelagem Ágil Backlog  | [Iago Theóphilo](https://github.com/IagoTheophilo)|
 |09/04/2021|1.2| Padrões de Projeto GRASPs -  Padrões de Projeto GoFs -Padrões de Projeto Extras | [Iago Theóphilo](https://github.com/IagoTheophilo)|
+|03/05/2021|1.3| Módulo Estilos e Padrões Arquiteturais - DAS -  Módulo Reutilização de Software | [Iago Theóphilo](https://github.com/IagoTheophilo)|
 
