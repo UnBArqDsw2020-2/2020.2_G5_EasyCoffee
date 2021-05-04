@@ -76,14 +76,14 @@ O projeto consiste em um site de uma cafeteria, onde os donos da cafeteria podem
 [Vídeo 2](https://www.youtube.com/watch?v=WLzUZZjY4sQ)
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: SCRUM e XP<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: JavaScript<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: ReactJS e NodeJS <br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: MVC<br>
 
 ## O Projeto está rodando?
 ( ) SIM
-( ) NÃO
+(X) NÃO
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
 ## Informações Complementares 
